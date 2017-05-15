@@ -1,0 +1,121 @@
+{
+  "shiptypes": [
+    {
+      "name_ja": "海防艦",
+      "name": "DE",
+      "id": "1"
+    },
+    {
+      "name_ja": "駆逐艦",
+      "name": "DD",
+      "id": "2"
+    },
+    {
+      "name_ja": "軽巡洋艦",
+      "name": "CL",
+      "id": "3"
+    },
+    {
+      "name_ja": "重雷装巡洋艦",
+      "name": "CLT",
+      "id": "4"
+    },
+    {
+      "name_ja": "重巡洋艦",
+      "name": "CA",
+      "id": "5"
+    },
+    {
+      "name_ja": "航空巡洋艦",
+      "name": "CAV",
+      "id": "6"
+    },
+    {
+      "name_ja": "軽空母",
+      "name": "CVL",
+      "id": "7"
+    },
+    {
+      "name_ja": "戦艦",
+      "name": "BB",
+      "id": "9"
+    },
+    {
+      "name_ja": "戦艦",
+      "name": "Fast BB",
+      "id": "8"
+    },
+    {
+      "name_ja": "航空戦艦",
+      "name": "BBV",
+      "id": "10"
+    },
+    {
+      "name_ja": "正規空母",
+      "name": "CV",
+      "id": "11"
+    },
+    {
+      "name_ja": "超弩級戦艦",
+      "name": "B",
+      "id": "12"
+    },
+    {
+      "name_ja": "潜水艦",
+      "name": "SS",
+      "id": "13"
+    },
+    {
+      "name_ja": "潜水空母",
+      "name": "SSV",
+      "id": "14"
+    },
+    {
+      "name_ja": "補給艦",
+      "name": "AE",
+      "id": "15"
+    },
+    {
+      "name_ja": "水上機母艦",
+      "name": "AV",
+      "id": "16"
+    },
+    {
+      "name_ja": "揚陸艦",
+      "name": "LHA",
+      "id": "17"
+    },
+    {
+      "name_ja": "装甲空母",
+      "name": "CVB",
+      "id": "18"
+    },
+    {
+      "name_ja": "工作艦",
+      "name": "AR",
+      "id": "19"
+    },
+    {
+      "name_ja": "潜水母艦",
+      "name": "AS",
+      "id": "20"
+    },
+    {
+      "name_ja": "練習巡洋艦",
+      "name": "CLp",
+      "id": "21"
+    },
+    {
+      "name_ja": "補給艦",
+      "name": "AO",
+      "id": "22"
+    },
+    {
+      "name_ja": "不審船",
+      "name": "(sus)",
+      "id": "999"
+    }
+  ],
+  "version": "1",
+  "api_version": "1.0"
+}

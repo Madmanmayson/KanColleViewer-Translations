@@ -1,0 +1,2198 @@
+{
+  "version": "20",
+  "ships": [
+    {
+      "name_ja": "長門",
+      "name": "Nagato"
+    },
+    {
+      "name_ja": "長門改",
+      "name": "Nagato Kai"
+    },
+    {
+      "name_ja": "陸奥",
+      "name": "Mutsu"
+    },
+    {
+      "name_ja": "陸奥改",
+      "name": "Mutsu Kai"
+    },
+    {
+      "name_ja": "伊勢",
+      "name": "Ise"
+    },
+    {
+      "name_ja": "伊勢改",
+      "name": "Ise Kai"
+    },
+    {
+      "name_ja": "日向",
+      "name": "Hyuuga"
+    },
+    {
+      "name_ja": "日向改",
+      "name": "Hyuuga Kai"
+    },
+    {
+      "name_ja": "雪風",
+      "name": "Yukikaze"
+    },
+    {
+      "name_ja": "雪風改",
+      "name": "Yukikaze Kai"
+    },
+    {
+      "name_ja": "赤城",
+      "name": "Akagi"
+    },
+    {
+      "name_ja": "赤城改",
+      "name": "Akagi Kai"
+    },
+    {
+      "name_ja": "加賀",
+      "name": "Kaga"
+    },
+    {
+      "name_ja": "加賀改",
+      "name": "Kaga Kai"
+    },
+    {
+      "name_ja": "蒼龍",
+      "name": "Souryuu"
+    },
+    {
+      "name_ja": "蒼龍改",
+      "name": "Souryuu Kai"
+    },
+    {
+      "name_ja": "飛龍",
+      "name": "Hiryuu"
+    },
+    {
+      "name_ja": "飛龍改",
+      "name": "Hiryuu Kai"
+    },
+    {
+      "name_ja": "島風",
+      "name": "Shimakaze"
+    },
+    {
+      "name_ja": "島風改",
+      "name": "Shimakaze Kai"
+    },
+    {
+      "name_ja": "吹雪",
+      "name": "Fubuki"
+    },
+    {
+      "name_ja": "吹雪改",
+      "name": "Fubuki Kai"
+    },
+    {
+      "name_ja": "吹雪改二",
+      "name": "Fubuki Kai2"
+    },
+    {
+      "name_ja": "白雪",
+      "name": "Shirayuki"
+    },
+    {
+      "name_ja": "白雪改",
+      "name": "Shirayuki Kai"
+    },
+    {
+      "name_ja": "初雪",
+      "name": "Hatsuyuki"
+    },
+    {
+      "name_ja": "初雪改",
+      "name": "Hatsuyuki Kai"
+    },
+    {
+      "name_ja": "深雪",
+      "name": "Miyuki"
+    },
+    {
+      "name_ja": "深雪改",
+      "name": "Miyuki Kai"
+    },
+    {
+      "name_ja": "叢雲",
+      "name": "Murakumo"
+    },
+    {
+      "name_ja": "叢雲改",
+      "name": "Murakumo Kai"
+    },
+    {
+      "name_ja": "叢雲改二",
+      "name": "Murakumo Kai2"
+    },
+    {
+      "name_ja": "磯波",
+      "name": "Isonami"
+    },
+    {
+      "name_ja": "磯波改",
+      "name": "Isonami Kai"
+    },
+    {
+      "name_ja": "綾波",
+      "name": "Ayanami"
+    },
+    {
+      "name_ja": "綾波改",
+      "name": "Ayanami Kai"
+    },
+    {
+      "name_ja": "敷波",
+      "name": "Shikinami"
+    },
+    {
+      "name_ja": "敷波改",
+      "name": "Shikinami Kai"
+    },
+    {
+      "name_ja": "大井",
+      "name": "Ooi"
+    },
+    {
+      "name_ja": "大井改",
+      "name": "Ooi Kai"
+    },
+    {
+      "name_ja": "大井改二",
+      "name": "Ooi Kai2"
+    },
+    {
+      "name_ja": "北上",
+      "name": "Kitakami"
+    },
+    {
+      "name_ja": "北上改",
+      "name": "Kitakami Kai"
+    },
+    {
+      "name_ja": "北上改二",
+      "name": "Kitakami Kai2"
+    },
+    {
+      "name_ja": "金剛",
+      "name": "Kongou"
+    },
+    {
+      "name_ja": "金剛改",
+      "name": "Kongou Kai"
+    },
+    {
+      "name_ja": "金剛改二",
+      "name": "Kongou Kai2"
+    },
+    {
+      "name_ja": "比叡",
+      "name": "Hiei"
+    },
+    {
+      "name_ja": "比叡改",
+      "name": "Hiei Kai"
+    },
+    {
+      "name_ja": "比叡改二",
+      "name": "Hiei Kai2"
+    },
+    {
+      "name_ja": "榛名",
+      "name": "Haruna"
+    },
+    {
+      "name_ja": "榛名改",
+      "name": "Haruna Kai"
+    },
+    {
+      "name_ja": "霧島",
+      "name": "Kirishima"
+    },
+    {
+      "name_ja": "霧島改",
+      "name": "Kirishima Kai"
+    },
+    {
+      "name_ja": "霧島改二",
+      "name": "Kirishima Kai2"
+    },
+    {
+      "name_ja": "鳳翔",
+      "name": "Houshou"
+    },
+    {
+      "name_ja": "鳳翔改",
+      "name": "Houshou Kai"
+    },
+    {
+      "name_ja": "扶桑",
+      "name": "Fusou"
+    },
+    {
+      "name_ja": "扶桑改",
+      "name": "Fusou Kai"
+    },
+    {
+      "name_ja": "山城",
+      "name": "Yamashiro"
+    },
+    {
+      "name_ja": "山城改",
+      "name": "Yamashiro Kai"
+    },
+    {
+      "name_ja": "天龍",
+      "name": "Tenryuu"
+    },
+    {
+      "name_ja": "天龍改",
+      "name": "Tenryuu Kai"
+    },
+    {
+      "name_ja": "龍田",
+      "name": "Tatsuta"
+    },
+    {
+      "name_ja": "龍田改",
+      "name": "Tatsuta Kai"
+    },
+    {
+      "name_ja": "龍驤",
+      "name": "Ryuujou"
+    },
+    {
+      "name_ja": "龍驤改",
+      "name": "Ryuujou Kai"
+    },
+    {
+      "name_ja": "睦月",
+      "name": "Mutsuki"
+    },
+    {
+      "name_ja": "睦月改",
+      "name": "Mutsuki Kai"
+    },
+    {
+      "name_ja": "睦月改二",
+      "name": "Mutsuki Kai2"
+    },
+    {
+      "name_ja": "如月",
+      "name": "Kisaragi"
+    },
+    {
+      "name_ja": "如月改",
+      "name": "Kisaragi Kai"
+    },
+    {
+      "name_ja": "如月改二",
+      "name": "Kisaragi Kai2"
+    },
+    {
+      "name_ja": "皐月",
+      "name": "Satsuki"
+    },
+    {
+      "name_ja": "皐月改",
+      "name": "Satsuki Kai"
+    },
+    {
+      "name_ja": "文月",
+      "name": "Fumizuki"
+    },
+    {
+      "name_ja": "文月改",
+      "name": "Fumizuki Kai"
+    },
+    {
+      "name_ja": "長月",
+      "name": "Nagatsuki"
+    },
+    {
+      "name_ja": "長月改",
+      "name": "Nagatsuki Kai"
+    },
+    {
+      "name_ja": "菊月",
+      "name": "Kikuzuki"
+    },
+    {
+      "name_ja": "菊月改",
+      "name": "Kikuzuki Kai"
+    },
+    {
+      "name_ja": "三日月",
+      "name": "Mikazuki"
+    },
+    {
+      "name_ja": "三日月改",
+      "name": "Mikazuki Kai"
+    },
+    {
+      "name_ja": "望月",
+      "name": "Mochizuki"
+    },
+    {
+      "name_ja": "望月改",
+      "name": "Mochizuki Kai"
+    },
+    {
+      "name_ja": "球磨",
+      "name": "Kuma"
+    },
+    {
+      "name_ja": "球磨改",
+      "name": "Kuma Kai"
+    },
+    {
+      "name_ja": "多摩",
+      "name": "Tama"
+    },
+    {
+      "name_ja": "多摩改",
+      "name": "Tama Kai"
+    },
+    {
+      "name_ja": "木曾",
+      "name": "Kiso"
+    },
+    {
+      "name_ja": "木曾改",
+      "name": "Kiso Kai"
+    },
+    {
+      "name_ja": "木曾改二",
+      "name": "Kiso Kai2"
+    },
+    {
+      "name_ja": "長良",
+      "name": "Nagara"
+    },
+    {
+      "name_ja": "長良改",
+      "name": "Nagara Kai"
+    },
+    {
+      "name_ja": "五十鈴",
+      "name": "Isuzu"
+    },
+    {
+      "name_ja": "五十鈴改",
+      "name": "Isuzu Kai"
+    },
+    {
+      "name_ja": "五十鈴改二",
+      "name": "Isuzu Kai2"
+    },
+    {
+      "name_ja": "名取",
+      "name": "Natori"
+    },
+    {
+      "name_ja": "名取改",
+      "name": "Natori Kai"
+    },
+    {
+      "name_ja": "由良",
+      "name": "Yura"
+    },
+    {
+      "name_ja": "由良改",
+      "name": "Yura Kai"
+    },
+    {
+      "name_ja": "川内",
+      "name": "Sendai"
+    },
+    {
+      "name_ja": "川内改",
+      "name": "Sendai Kai"
+    },
+    {
+      "name_ja": "神通",
+      "name": "Jintsuu"
+    },
+    {
+      "name_ja": "神通改",
+      "name": "Jintsuu Kai"
+    },
+    {
+      "name_ja": "神通改二",
+      "name": "Jintsuu Kai2"
+    },
+    {
+      "name_ja": "那珂",
+      "name": "Naka"
+    },
+    {
+      "name_ja": "那珂改",
+      "name": "Naka Kai"
+    },
+    {
+      "name_ja": "那珂改二",
+      "name": "Naka Kai2"
+    },
+    {
+      "name_ja": "千歳",
+      "name": "Chitose"
+    },
+    {
+      "name_ja": "千歳改",
+      "name": "Chitose Kai"
+    },
+    {
+      "name_ja": "千歳甲",
+      "name": "Chitose A"
+    },
+    {
+      "name_ja": "千歳航",
+      "name": "Chitose CVL"
+    },
+    {
+      "name_ja": "千歳航改",
+      "name": "Chitose CVL Kai"
+    },
+    {
+      "name_ja": "千歳航改二",
+      "name": "Chitose CVL Kai2"
+    },
+    {
+      "name_ja": "千代田",
+      "name": "Chiyoda"
+    },
+    {
+      "name_ja": "千代田改",
+      "name": "Chiyoda Kai"
+    },
+    {
+      "name_ja": "千代田甲",
+      "name": "Chiyoda A"
+    },
+    {
+      "name_ja": "千代田航",
+      "name": "Chiyoda CVL"
+    },
+    {
+      "name_ja": "千代田航改",
+      "name": "Chiyoda CVL Kai"
+    },
+    {
+      "name_ja": "千代田航改二",
+      "name": "Chiyoda CVL Kai2"
+    },
+    {
+      "name_ja": "最上",
+      "name": "Mogami"
+    },
+    {
+      "name_ja": "最上改",
+      "name": "Mogami Kai"
+    },
+    {
+      "name_ja": "古鷹",
+      "name": "Furutaka"
+    },
+    {
+      "name_ja": "古鷹改",
+      "name": "Furutaka Kai"
+    },
+    {
+      "name_ja": "古鷹改二",
+      "name": "Furutaka Kai2"
+    },
+    {
+      "name_ja": "加古",
+      "name": "Kako"
+    },
+    {
+      "name_ja": "加古改",
+      "name": "Kako Kai"
+    },
+    {
+      "name_ja": "加古改二",
+      "name": "Kako Kai2"
+    },
+    {
+      "name_ja": "青葉",
+      "name": "Aoba"
+    },
+    {
+      "name_ja": "青葉改",
+      "name": "Aoba Kai"
+    },
+    {
+      "name_ja": "妙高",
+      "name": "Myoukou"
+    },
+    {
+      "name_ja": "妙高改",
+      "name": "Myoukou Kai"
+    },
+    {
+      "name_ja": "那智",
+      "name": "Nachi"
+    },
+    {
+      "name_ja": "那智改",
+      "name": "Nachi Kai"
+    },
+    {
+      "name_ja": "那智改二",
+      "name": "Nachi Kai2"
+    },
+    {
+      "name_ja": "足柄",
+      "name": "Ashigara"
+    },
+    {
+      "name_ja": "足柄改",
+      "name": "Ashigara Kai"
+    },
+    {
+      "name_ja": "足柄改二",
+      "name": "Ashigara Kai2"
+    },
+    {
+      "name_ja": "羽黒",
+      "name": "Haguro"
+    },
+    {
+      "name_ja": "羽黒改",
+      "name": "Haguro Kai"
+    },
+    {
+      "name_ja": "高雄",
+      "name": "Takao"
+    },
+    {
+      "name_ja": "高雄改",
+      "name": "Takao Kai"
+    },
+    {
+      "name_ja": "愛宕",
+      "name": "Atago"
+    },
+    {
+      "name_ja": "愛宕改",
+      "name": "Atago Kai"
+    },
+    {
+      "name_ja": "摩耶",
+      "name": "Maya"
+    },
+    {
+      "name_ja": "摩耶改",
+      "name": "Maya Kai"
+    },
+    {
+      "name_ja": "摩耶改二",
+      "name": "Maya Kai2"
+    },
+    {
+      "name_ja": "鳥海",
+      "name": "Choukai"
+    },
+    {
+      "name_ja": "鳥海改",
+      "name": "Choukai Kai"
+    },
+    {
+      "name_ja": "鳥海改二",
+      "name": "Choukai Kai2"
+    },
+    {
+      "name_ja": "利根",
+      "name": "Tone"
+    },
+    {
+      "name_ja": "利根改",
+      "name": "Tone Kai"
+    },
+    {
+      "name_ja": "利根改二",
+      "name": "Tone Kai2"
+    },
+    {
+      "name_ja": "筑摩",
+      "name": "Chikuma"
+    },
+    {
+      "name_ja": "筑摩改",
+      "name": "Chikuma Kai"
+    },
+    {
+      "name_ja": "筑摩改二",
+      "name": "Chikuma Kai2"
+    },
+    {
+      "name_ja": "飛鷹",
+      "name": "Hiyou"
+    },
+    {
+      "name_ja": "飛鷹改",
+      "name": "Hiyou Kai"
+    },
+    {
+      "name_ja": "隼鷹",
+      "name": "Jun'you"
+    },
+    {
+      "name_ja": "隼鷹改",
+      "name": "Jun'you Kai"
+    },
+    {
+      "name_ja": "朧",
+      "name": "Oboro"
+    },
+    {
+      "name_ja": "朧改",
+      "name": "Oboro Kai"
+    },
+    {
+      "name_ja": "曙",
+      "name": "Akebono"
+    },
+    {
+      "name_ja": "曙改",
+      "name": "Akebono Kai"
+    },
+    {
+      "name_ja": "漣",
+      "name": "Sazanami"
+    },
+    {
+      "name_ja": "漣改",
+      "name": "Sazanami Kai"
+    },
+    {
+      "name_ja": "潮",
+      "name": "Ushio"
+    },
+    {
+      "name_ja": "潮改",
+      "name": "Ushio Kai"
+    },
+    {
+      "name_ja": "潮改二",
+      "name": "Ushio Kai2"
+    },
+    {
+      "name_ja": "暁",
+      "name": "Akatsuki"
+    },
+    {
+      "name_ja": "暁改",
+      "name": "Akatsuki Kai"
+    },
+    {
+      "name_ja": "暁改二",
+      "name": "Akatsuki Kai2"
+    },
+    {
+      "name_ja": "響",
+      "name": "Hibiki"
+    },
+    {
+      "name_ja": "響改",
+      "name": "Hibiki Kai"
+    },
+    {
+      "name_ja": "Верный",
+      "name": "Verniy"
+    },
+    {
+      "name_ja": "雷",
+      "name": "Ikazuchi"
+    },
+    {
+      "name_ja": "雷改",
+      "name": "Ikazuchi Kai"
+    },
+    {
+      "name_ja": "電",
+      "name": "Inazuma"
+    },
+    {
+      "name_ja": "電改",
+      "name": "Inazuma Kai"
+    },
+    {
+      "name_ja": "初春",
+      "name": "Hatsuharu"
+    },
+    {
+      "name_ja": "初春改",
+      "name": "Hatsuharu Kai"
+    },
+    {
+      "name_ja": "子日",
+      "name": "Nenohi"
+    },
+    {
+      "name_ja": "子日改",
+      "name": "Nenohi Kai"
+    },
+    {
+      "name_ja": "若葉",
+      "name": "Wakaba"
+    },
+    {
+      "name_ja": "若葉改",
+      "name": "Wakaba Kai"
+    },
+    {
+      "name_ja": "初霜",
+      "name": "Hatsushimo"
+    },
+    {
+      "name_ja": "初霜改",
+      "name": "Hatsushimo Kai"
+    },
+    {
+      "name_ja": "初霜改二",
+      "name": "Hatsushimo Kai2"
+    },
+    {
+      "name_ja": "白露",
+      "name": "Shiratsuyu"
+    },
+    {
+      "name_ja": "白露改",
+      "name": "Shiratsuyu Kai"
+    },
+    {
+      "name_ja": "時雨",
+      "name": "Shigure"
+    },
+    {
+      "name_ja": "時雨改",
+      "name": "Shigure Kai"
+    },
+    {
+      "name_ja": "時雨改二",
+      "name": "Shigure Kai2"
+    },
+    {
+      "name_ja": "村雨",
+      "name": "Murasame"
+    },
+    {
+      "name_ja": "村雨改",
+      "name": "Murasame Kai"
+    },
+    {
+      "name_ja": "夕立",
+      "name": "Yuudachi"
+    },
+    {
+      "name_ja": "夕立改",
+      "name": "Yuudachi Kai"
+    },
+    {
+      "name_ja": "夕立改二",
+      "name": "Yuudachi Kai2"
+    },
+    {
+      "name_ja": "五月雨",
+      "name": "Samidare"
+    },
+    {
+      "name_ja": "五月雨改",
+      "name": "Samidare Kai"
+    },
+    {
+      "name_ja": "涼風",
+      "name": "Suzukaze"
+    },
+    {
+      "name_ja": "涼風改",
+      "name": "Suzukaze Kai"
+    },
+    {
+      "name_ja": "朝潮",
+      "name": "Asashio"
+    },
+    {
+      "name_ja": "朝潮改",
+      "name": "Asashio Kai"
+    },
+    {
+      "name_ja": "大潮",
+      "name": "Ooshio"
+    },
+    {
+      "name_ja": "大潮改",
+      "name": "Ooshio Kai"
+    },
+    {
+      "name_ja": "満潮",
+      "name": "Michishio"
+    },
+    {
+      "name_ja": "満潮改",
+      "name": "Michishio Kai"
+    },
+    {
+      "name_ja": "荒潮",
+      "name": "Arashio"
+    },
+    {
+      "name_ja": "荒潮改",
+      "name": "Arashio Kai"
+    },
+    {
+      "name_ja": "霰",
+      "name": "Arare"
+    },
+    {
+      "name_ja": "霰改",
+      "name": "Arare Kai"
+    },
+    {
+      "name_ja": "霞",
+      "name": "Kasumi"
+    },
+    {
+      "name_ja": "霞改",
+      "name": "Kasumi Kai"
+    },
+    {
+      "name_ja": "陽炎",
+      "name": "Kagerou"
+    },
+    {
+      "name_ja": "陽炎改",
+      "name": "Kagerou Kai"
+    },
+    {
+      "name_ja": "不知火",
+      "name": "Shiranui"
+    },
+    {
+      "name_ja": "不知火改",
+      "name": "Shiranui Kai"
+    },
+    {
+      "name_ja": "黒潮",
+      "name": "Kuroshio"
+    },
+    {
+      "name_ja": "黒潮改",
+      "name": "Kuroshio Kai"
+    },
+    {
+      "name_ja": "祥鳳",
+      "name": "Shouhou"
+    },
+    {
+      "name_ja": "祥鳳改",
+      "name": "Shouhou Kai"
+    },
+    {
+      "name_ja": "翔鶴",
+      "name": "Shoukaku"
+    },
+    {
+      "name_ja": "翔鶴改",
+      "name": "Shoukaku Kai"
+    },
+    {
+      "name_ja": "翔鶴改二",
+      "name": "Shoukaku Kai2"
+    },
+    {
+      "name_ja": "翔鶴改二甲",
+      "name": "Shoukaku Kai2 A"
+    },
+    {
+      "name_ja": "瑞鶴",
+      "name": "Zuikaku"
+    },
+    {
+      "name_ja": "瑞鶴改",
+      "name": "Zuikaku Kai"
+    },
+    {
+      "name_ja": "鬼怒",
+      "name": "Kinu"
+    },
+    {
+      "name_ja": "鬼怒改",
+      "name": "Kinu Kai"
+    },
+    {
+      "name_ja": "阿武隈",
+      "name": "Abukuma"
+    },
+    {
+      "name_ja": "阿武隈改",
+      "name": "Abukuma Kai"
+    },
+    {
+      "name_ja": "阿武隈改二",
+      "name": "Abukuma Kai2"
+    },
+    {
+      "name_ja": "夕張",
+      "name": "Yuubari"
+    },
+    {
+      "name_ja": "夕張改",
+      "name": "Yuubari Kai"
+    },
+    {
+      "name_ja": "瑞鳳",
+      "name": "Zuihou"
+    },
+    {
+      "name_ja": "瑞鳳改",
+      "name": "Zuihou Kai"
+    },
+    {
+      "name_ja": "三隈",
+      "name": "Mikuma"
+    },
+    {
+      "name_ja": "三隈改",
+      "name": "Mikuma Kai"
+    },
+    {
+      "name_ja": "初風",
+      "name": "Hatsukaze"
+    },
+    {
+      "name_ja": "初風改",
+      "name": "Hatsukaze Kai"
+    },
+    {
+      "name_ja": "舞風",
+      "name": "Maikaze"
+    },
+    {
+      "name_ja": "舞風改",
+      "name": "Maikaze Kai"
+    },
+    {
+      "name_ja": "衣笠",
+      "name": "Kinugasa"
+    },
+    {
+      "name_ja": "衣笠改",
+      "name": "Kinugasa Kai"
+    },
+    {
+      "name_ja": "衣笠改二",
+      "name": "Kinugasa Kai2"
+    },
+    {
+      "name_ja": "伊19",
+      "name": "I-19"
+    },
+    {
+      "name_ja": "伊19改",
+      "name": "I-19 Kai"
+    },
+    {
+      "name_ja": "鈴谷",
+      "name": "Suzuya"
+    },
+    {
+      "name_ja": "鈴谷改",
+      "name": "Suzuya Kai"
+    },
+    {
+      "name_ja": "熊野",
+      "name": "Kumano"
+    },
+    {
+      "name_ja": "熊野改",
+      "name": "Kumano Kai"
+    },
+    {
+      "name_ja": "伊168",
+      "name": "I-168"
+    },
+    {
+      "name_ja": "伊168改",
+      "name": "I-168 Kai"
+    },
+    {
+      "name_ja": "伊58",
+      "name": "I-58"
+    },
+    {
+      "name_ja": "伊58改",
+      "name": "I-58 Kai"
+    },
+    {
+      "name_ja": "伊8",
+      "name": "I-8"
+    },
+    {
+      "name_ja": "伊8改",
+      "name": "I-8 Kai"
+    },
+    {
+      "name_ja": "大和",
+      "name": "Yamato"
+    },
+    {
+      "name_ja": "大和改",
+      "name": "Yamato Kai"
+    },
+    {
+      "name_ja": "秋雲",
+      "name": "Akigumo"
+    },
+    {
+      "name_ja": "秋雲改",
+      "name": "Akigumo Kai"
+    },
+    {
+      "name_ja": "夕雲",
+      "name": "Yuugumo"
+    },
+    {
+      "name_ja": "夕雲改",
+      "name": "Yuugumo Kai"
+    },
+    {
+      "name_ja": "巻雲",
+      "name": "Makigumo"
+    },
+    {
+      "name_ja": "巻雲改",
+      "name": "Makigumo Kai"
+    },
+    {
+      "name_ja": "長波",
+      "name": "Naganami"
+    },
+    {
+      "name_ja": "長波改",
+      "name": "Naganami Kai"
+    },
+    {
+      "name_ja": "阿賀野",
+      "name": "Agano"
+    },
+    {
+      "name_ja": "阿賀野改",
+      "name": "Agano Kai"
+    },
+    {
+      "name_ja": "能代",
+      "name": "Noshiro"
+    },
+    {
+      "name_ja": "能代改",
+      "name": "Noshiro Kai"
+    },
+    {
+      "name_ja": "矢矧",
+      "name": "Yahagi"
+    },
+    {
+      "name_ja": "矢矧改",
+      "name": "Yahagi Kai"
+    },
+    {
+      "name_ja": "武蔵",
+      "name": "Musashi"
+    },
+    {
+      "name_ja": "武蔵改",
+      "name": "Musashi Kai"
+    },
+    {
+      "name_ja": "大鳳",
+      "name": "Taihou"
+    },
+    {
+      "name_ja": "大鳳改",
+      "name": "Taihou Kai"
+    },
+    {
+      "name_ja": "伊401",
+      "name": "I-401"
+    },
+    {
+      "name_ja": "伊401改",
+      "name": "I-401 Kai"
+    },
+    {
+      "name_ja": "あきつ丸",
+      "name": "Akitsu Maru"
+    },
+    {
+      "name_ja": "あきつ丸改",
+      "name": "Akitsu Maru Kai"
+    },
+    {
+      "name_ja": "まるゆ",
+      "name": "Maruyu"
+    },
+    {
+      "name_ja": "まるゆ改",
+      "name": "Maruyu Kai"
+    },
+    {
+      "name_ja": "弥生",
+      "name": "Yayoi"
+    },
+    {
+      "name_ja": "弥生改",
+      "name": "Yayoi Kai"
+    },
+    {
+      "name_ja": "卯月",
+      "name": "Uzuki"
+    },
+    {
+      "name_ja": "卯月改",
+      "name": "Uzuki Kai"
+    },
+    {
+      "name_ja": "Bismarck",
+      "name": "Bismarck"
+    },
+    {
+      "name_ja": "Bismarck改",
+      "name": "Bismarck Kai"
+    },
+    {
+      "name_ja": "Bismarck zwei",
+      "name": "Bismarck Zwei"
+    },
+    {
+      "name_ja": "Z1",
+      "name": "Z1"
+    },
+    {
+      "name_ja": "Z1改",
+      "name": "Z1 Kai"
+    },
+    {
+      "name_ja": "Z1 zwei",
+      "name": "Z1 Zwei"
+    },
+    {
+      "name_ja": "Z3",
+      "name": "Z3"
+    },
+    {
+      "name_ja": "Z3改",
+      "name": "Z3 Kai"
+    },
+    {
+      "name_ja": "Z3 zwei",
+      "name": "Z3 Zwei"
+    },
+    {
+      "name_ja": "浜風",
+      "name": "Hamakaze"
+    },
+    {
+      "name_ja": "浜風改",
+      "name": "Hamakaze Kai"
+    },
+    {
+      "name_ja": "天津風",
+      "name": "Amatsukaze"
+    },
+    {
+      "name_ja": "天津風改",
+      "name": "Amatsukaze Kai"
+    },
+    {
+      "name_ja": "谷風",
+      "name": "Tanikaze"
+    },
+    {
+      "name_ja": "谷風改",
+      "name": "Tanikaze Kai"
+    },
+    {
+      "name_ja": "明石",
+      "name": "Akashi"
+    },
+    {
+      "name_ja": "明石改",
+      "name": "Akashi Kai"
+    },
+    {
+      "name_ja": "酒匂",
+      "name": "Sakawa"
+    },
+    {
+      "name_ja": "酒匂改",
+      "name": "Sakawa Kai"
+    },
+    {
+      "name_ja": "浦風",
+      "name": "Urakaze"
+    },
+    {
+      "name_ja": "浦風改",
+      "name": "Urakaze Kai"
+    },
+    {
+      "name_ja": "羽黒改二",
+      "name": "Haguro Kai2"
+    },
+    {
+      "name_ja": "龍驤改二",
+      "name": "Ryuujou Kai2"
+    },
+    {
+      "name_ja": "飛龍改二",
+      "name": "Hiryuu Kai2"
+    },
+    {
+      "name_ja": "蒼龍改二",
+      "name": "Souryuu Kai2"
+    },
+    {
+      "name_ja": "大鯨",
+      "name": "Taigei"
+    },
+    {
+      "name_ja": "龍鳳",
+      "name": "Ryuuhou"
+    },
+    {
+      "name_ja": "龍鳳改",
+      "name": "Ryuuhou Kai"
+    },
+    {
+      "name_ja": "川内改二",
+      "name": "Sendai Kai2"
+    },
+    {
+      "name_ja": "綾波改二",
+      "name": "Ayanami Kai2"
+    },
+    {
+      "name_ja": "妙高改二",
+      "name": "Myoukou Kai2"
+    },
+    {
+      "name_ja": "榛名改二",
+      "name": "Haruna Kai2"
+    },
+    {
+      "name_ja": "磯風",
+      "name": "Isokaze"
+    },
+    {
+      "name_ja": "磯風改",
+      "name": "Isokaze Kai"
+    },
+    {
+      "name_ja": "大淀",
+      "name": "Ooyodo"
+    },
+    {
+      "name_ja": "大淀改",
+      "name": "Ooyodo Kai"
+    },
+    {
+      "name_ja": "時津風",
+      "name": "Tokitsukaze"
+    },
+    {
+      "name_ja": "時津風改",
+      "name": "Tokitsukaze Kai"
+    },
+    {
+      "name_ja": "雲龍",
+      "name": "Unryuu"
+    },
+    {
+      "name_ja": "雲龍改",
+      "name": "Unryuu Kai"
+    },
+    {
+      "name_ja": "春雨",
+      "name": "Harusame"
+    },
+    {
+      "name_ja": "春雨改",
+      "name": "Harusame Kai"
+    },
+    {
+      "name_ja": "早霜",
+      "name": "Hayashimo"
+    },
+    {
+      "name_ja": "早霜改",
+      "name": "Hayashimo Kai"
+    },
+    {
+      "name_ja": "清霜",
+      "name": "Kiyoshimo"
+    },
+    {
+      "name_ja": "清霜改",
+      "name": "Kiyoshimo Kai"
+    },
+    {
+      "name_ja": "Bismarck drei",
+      "name": "Bismarck Drei"
+    },
+    {
+      "name_ja": "隼鷹改二",
+      "name": "Jun'you Kai2"
+    },
+    {
+      "name_ja": "Prinz Eugen",
+      "name": "Prinz Eugen"
+    },
+    {
+      "name_ja": "Prinz Eugen改",
+      "name": "Prinz Eugen Kai"
+    },
+    {
+      "name_ja": "初春改二",
+      "name": "Hatsuharu Kai2"
+    },
+    {
+      "name_ja": "朝雲",
+      "name": "Asagumo"
+    },
+    {
+      "name_ja": "朝雲改",
+      "name": "Asagumo Kai"
+    },
+    {
+      "name_ja": "野分",
+      "name": "Nowaki"
+    },
+    {
+      "name_ja": "野分改",
+      "name": "Nowaki Kai"
+    },
+    {
+      "name_ja": "秋月",
+      "name": "Akizuki"
+    },
+    {
+      "name_ja": "秋月改",
+      "name": "Akizuki Kai"
+    },
+    {
+      "name_ja": "扶桑改二",
+      "name": "Fusou Kai2"
+    },
+    {
+      "name_ja": "山城改二",
+      "name": "Yamashiro Kai2"
+    },
+    {
+      "name_ja": "山雲",
+      "name": "Yamagumo"
+    },
+    {
+      "name_ja": "山雲改",
+      "name": "Yamagumo Kai"
+    },
+    {
+      "name_ja": "香取",
+      "name": "Katori"
+    },
+    {
+      "name_ja": "香取改",
+      "name": "Katori Kai"
+    },
+    {
+      "name_ja": "天城",
+      "name": "Amagi"
+    },
+    {
+      "name_ja": "天城改",
+      "name": "Amagi Kai"
+    },
+    {
+      "name_ja": "U-511",
+      "name": "U-511"
+    },
+    {
+      "name_ja": "U-511改",
+      "name": "U-511 Kai"
+    },
+    {
+      "name_ja": "呂500",
+      "name": "Ro-500"
+    },
+    {
+      "name_ja": "朝霜",
+      "name": "Asashimo"
+    },
+    {
+      "name_ja": "朝霜改",
+      "name": "Asashimo Kai"
+    },
+    {
+      "name_ja": "葛城",
+      "name": "Katsuragi"
+    },
+    {
+      "name_ja": "葛城改",
+      "name": "Katsuragi Kai"
+    },
+    {
+      "name_ja": "高波",
+      "name": "Takanami"
+    },
+    {
+      "name_ja": "高波改",
+      "name": "Takanami Kai"
+    },
+    {
+      "name_ja": "Littorio",
+      "name": "Littorio"
+    },
+    {
+      "name_ja": "Italia",
+      "name": "Italia"
+    },
+    {
+      "name_ja": "Roma",
+      "name": "Roma"
+    },
+    {
+      "name_ja": "Roma改",
+      "name": "Roma Kai"
+    },
+    {
+      "name_ja": "秋津洲",
+      "name": "Akitsushima"
+    },
+    {
+      "name_ja": "秋津洲改",
+      "name": "Akitsushima Kai"
+    },
+    {
+      "name_ja": "Libeccio",
+      "name": "Libeccio"
+    },
+    {
+      "name_ja": "Libeccio改",
+      "name": "Libeccio Kai"
+    },
+    {
+      "name_ja": "照月",
+      "name": "Teruzuki"
+    },
+    {
+      "name_ja": "照月改",
+      "name": "Teruzuki Kai"
+    },
+    {
+      "name_ja": "瑞穂",
+      "name": "Mizuho"
+    },
+    {
+      "name_ja": "瑞穂改",
+      "name": "Mizuho Kai"
+    },
+    {
+      "name_ja": "風雲",
+      "name": "Kazagumo"
+    },
+    {
+      "name_ja": "風雲改",
+      "name": "Kazagumo Kai"
+    },
+    {
+      "name_ja": "海風",
+      "name": "Umikaze"
+    },
+    {
+      "name_ja": "海風改",
+      "name": "Umikaze Kai"
+    },
+    {
+      "name_ja": "江風",
+      "name": "Kawakaze"
+    },
+    {
+      "name_ja": "江風改",
+      "name": "Kawakaze Kai"
+    },
+    {
+      "name_ja": "速吸",
+      "name": "Hayasui"
+    },
+    {
+      "name_ja": "速吸改",
+      "name": "Hayasui Kai"
+    },
+    {
+      "name_ja": "瑞鶴改二",
+      "name": "Zuikaku Kai2"
+    },
+    {
+      "name_ja": "瑞鶴改二甲",
+      "name": "Zuikaku Kai2 A"
+    },
+    {
+      "name_ja": "Aquila改",
+      "name": "Aquila Kai"
+    },
+    {
+      "name_ja": "Warspite改",
+      "name": "Warspite Kai"
+    },
+    {
+      "name_ja": "伊26改",
+      "name": "I-26 Kai"
+    },
+    {
+      "name_ja": "水無月改",
+      "name": "Minazuki Kai"
+    },
+    {
+      "name_ja": "浦波改",
+      "name": "Uranami Kai"
+    },
+    {
+      "name_ja": "Saratoga",
+      "name": "Saratoga"
+    },
+    {
+      "name_ja": "Commandant Teste改",
+      "name": "Commandant Teste Kai"
+    },
+    {
+      "name_ja": "潜水ヨ級",
+      "name": "Submarine Yo-Class"
+    },
+    {
+      "name_ja": "軽巡ト級",
+      "name": "Light Cruiser To-Class"
+    },
+    {
+      "name_ja": "軽巡ヘ級",
+      "name": "Light Cruiser He-Class"
+    },
+    {
+      "name_ja": "輸送ワ級",
+      "name": "Transport Ship Wa-Class"
+    },
+    {
+      "name_ja": "重巡リ級",
+      "name": "Heavy Cruiser Ri-Class"
+    },
+    {
+      "name_ja": "駆逐イ級",
+      "name": "Destroyer I-Class"
+    },
+    {
+      "name_ja": "駆逐ニ級",
+      "name": "Destroyer Ni-Class"
+    },
+    {
+      "name_ja": "駆逐ハ級",
+      "name": "Destroyer Ha-Class"
+    },
+    {
+      "name_ja": "Commandant Teste",
+      "name": "Commandant Teste"
+    },
+    {
+      "name_ja": "山風",
+      "name": "Yamakaze"
+    },
+    {
+      "name_ja": "浦波",
+      "name": "Uranami"
+    },
+    {
+      "name_ja": "水母水姫",
+      "name": "Seaplane Tender Water Princess"
+    },
+    {
+      "name_ja": "山風改",
+      "name": "Yamakaze Kai"
+    },
+    {
+      "name_ja": "霞改二",
+      "name": "Kasumi Kai2"
+    },
+    {
+      "name_ja": "霞改二乙",
+      "name": "Kasumi Kai2 B"
+    },
+    {
+      "name_ja": "Zara due",
+      "name": "Zara due"
+    },
+    {
+      "name_ja": "鈴谷航改二",
+      "name": "Suzuya Carrier Kai2"
+    },
+    {
+      "name_ja": "松風改",
+      "name": "Matsukaze Kai"
+    },
+    {
+      "name_ja": "戦艦タ級",
+      "name": "Battleship Ta-Class"
+    },
+    {
+      "name_ja": "戦艦棲姫",
+      "name": "Battleship Princess"
+    },
+    {
+      "name_ja": "浮遊要塞",
+      "name": "Floating Fortress"
+    },
+    {
+      "name_ja": "港湾棲姫",
+      "name": "Harbour Princess"
+    },
+    {
+      "name_ja": "潜水棲姫",
+      "name": "Submarine Princess"
+    },
+    {
+      "name_ja": "空母ヲ級",
+      "name": "Standard Carrier Wo-Class"
+    },
+    {
+      "name_ja": "装甲空母姫",
+      "name": "Armoured Carrier Princess"
+    },
+    {
+      "name_ja": "護衛要塞",
+      "name": "Escort Fortress"
+    },
+    {
+      "name_ja": "軽巡ツ級",
+      "name": "Light Cruiser Tsu-Class"
+    },
+    {
+      "name_ja": "軽巡棲姫",
+      "name": "Light Cruiser Princess"
+    },
+    {
+      "name_ja": "重巡ネ級",
+      "name": "Heavy Cruiser Ne-Class"
+    },
+    {
+      "name_ja": "駆逐イ級後期型",
+      "name": "Destroyer I-Class Late Model"
+    },
+    {
+      "name_ja": "駆逐ハ級後期型",
+      "name": "Destroyer Ha-Class Late Model"
+    },
+    {
+      "name_ja": "駆逐ロ級後期型",
+      "name": "Destroyer Ro-Class Late Model"
+    },
+    {
+      "name_ja": "駆逐水鬼",
+      "name": "Destroyer Water Demon"
+    },
+    {
+      "name_ja": "？？？",
+      "name": "<UNKNOWN>"
+    },
+    {
+      "name_ja": "朝風",
+      "name": "Asakaze"
+    },
+    {
+      "name_ja": "Graf Zeppelin",
+      "name": "Graf Zeppelin"
+    },
+    {
+      "name_ja": "Graf Zeppelin改",
+      "name": "Graf Zeppelin Kai"
+    },
+    {
+      "name_ja": "嵐",
+      "name": "Arashi"
+    },
+    {
+      "name_ja": "嵐改",
+      "name": "Arashi Kai"
+    },
+    {
+      "name_ja": "萩風",
+      "name": "Hagikaze"
+    },
+    {
+      "name_ja": "萩風改",
+      "name": "Hagikaze Kai"
+    },
+    {
+      "name_ja": "鹿島",
+      "name": "Kashima"
+    },
+    {
+      "name_ja": "鹿島改",
+      "name": "Kashima Kai"
+    },
+    {
+      "name_ja": "Saratoga改",
+      "name": "Saratoga Kai"
+    },
+    {
+      "name_ja": "朝風改",
+      "name": "Asakaze Kai"
+    },
+    {
+      "name_ja": "南方棲戦鬼",
+      "name": "Southern War Demon"
+    },
+    {
+      "name_ja": "戦艦レ級",
+      "name": "Battleship Re-Class"
+    },
+    {
+      "name_ja": "泊地水鬼",
+      "name": "Anchorage Water Demon"
+    },
+    {
+      "name_ja": "空母棲鬼",
+      "name": "Aircraft Carrier Demon"
+    },
+    {
+      "name_ja": "重巡リ級改",
+      "name": "Heavy Cruiser Ri-Class Kai"
+    },
+    {
+      "name_ja": "鬼怒改二",
+      "name": "Kinu Kai2"
+    },
+    {
+      "name_ja": "PT小鬼群",
+      "name": "PT Imp Group"
+    },
+    {
+      "name_ja": "北方棲姫",
+      "name": "Northern Princess"
+    },
+    {
+      "name_ja": "南方棲戦姫",
+      "name": "Southern War Princess"
+    },
+    {
+      "name_ja": "戦艦ル級",
+      "name": "Battleship Ru-Class"
+    },
+    {
+      "name_ja": "戦艦ル級改",
+      "name": "Battleship Ru-Class Kai"
+    },
+    {
+      "name_ja": "水母棲姫",
+      "name": "Seaplane Tender Princess"
+    },
+    {
+      "name_ja": "潜水カ級",
+      "name": "Submarine Ka-Class"
+    },
+    {
+      "name_ja": "潜水ソ級",
+      "name": "Submarine So-Class"
+    },
+    {
+      "name_ja": "空母ヲ級改",
+      "name": "Standard Carrier Wo-Class Kai"
+    },
+    {
+      "name_ja": "装甲空母鬼",
+      "name": "Armoured Carrier Demon"
+    },
+    {
+      "name_ja": "軽巡ホ級",
+      "name": "Light Cruiser Ho-Class"
+    },
+    {
+      "name_ja": "軽巡棲鬼",
+      "name": "Light Cruiser Demon"
+    },
+    {
+      "name_ja": "軽母ヌ級",
+      "name": "Light Carrier Nu-Class"
+    },
+    {
+      "name_ja": "雷巡チ級",
+      "name": "Torpedo Cruiser Chi-Class"
+    },
+    {
+      "name_ja": "駆逐ニ級後期型",
+      "name": "Destroyer Ni-Class Late Model"
+    },
+    {
+      "name_ja": "駆逐ロ級",
+      "name": "Destroyer Ro-Class"
+    },
+    {
+      "name_ja": "駆逐棲姫",
+      "name": "Destroyer Princess"
+    },
+    {
+      "name_ja": "初月",
+      "name": "Hatsuzuki"
+    },
+    {
+      "name_ja": "Zara",
+      "name": "Zara"
+    },
+    {
+      "name_ja": "Zara改",
+      "name": "Zara Kai"
+    },
+    {
+      "name_ja": "沖波",
+      "name": "Okinami"
+    },
+    {
+      "name_ja": "沖波改",
+      "name": "Okinami Kai"
+    },
+    {
+      "name_ja": "初月改",
+      "name": "Hatsuzuki Kai"
+    },
+    {
+      "name_ja": "集積地棲姫",
+      "name": "Supply Depot Princess"
+    },
+    {
+      "name_ja": "空母棲姫",
+      "name": "Aircraft Carrier Princess"
+    },
+    {
+      "name_ja": "重巡棲姫",
+      "name": "Heavy Cruiser Princess"
+    },
+    {
+      "name_ja": "集積地棲姫-壊",
+      "name": "Corrupted Supply Depot Princess"
+    },
+    {
+      "name_ja": "鈴谷改二",
+      "name": "Suzuya Kai2"
+    },
+    {
+      "name_ja": "伊14改",
+      "name": "I-14 Kai"
+    },
+    {
+      "name_ja": "深海双子棲姫",
+      "name": "Abyssal Twin Princesses"
+    },
+    {
+      "name_ja": "藤波",
+      "name": "Fujinami"
+    },
+    {
+      "name_ja": "伊13改",
+      "name": "I-13 Kai"
+    },
+    {
+      "name_ja": "松風",
+      "name": "Matsukaze"
+    },
+    {
+      "name_ja": "伊13",
+      "name": "I-13"
+    },
+    {
+      "name_ja": "深海双子棲姫-壊",
+      "name": "Abyssal Twin Princesses - Damaged"
+    },
+    {
+      "name_ja": "荒潮改二",
+      "name": "Arashio Kai2"
+    },
+    {
+      "name_ja": "藤波改",
+      "name": "Fujinami Kai"
+    },
+    {
+      "name_ja": "伊14",
+      "name": "I-14"
+    },
+    {
+      "name_ja": "軽母ヌ級改",
+      "name": ""
+    },
+    {
+      "name_ja": "国後",
+      "name": ""
+    },
+    {
+      "name_ja": "神威",
+      "name": ""
+    },
+    {
+      "name_ja": "占守",
+      "name": ""
+    },
+    {
+      "name_ja": "春日丸",
+      "name": ""
+    },
+    {
+      "name_ja": "北方水姫",
+      "name": ""
+    },
+    {
+      "name_ja": "北方水姫-壊",
+      "name": ""
+    },
+    {
+      "name_ja": "択捉改",
+      "name": ""
+    },
+    {
+      "name_ja": "神威改",
+      "name": ""
+    },
+    {
+      "name_ja": "国後改",
+      "name": ""
+    },
+    {
+      "name_ja": "大鷹改二",
+      "name": ""
+    },
+    {
+      "name_ja": "皐月改二",
+      "name": "Satsuki Kai2"
+    },
+    {
+      "name_ja": "飛行場姫",
+      "name": "Airfield Princess"
+    },
+    {
+      "name_ja": "護衛棲姫",
+      "name": ""
+    },
+    {
+      "name_ja": "砲台小鬼",
+      "name": "Battery Imp"
+    },
+    {
+      "name_ja": "離島棲姫",
+      "name": "Isolated Island Princess"
+    },
+    {
+      "name_ja": "大潮改二",
+      "name": "Ooshio Kai2"
+    },
+    {
+      "name_ja": "神威改母",
+      "name": ""
+    },
+    {
+      "name_ja": "江風改二",
+      "name": "Kawakaze Kai2"
+    },
+    {
+      "name_ja": "親潮",
+      "name": "Oyashio"
+    },
+    {
+      "name_ja": "神風",
+      "name": "Kamikaze"
+    },
+    {
+      "name_ja": "春風",
+      "name": "Harukaze"
+    },
+    {
+      "name_ja": "Iowa",
+      "name": "Iowa"
+    },
+    {
+      "name_ja": "Pola",
+      "name": "Pola"
+    },
+    {
+      "name_ja": "親潮改",
+      "name": "Oyashio Kai"
+    },
+    {
+      "name_ja": "神風改",
+      "name": "Kamikaze Kai"
+    },
+    {
+      "name_ja": "春風改",
+      "name": "Harukaze Kai"
+    },
+    {
+      "name_ja": "Iowa改",
+      "name": "Iowa Kai"
+    },
+    {
+      "name_ja": "Pola改",
+      "name": "Pola Kai"
+    },
+    {
+      "name_ja": "リコリス棲姫",
+      "name": "Licorice Princess"
+    },
+    {
+      "name_ja": "中枢棲姫",
+      "name": "Central Princess"
+    },
+    {
+      "name_ja": "駆逐古鬼",
+      "name": "Old Destroyer Demon"
+    },
+    {
+      "name_ja": "駆逐古姫",
+      "name": "Old Destroyer Princess"
+    },
+    {
+      "name_ja": "中枢棲姫-壊",
+      "name": "Corrupted Central Princess"
+    },
+    {
+      "name_ja": "深海海月姫",
+      "name": "Abyssal Jellyfish Princess"
+    },
+    {
+      "name_ja": "Гангут",
+      "name": ""
+    },
+    {
+      "name_ja": "択捉",
+      "name": ""
+    },
+    {
+      "name_ja": "朝潮改二",
+      "name": "Asashio Kai2"
+    },
+    {
+      "name_ja": "朝潮改二丁",
+      "name": "Asashio Kai2 D"
+    },
+    {
+      "name_ja": "中間棲姫",
+      "name": "Midway Princess"
+    },
+    {
+      "name_ja": "南方棲鬼",
+      "name": "Southern Demon"
+    },
+    {
+      "name_ja": "戦艦水鬼",
+      "name": "Battleship Water Demon"
+    },
+    {
+      "name_ja": "泊地棲姫",
+      "name": "Anchorage Princess"
+    },
+    {
+      "name_ja": "泊地棲鬼",
+      "name": "Anchorage Demon"
+    },
+    {
+      "name_ja": "港湾水鬼",
+      "name": "Harbour Water Demon"
+    },
+    {
+      "name_ja": "空母水鬼",
+      "name": "Aircraft Carrier Water Demon"
+    },
+    {
+      "name_ja": "防空棲姫",
+      "name": "Air Defence Princess"
+    },
+    {
+      "name_ja": "離島棲鬼",
+      "name": "Isolated Island Demon"
+    },
+    {
+      "name_ja": "Октябрьская революция",
+      "name": ""
+    },
+    {
+      "name_ja": "大鷹",
+      "name": ""
+    },
+    {
+      "name_ja": "Гангут два",
+      "name": ""
+    },
+    {
+      "name_ja": "大鷹改",
+      "name": ""
+    },
+    {
+      "name_ja": "占守改",
+      "name": ""
+    },
+    {
+      "name_ja": "北端上陸姫",
+      "name": ""
+    },
+    {
+      "name_ja": "記念日夕雲",
+      "name": "Yuugumo (Anniversary)"
+    },
+    {
+      "name_ja": "記念日春雨改",
+      "name": "Harusame Kai (Anniversary)"
+    },
+    {
+      "name_ja": "記念日瑞穂",
+      "name": "Mizuho (Anniversary)"
+    },
+    {
+      "name_ja": "記念日長波",
+      "name": "Naganami (Anniversary)"
+    },
+    {
+      "name_ja": "Aquila",
+      "name": "Aquila"
+    },
+    {
+      "name_ja": "Warspite",
+      "name": "Warspite"
+    },
+    {
+      "name_ja": "伊26",
+      "name": "I-26"
+    },
+    {
+      "name_ja": "水無月",
+      "name": "Minazuki"
+    },
+    {
+      "name_ja": "戦艦夏姫",
+      "name": "Battleship Princess of Summer"
+    },
+    {
+      "name_ja": "港湾夏姫",
+      "name": "Harbour Princess of Summer"
+    },
+    {
+      "name_ja": "港湾夏姫-壊",
+      "name": "Corrupted Harbour Princess of Summer"
+    },
+    {
+      "name_ja": "潜水夏姫",
+      "name": "Submarine Princess of Summer"
+    },
+    {
+      "name_ja": "重巡夏姫",
+      "name": "Heavy Cruiser Princess of Summer"
+    }
+  ],
+  "api_version": "1.0"
+}
