@@ -1,0 +1,42 @@
+{
+  "selected_culture": "en",
+  "api_url": "http://kcvapi.koumakan.jp/api/",
+  "components": [
+    {
+      "url": "",
+      "version": "1",
+      "type": "shiptypes"
+    },
+    {
+      "url": "",
+      "version": "1",
+      "type": "operations"
+    },
+    {
+      "url": "",
+      "version": "1",
+      "type": "expeditions"
+    },
+    {
+      "url": "",
+      "version": "20",
+      "type": "ships"
+    },
+    {
+      "url": "",
+      "version": "38",
+      "type": "quests"
+    },
+    {
+      "url": "https://github.com/Yuubari/KanColleViewer/releases/tag/v4.2.10.0",
+      "version": "4.2.10.0",
+      "type": "app"
+    },
+    {
+      "url": "",
+      "version": "20",
+      "type": "equipment"
+    }
+  ],
+  "api_version": "1.0"
+}
