@@ -1,5 +1,5 @@
 {
-  "version": "38",
+  "version": "39",
   "api_version": "1.0",
   "quests": [
     {
@@ -1919,6 +1919,34 @@
       "title": "B86: Complete a Transport Mission",
       "id": "837",
       "description": "Sortie Kinu Kai2 (鬼怒改二) as flagship, Uranami Kai (浦波改), exactly 3 other destroyers, and an additional non-destroyer ship to World 2-2 and score an S rank victory at the boss node."
+    },
+    {
+      "description_ja": "編成任務：第一艦隊に新改装された長門型戦艦一番艦「長門改二」及び同二番艦「陸奥改」からなる<br>新編第一戦隊を配備せよ！",
+      "title_ja": "新編「第一戦隊」を編成せよ！",
+      "title": "Organize the New First Squadron!",
+      "id": "180",
+      "description": "Have Nagato Kai Ni as flagship and Mutsu Kai in your main fleet. "
+    },
+    {
+      "description_ja": "遠征任務：「海上護衛任務」を反復実施し、輸送船団の護衛に務めよ！",
+      "title_ja": "輸送船団護衛を強化せよ！",
+      "title": "Reinforce the Transport Escort !",
+      "id": "424",
+      "description": "Complete Expedition 5 4 times."
+    },
+    {
+      "description_ja": "海上護衛作戦：駆逐艦または海防艦3隻以上を含む護衛艦隊を編成し、鎮守府海域の製油所地帯沿岸、<br>南西諸島防衛線、鎮守府近海、鎮守府近海航路にそれぞれ展開、各海域における作戦を成功させよ！",
+      "title_ja": "海上護衛体制の強化に努めよ！",
+      "title": "Focus the Strengthening of the Maritime Escort !",
+      "id": "855",
+      "description": "Sortie a fleet with 3 Destroyers or Coastal Defence Ships(DE) to world 1-3, 1-4, 1-5, S rank the boss nodes. Sortie to world 1-6 and clear. "
+    },
+    {
+      "description_ja": "新編「第一戦隊」出撃任務：戦艦「長門改二」を旗艦、二番艦に「陸奥改」を配備した第一艦隊で出撃！<br>カレー洋リランカ島沖、サーモン海域北方に展開し、同海域の敵艦隊主力を捕捉、これを撃滅せよ！",
+      "title_ja": "新編「第一戦隊」、抜錨せよ！",
+      "title": "Sortie the New First Squadron!",
+      "id": "856",
+      "description": "Sortie a fleet with Nagato Kai Ni as flagship and Mutsu Kai to world 4-5 and 5-5. S rank the boss nodes."
     },
     {
       "description_ja": "春の一日中に「演習」で8回以上「勝利」をおさめ、艦隊の練度向上に努めよ！",
