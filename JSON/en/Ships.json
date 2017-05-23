@@ -1,5 +1,5 @@
 {
-  "version": "20",
+  "version": "21",
   "ships": [
     {
       "name_ja": "長門",
@@ -8,6 +8,10 @@
     {
       "name_ja": "長門改",
       "name": "Nagato Kai"
+    },
+    {
+      "name_ja": "長門改二",
+      "name": "Nagato Kai2"
     },
     {
       "name_ja": "陸奥",
@@ -1927,47 +1931,47 @@
     },
     {
       "name_ja": "軽母ヌ級改",
-      "name": ""
+      "name": "Light Carrier Nu-Class Kai"
     },
     {
       "name_ja": "国後",
-      "name": ""
+      "name": "Kunashiri"
     },
     {
       "name_ja": "神威",
-      "name": ""
+      "name": "Kamoi"
     },
     {
       "name_ja": "占守",
-      "name": ""
+      "name": "Shimushu"
     },
     {
       "name_ja": "春日丸",
-      "name": ""
+      "name": "Kasuga Maru"
     },
     {
       "name_ja": "北方水姫",
-      "name": ""
+      "name": "Northern Water Princess"
     },
     {
       "name_ja": "北方水姫-壊",
-      "name": ""
+      "name": "Northern Water Princess - Damaged"
     },
     {
       "name_ja": "択捉改",
-      "name": ""
+      "name": "Etorofu Kai"
     },
     {
       "name_ja": "神威改",
-      "name": ""
+      "name": "Kamoi Kai"
     },
     {
       "name_ja": "国後改",
-      "name": ""
+      "name": "Kunashiri Kai"
     },
     {
       "name_ja": "大鷹改二",
-      "name": ""
+      "name": "Taiyou Kai2"
     },
     {
       "name_ja": "皐月改二",
@@ -1979,7 +1983,7 @@
     },
     {
       "name_ja": "護衛棲姫",
-      "name": ""
+      "name": "Escort Princess"
     },
     {
       "name_ja": "砲台小鬼",
@@ -1995,7 +1999,7 @@
     },
     {
       "name_ja": "神威改母",
-      "name": ""
+      "name": "Kamoi Kai Bo"
     },
     {
       "name_ja": "江風改二",
@@ -2067,11 +2071,11 @@
     },
     {
       "name_ja": "Гангут",
-      "name": ""
+      "name": "Gangut"
     },
     {
       "name_ja": "択捉",
-      "name": ""
+      "name": "Etorofu"
     },
     {
       "name_ja": "朝潮改二",
@@ -2119,27 +2123,27 @@
     },
     {
       "name_ja": "Октябрьская революция",
-      "name": ""
+      "name": "October Revolution"
     },
     {
       "name_ja": "大鷹",
-      "name": ""
+      "name": "Taiyou"
     },
     {
       "name_ja": "Гангут два",
-      "name": ""
+      "name": "Gangut Dva"
     },
     {
       "name_ja": "大鷹改",
-      "name": ""
+      "name": "Taiyou Kai"
     },
     {
       "name_ja": "占守改",
-      "name": ""
+      "name": "Shimushu Kai"
     },
     {
       "name_ja": "北端上陸姫",
-      "name": ""
+      "name": "Northernmost Landing Princess"
     },
     {
       "name_ja": "記念日夕雲",

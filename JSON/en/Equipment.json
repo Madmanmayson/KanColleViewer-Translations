@@ -1,8 +1,9 @@
 {
+  "version": "21",
   "equipment": [
     {
       "name_ja": "12cm単装砲",
-      "name": "12cm Naval Gun"
+      "name": "12cm Single Gun Mount"
     },
     {
       "name_ja": "12.7cm連装砲",
@@ -10,11 +11,11 @@
     },
     {
       "name_ja": "10cm連装高角砲",
-      "name": "10cm Twin High-angle Mount"
+      "name": "10cm Twin High-angle Gun Mount"
     },
     {
       "name_ja": "14cm単装砲",
-      "name": "14cm Naval Gun"
+      "name": "14cm Single Gun Mount"
     },
     {
       "name_ja": "15.5cm三連装砲",
@@ -38,11 +39,11 @@
     },
     {
       "name_ja": "12.7cm連装高角砲",
-      "name": "12.7cm Twin High-angle Mount"
+      "name": "12.7cm Twin High-angle Gun Mount"
     },
     {
       "name_ja": "15.2cm単装砲",
-      "name": "15.2cm Naval Gun"
+      "name": "15.2cm Single Gun Mount"
     },
     {
       "name_ja": "15.5cm三連装副砲",
@@ -54,11 +55,11 @@
     },
     {
       "name_ja": "61cm四連装魚雷",
-      "name": "61cm Quad Torpedo Mount"
+      "name": "61cm Quadruple Torpedo Mount"
     },
     {
       "name_ja": "61cm四連装(酸素)魚雷",
-      "name": "61cm Quad Oxygen Torpedo Mount"
+      "name": "61cm Quadruple (Oxygen) Torpedo Mount"
     },
     {
       "name_ja": "九七式艦攻",
@@ -170,11 +171,11 @@
     },
     {
       "name_ja": "九四式爆雷投射機",
-      "name": "Type 94 Depth Charge"
+      "name": "Type 94 Depth Charge Projector"
     },
     {
       "name_ja": "三式爆雷投射機",
-      "name": "Type 3 Depth Charge"
+      "name": "Type 3 Depth Charge Projector"
     },
     {
       "name_ja": "九三式水中聴音機",
@@ -186,15 +187,15 @@
     },
     {
       "name_ja": "12.7cm単装高角砲",
-      "name": "12.7cm High-angle Mount"
+      "name": "12.7cm Single High-angle Gun Mount"
     },
     {
       "name_ja": "25mm単装機銃",
-      "name": "25mm Autocannon"
+      "name": "25mm Single Autocannon Mount"
     },
     {
       "name_ja": "20.3cm(3号)連装砲",
-      "name": "20.3cm(no.3) Twin Gun Mount"
+      "name": "20.3cm (No.3) Twin Gun Mount"
     },
     {
       "name_ja": "12cm30連装噴進砲",
@@ -226,7 +227,7 @@
     },
     {
       "name_ja": "61cm五連装(酸素)魚雷",
-      "name": "61cm Quint Oxygen Torpedo Mount"
+      "name": "61cm Quintuple (Oxygen) Torpedo Mount"
     },
     {
       "name_ja": "零式水上観測機",
@@ -242,7 +243,7 @@
     },
     {
       "name_ja": "12.7cm連装砲B型改二",
-      "name": "12.7cm Twin Mount Type-B Kai2"
+      "name": "12.7cm Twin Gun Mount Type-B Kai2"
     },
     {
       "name_ja": "Ju87C改",
@@ -258,15 +259,15 @@
     },
     {
       "name_ja": "8cm高角砲",
-      "name": "8cm Twin High-angle Mount"
+      "name": "8cm High-angle Gun"
     },
     {
       "name_ja": "53cm艦首(酸素)魚雷",
-      "name": "53cm Hull-mount Oxygen Torpedoes"
+      "name": "53cm Bow (Oxygen) Torpedo Mount"
     },
     {
       "name_ja": "大発動艇",
-      "name": "Daihatsu-Class Landing Craft"
+      "name": "Daihatsu Landing Craft"
     },
     {
       "name_ja": "カ号観測機",
@@ -274,11 +275,11 @@
     },
     {
       "name_ja": "三式指揮連絡機(対潜)",
-      "name": "Type 3 Spotter/Liaison (ASW)"
+      "name": "Type 3 Command Liaison Aircraft (ASW)"
     },
     {
       "name_ja": "10cm連装高角砲(砲架)",
-      "name": "10cm Twin High-angle Carriage Mount"
+      "name": "10cm Twin High-angle Gun Mount (Carriage)"
     },
     {
       "name_ja": "増設バルジ(中型艦)",
@@ -302,11 +303,11 @@
     },
     {
       "name_ja": "15cm連装副砲",
-      "name": "15cm Twin Gun Mount"
+      "name": "15cm Twin Gun Mount (Secondary)"
     },
     {
       "name_ja": "12.7cm単装砲",
-      "name": "12.7cm Naval Gun"
+      "name": "12.7cm Single Gun Mount"
     },
     {
       "name_ja": "瑞雲(六三四空)",
@@ -354,15 +355,15 @@
     },
     {
       "name_ja": "20.3cm(2号)連装砲",
-      "name": "20.3cm(no.2) Twin Gun Mount"
+      "name": "20.3cm (No.2) Twin Gun Mount"
     },
     {
       "name_ja": "12.7cm連装高角砲(後期型)",
-      "name": "12.7cm Twin High-Angle Mount (Late Model)"
+      "name": "12.7cm Twin High-angle Gun Mount (Late Model)"
     },
     {
       "name_ja": "毘式40mm連装機銃",
-      "name": "HI-type 40mm Twin Machine Gun"
+      "name": "BI-type 40mm Twin Machine Gun"
     },
     {
       "name_ja": "九七式艦攻(友永隊)",
@@ -374,7 +375,7 @@
     },
     {
       "name_ja": "潜水艦53cm艦首魚雷(8門)",
-      "name": "53cm Submarine Bow Torpedo Mount (8 tubes)"
+      "name": "53cm Submarine Bow Torpedo Mount (8 Tubes)"
     },
     {
       "name_ja": "九九式艦爆(熟練)",
@@ -390,15 +391,15 @@
     },
     {
       "name_ja": "九八式水上偵察機(夜偵)",
-      "name": "Type 98 Recon Seaplane (Night Scout)"
+      "name": "Type 98 Recon Seaplane (Night Recon)"
     },
     {
       "name_ja": "九九式艦爆(江草隊)",
-      "name": "Type 99 Dive Bomber (Ekusa Squadron)"
+      "name": "Type 99 Dive Bomber (Egusa Squadron)"
     },
     {
       "name_ja": "彗星(江草隊)",
-      "name": "Suisei (Ekusa Squadron)"
+      "name": "Suisei (Egusa Squadron)"
     },
     {
       "name_ja": "試製35.6cm三連装砲",
@@ -406,7 +407,7 @@
     },
     {
       "name_ja": "35.6cm連装砲(ダズル迷彩)",
-      "name": "35.6cm Twin Gun Mount (Dazzle camo)"
+      "name": "35.6cm Twin Gun Mount (Dazzle Camo)"
     },
     {
       "name_ja": "零式艦戦21型(熟練)",
@@ -418,7 +419,7 @@
     },
     {
       "name_ja": "特大発動艇",
-      "name": "Toku Daihatsu-class Landing Craft"
+      "name": "Toku Daihatsu Landing Craft"
     },
     {
       "name_ja": "試製41cm三連装砲",
@@ -470,7 +471,7 @@
     },
     {
       "name_ja": "試製46cm連装砲",
-      "name": "46cm Twin Gun Mount Prototype"
+      "name": "Prototype 46cm Twin Gun Mount"
     },
     {
       "name_ja": "紫雲",
@@ -490,7 +491,7 @@
     },
     {
       "name_ja": "10cm連装高角砲+高射装置",
-      "name": "10cm Twin High-angle Mount + Anti-Aircraft Fire Director"
+      "name": "10cm Twin High-angle Gun Mount + Anti-Aircraft Fire Director"
     },
     {
       "name_ja": "SKC34 20.3cm連装砲",
@@ -518,11 +519,11 @@
     },
     {
       "name_ja": "熟練見張員",
-      "name": "Skilled Spotting Personnel"
+      "name": "Skilled Lookouts"
     },
     {
       "name_ja": "12.7cm高角砲+高射装置",
-      "name": "12.7cm High-Angle Mount + Anti-Aircraft Fire Director"
+      "name": "12.7cm High-angle Gun + Anti-Aircraft Fire Director"
     },
     {
       "name_ja": "25mm三連装機銃 集中配備",
@@ -530,7 +531,7 @@
     },
     {
       "name_ja": "零式水中聴音機",
-      "name": "Type 0 SONAR"
+      "name": "Type 0 Passive SONAR"
     },
     {
       "name_ja": "381mm/50 三連装砲",
@@ -546,7 +547,7 @@
     },
     {
       "name_ja": "プリエーゼ式水中防御隔壁",
-      "name": "Pugliese Underwater Protection System"
+      "name": "Pugliese Underwater Protection Bulkhead"
     },
     {
       "name_ja": "381mm/50 三連装砲改",
@@ -554,7 +555,7 @@
     },
     {
       "name_ja": "二式大艇",
-      "name": "Type 2 Large-sized Flying Boat"
+      "name": "Type 2 Large Flying Boat"
     },
     {
       "name_ja": "96式150cm探照灯",
@@ -562,23 +563,23 @@
     },
     {
       "name_ja": "15m二重測距儀+21号電探改二",
-      "name": "15m Duplex Rangefinder + Type 21 Air RADAR Kai2"
+      "name": "15m Duplex Rangefinder + Type 21 RADAR Kai2"
     },
     {
       "name_ja": "九七式艦攻(村田隊)",
-      "name": "Type 97 Torpedo Bomber (Murata Squadron)\u200e"
+      "name": "Type 97 Torpedo Bomber (Murata Squadron)"
     },
     {
       "name_ja": "天山一二型(村田隊)",
-      "name": "Tenzan Model 12 (Murata Squadron)\u200e"
+      "name": "Tenzan Model 12 (Murata Squadron)"
     },
     {
       "name_ja": "戦闘糧食",
-      "name": "Combat Rations"
+      "name": "Combat Ration"
     },
     {
       "name_ja": "洋上補給",
-      "name": "Off-shore Resupply"
+      "name": "Maritime Resupply"
     },
     {
       "name_ja": "120mm連装砲",
@@ -598,7 +599,7 @@
     },
     {
       "name_ja": "試製景雲(艦偵型)",
-      "name": "Prototype Keiun"
+      "name": "Prototype Keiun (Carrier-based Recon Model)"
     },
     {
       "name_ja": "Re.2005 改",
@@ -610,7 +611,7 @@
     },
     {
       "name_ja": "QF 2ポンド8連装ポンポン砲",
-      "name": "QF 2-pounder Octuple “Pom Pom” Naval Gun Mount"
+      "name": "QF 2-pounder Octuple “Pom Pom” Gun Mount"
     },
     {
       "name_ja": "銀河",
@@ -622,23 +623,23 @@
     },
     {
       "name_ja": "12.5inch連装副砲",
-      "name": "12.5inch Dual Secondary Gun"
+      "name": "12.5inch Twin Secondary Gun Mount"
     },
     {
       "name_ja": "21inch魚雷後期型",
-      "name": "21inch Torpedo Mk.II"
+      "name": "21inch Torpedo Late Model"
     },
     {
       "name_ja": "5inch単装砲",
-      "name": "5inch Single Gun"
+      "name": "5inch Single Gun Mount"
     },
     {
       "name_ja": "零戦52型丙(六〇一空)",
-      "name": "Type 0 Fighter Model 52-C (601 Air Group)"
+      "name": "Zero Fighter Model 52C (601 Air Group)"
     },
     {
       "name_ja": "6inch連装速射砲",
-      "name": "6inch Dual Rapid-fire Gun"
+      "name": "6inch Twin Rapid-fire Gun Mount"
     },
     {
       "name_ja": "深海ソナー",
@@ -654,15 +655,15 @@
     },
     {
       "name_ja": "5inch単装高射砲",
-      "name": "5inch Single AA Gun"
+      "name": "5inch Single Anti-Aircraft Gun Mount"
     },
     {
       "name_ja": "零戦52型甲(付岩本小隊)",
-      "name": "Type 0 Fighter Model 52-A (Iwamoto Squadron)"
+      "name": "Zero Fighter Model 52A (Iwamoto Squadron)"
     },
     {
       "name_ja": "零戦62型(爆戦/岩井隊)",
-      "name": "Type 0 Fighter (Bomber) Model 62 (Iwai Squadron)"
+      "name": "Zero Fighter Model 62 (Fighter-bomber / Iwai Squadron)"
     },
     {
       "name_ja": "TBD",
@@ -686,7 +687,7 @@
     },
     {
       "name_ja": "8cm高角砲改+増設機銃",
-      "name": "8cm Twin High-angle Mount Kai + Additional Machine Guns"
+      "name": "8cm High-angle Gun Kai + Additional Machine Guns"
     },
     {
       "name_ja": "後期型艦首魚雷(6門)",
@@ -718,7 +719,7 @@
     },
     {
       "name_ja": "艦本新設計 増設バルジ(大型艦)",
-      "name": ""
+      "name": "New Design Anti-Torpedo Bulge (Large)"
     },
     {
       "name_ja": "Bf109T改",
@@ -734,47 +735,47 @@
     },
     {
       "name_ja": "一式戦 隼II型",
-      "name": ""
+      "name": "Type 1 Fighter Hayabusa Model II"
     },
     {
       "name_ja": "九六式艦戦改",
-      "name": ""
+      "name": "Type 96 Fighter Kai"
     },
     {
       "name_ja": "九五式爆雷",
-      "name": ""
+      "name": "Type 95 Depth Charge"
     },
     {
       "name_ja": "二式爆雷",
-      "name": ""
+      "name": "Type 2 Depth Charge"
     },
     {
       "name_ja": "特大発動艇+戦車第11連隊",
-      "name": ""
+      "name": "Toku Daihatsu-Class Landing Craft + 11th Tank Regiment"
     },
     {
       "name_ja": "一式戦 隼III型甲(54戦隊)",
-      "name": ""
+      "name": "Type 1 Fighter Hayabusa Model III A (54th Squadron)"
     },
     {
       "name_ja": "30.5cm三連装砲",
-      "name": ""
+      "name": "30.5cm Triple Gun Mount"
     },
     {
       "name_ja": "爆装一式戦 隼III型改(55戦隊)",
-      "name": ""
+      "name": "Bomb-carrying Type 1 Fighter Hayabusa Model III Kai (55th Squadron)"
     },
     {
       "name_ja": "30.5cm三連装砲改",
-      "name": ""
+      "name": "30.5cm Triple Gun Mount Kai"
     },
     {
       "name_ja": "一式戦 隼II型(64戦隊)",
-      "name": ""
+      "name": "Type 1 Fighter Hayabusa Model II (64th Squadron)"
     },
     {
       "name_ja": "12.7cm単装高角砲(後期型)",
-      "name": ""
+      "name": "12.7cm Single High-angle Gun Mount (Late Model)"
     },
     {
       "name_ja": "零式艦戦21型",
@@ -790,7 +791,7 @@
     },
     {
       "name_ja": "深海地獄艦爆改",
-      "name": "Abyssal Hell Diver Kai"
+      "name": "Abyssal Hell Dive Bomber Kai"
     },
     {
       "name_ja": "深海棲艦攻 Mark.II",
@@ -810,7 +811,7 @@
     },
     {
       "name_ja": "零式艦戦62型(爆戦)",
-      "name": "Type 0 Fighter (Bomber) Model 62"
+      "name": " Type 0 Fighter Model 62 (Fighter-bomber)"
     },
     {
       "name_ja": "Laté 298B",
@@ -818,11 +819,11 @@
     },
     {
       "name_ja": "203mm/53 連装砲",
-      "name": "203mm / 53 Twin Gun Mount"
+      "name": "203mm/53 Twin Gun Mount"
     },
     {
       "name_ja": "Ro.43水偵",
-      "name": "Ro.43 Seaplane"
+      "name": "Ro.43 Recon Seaplane"
     },
     {
       "name_ja": "16inch三連装砲",
@@ -838,23 +839,23 @@
     },
     {
       "name_ja": "21inch魚雷前期型",
-      "name": "21inch Torpedo Mk.I"
+      "name": "21inch Torpedo Early Model"
     },
     {
       "name_ja": "3inch単装高角砲",
-      "name": "3inch Single High-angle Mount"
+      "name": "3inch Single High-angle Gun Mount"
     },
     {
       "name_ja": "5inch連装砲",
-      "name": "5inch Dual Gun"
+      "name": "5inch Twin Gun Mount"
     },
     {
       "name_ja": "6inch単装砲",
-      "name": "6inch Single Gun"
+      "name": "6inch Single Gun Mount"
     },
     {
       "name_ja": "8inch三連装砲",
-      "name": "8inch Triple Gun"
+      "name": "8inch Triple Gun Mount"
     },
     {
       "name_ja": "水上レーダ― Mark.I",
@@ -874,11 +875,11 @@
     },
     {
       "name_ja": "深海地獄艦爆",
-      "name": "\tAbyssal Hell Diver"
+      "name": "Abyssal Hell Dive Bonber"
     },
     {
       "name_ja": "深海復讐艦攻",
-      "name": "\tAbyssal Avenger Torpedo Bomber"
+      "name": "Abyssal Revenge Torpedo Bomber"
     },
     {
       "name_ja": "深海探照灯",
@@ -934,7 +935,7 @@
     },
     {
       "name_ja": "5inch連装両用莢砲",
-      "name": "5inch Dual Dual Purpose Gun"
+      "name": "5inch Twin Dual Purpose Gun"
     },
     {
       "name_ja": "橘花改",
@@ -962,7 +963,7 @@
     },
     {
       "name_ja": "特二式内火艇",
-      "name": "Special Type 2 Amphibious Landing Craft"
+      "name": "Special Type 2 Amphibious Tank"
     },
     {
       "name_ja": "OS2U",
@@ -974,11 +975,11 @@
     },
     {
       "name_ja": "一式陸攻",
-      "name": "Isshikirikkou"
+      "name": "Type 1 Land-based Attack Aircraft"
     },
     {
       "name_ja": "一式陸攻(野中隊)",
-      "name": "Isshikirikkou (Nonaka Squadron)"
+      "name": "Type 1 Land-based Attack Aircraft (Nonaka Squadron)"
     },
     {
       "name_ja": "5inch連装砲 Mk.28 mod.2",
@@ -986,7 +987,7 @@
     },
     {
       "name_ja": "53cm連装魚雷",
-      "name": "53cm Twin Torpedo"
+      "name": "53cm Twin Torpedo Mount"
     },
     {
       "name_ja": "雷電",
@@ -994,11 +995,11 @@
     },
     {
       "name_ja": "三式戦 飛燕",
-      "name": "Army Type 3 Fighter “Hien”"
+      "name": "Type 3 Fighter Hien"
     },
     {
       "name_ja": "三式戦 飛燕(飛行第244戦隊)",
-      "name": "Army Type 3 Fighter “Hien” (244 Fighter Group)"
+      "name": "Type 3 Fighter Hien (244 Fighter Group)"
     },
     {
       "name_ja": "九六式陸攻",
@@ -1014,15 +1015,15 @@
     },
     {
       "name_ja": "零戦21型(付岩本小隊)",
-      "name": "Type 0 Fighter Model 21 (Iwamoto Squadron)"
+      "name": "Zero Fighter Model 21 (Iwamoto Squadron)"
     },
     {
       "name_ja": "零戦52型丙(付岩井小隊)",
-      "name": "Type 0 Fighter Model 52-C (Iwai Squadron)"
+      "name": "Zero Fighter Model 52C (Iwai Squadron)"
     },
     {
       "name_ja": "一式陸攻 二二型甲",
-      "name": "Isshikirikkou Model 22A"
+      "name": "Type 1 Land-based Attack Aircraft Model 22A"
     },
     {
       "name_ja": "試製61cm六連装(酸素)魚雷",
@@ -1066,7 +1067,7 @@
     },
     {
       "name_ja": "潜水艦搭載電探&水防式望遠鏡",
-      "name": "Submarine Radar and Waterproof Periscope"
+      "name": "Submarine RADAR and Waterproof Periscope"
     },
     {
       "name_ja": "瑞雲(六三一空)",
@@ -1074,9 +1075,8 @@
     },
     {
       "name_ja": "一式戦 隼III型甲",
-      "name": ""
+      "name": "Type 1 Fighter Hayabusa Model III A"
     }
   ],
-  "version": "20",
   "api_version": "1.0"
 }
