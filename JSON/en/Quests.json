@@ -1897,7 +1897,7 @@
       "title_ja": "南西諸島防衛線を増強せよ！",
       "title": "B83: Reinforce the Nansei Island Defence Line",
       "id": "834",
-      "description": "Sortie a fleet with a seaplane tender or an aircraft carrier as the flagship and up to 5 additional ships to world 1-4 and score an S rank at the boss node."
+      "description": "Sortie a fleet with a seaplane tender or an aviation cruiser as the flagship and up to 5 additional ships to world 1-4 and score an S rank at the boss node."
     },
     {
       "description_ja": "「第十六戦隊(第三次)」を沖ノ島海域前面に展開、敵主力艦隊を捕捉、これを撃破せよ！",
@@ -2191,7 +2191,7 @@
       "title_ja": "精鋭「水戦」隊の増勢",
       "title": "F52: Expand the New Elite Seaplane Group",
       "id": "660",
-      "description": "Have a secretary ship equipped with a Maxed Expertise and Max Star Type 2 Seaplane Fighter Kai in the first slot and then Scrap 2 Type 21 Zero Fighter and 2 Zuiun in your inventory. Requires and consumes 1 Skilled Pilot."
+      "description": "Have a secretary ship equipped with a Maxed Proficiency and Max Star Type 2 Seaplane Fighter Kai in the first slot and then Scrap 2 Type 21 Zero Fighter and 2 Zuiun in your inventory. Requires and consumes 1 Skilled Pilot."
     },
     {
       "description_ja": "「61cm三連装魚雷」を四つ廃棄、開発資材x120と「61cm四連装(酸素)魚雷」「九三式水中聴音機」各三つを準備せよ！　※任務達成後、用意した開発資材及び必要装備(低改修値のもの優先)は消費します。",
@@ -2212,7 +2212,7 @@
       "title_ja": "精鋭「水戦」隊の新編成",
       "title": "F51: Organise the New Elite Seaplane Group",
       "id": "659",
-      "description": "Have a secretary ship equipped with a Maxed Expertise and Max Star in the first slot Type 2 Seaplane Fighter Kai and then Scrap 2 Type 21 Zero Fighter and 2 Zuiun in your inventory. Requires and consumes 1 Skilled Pilot."
+      "description": "Have a secretary ship equipped with a Maxed Proficiency and Max Star Type 2 Seaplane Fighter Kai in the first slot and then Scrap 2 Type 21 Zero Fighter and 2 Zuiun in your inventory. Requires and consumes 1 Skilled Pilot."
     },
     {
       "description_ja": "駆逐艦4隻による精鋭「駆逐隊」を編成し、鎮守府正面海域及び南西諸島沖に出撃、<br>両海域の敵艦隊を捕捉、これを撃滅せよ！",
