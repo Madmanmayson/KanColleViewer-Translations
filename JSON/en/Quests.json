@@ -1,5 +1,5 @@
 {
-  "version": "39",
+  "version": "40",
   "api_version": "1.0",
   "quests": [
     {
@@ -537,9 +537,16 @@
     {
       "description_ja": "編成任務：第一艦隊に新改装された長門型戦艦一番艦「長門改二」及び同二番艦「陸奥改」からなる<br>新編第一戦隊を配備せよ！",
       "title_ja": "新編「第一戦隊」を編成せよ！",
-      "title": "Organize the New First Squadron!",
+      "title": "A75: Organize the New First Squadron!",
       "id": "180",
       "description": "Have Nagato Kai Ni as flagship and Mutsu Kai in your main fleet. "
+    },
+    {
+      "description_ja": "編成任務：第一艦隊旗艦に新改装された改鈴谷型「熊野改二」、同二番艦に「鈴谷改二」、<br>僚艦に「最上改」「三隈改」を配した新編第七戦隊を配備せよ！",
+      "title_ja": "新編「第七戦隊」を編成せよ！",
+      "title": "A76: Organize the new Seventh Squadron!",
+      "id": "181",
+      "description": "Have Kumano Kai Ni as the flagship, Suzuya Kai Ni as the second ship, and both Mogami Kai and Mikuma Kai in your main fleet"
     },
     {
       "description_ja": "艦隊を出撃させ、敵艦隊を捕捉、これを撃滅せよ！",
@@ -1419,10 +1426,17 @@
     {
       "description_ja": "遠征任務：「海上護衛任務」を反復実施し、輸送船団の護衛に務めよ！",
       "title_ja": "輸送船団護衛を強化せよ！",
-      "title": "Reinforce the Transport Escort !",
+      "title": "D22: Reinforce the Transport Escort!",
       "id": "424",
-      "description": "Successfully complete Expedition 5, 4 times."
+      "description": "Successfully complete Expedition 5 a total of 4 times."
     },
+    {
+      "description_ja": "遠征任務：遠征任務「対潜警戒任務」「海上護衛任務」「タンカー護衛任務」を実施、<br>軽巡、駆逐艦、海防艦などから編成された護衛艦隊で各遠征を成功させよ！",
+      "title_ja": "海上護衛総隊、遠征開始！",
+      "title": "D23: Surface Escort Fleets, Commence Expeditions!",
+      "id": "425",
+      "description": "Organize a fleet consisting of only CL, DD and DE and successfully complete Expedition 4,5, and 9"
+    }
     {
       "description_ja": "補給は大事です！燃料・弾薬を艦に「補給」しよう！",
       "title_ja": "はじめての「補給」！",
@@ -1813,7 +1827,7 @@
       "title_ja": "【丙】作戦「彩雲」調達＆輸送分解",
       "title": "Disassemble and Transport the Saiun",
       "id": "654",
-      "description": ""
+      "description": "No one will ever know"
     },
     {
       "description_ja": "秘書艦に「伊401」または「伊14」または「伊13」を配備。「晴嵐」を一番スロットに搭載。「瑞雲(六三一空)」を二番スロットに搭載。「晴嵐(六三一空)」を新編せよ！　※任務達成後瑞雲は消滅します。",
@@ -1850,6 +1864,27 @@
       "id": "660",
       "description": "Have a secretary ship equipped with a Maxed Proficiency and Max Star Type 2 Seaplane Fighter Kai in the first slot and then Scrap 2 Type 21 Zero Fighter and 2 Zuiun in your inventory. Requires and consumes 1 Skilled Pilot."
     },
+    {
+      "description_ja": "工廠任務：新型砲墳兵装の開発及び同戦力化を開始する。「副砲」系装備x10を廃棄、<br>鉄鋼6,000を準備せよ！　※任務達成後、準備した資源は消費します。",
+      "title_ja": "新型砲墳兵装、戦力化開始！",
+      "title": "F53: Begin Strengthening the New Type Gun Armament!",
+      "id": "661",
+      "description": "Scrap 10 Secondary Guns and have 6000 steel. Steel will be consumed upon completion."
+    },
+    {
+      "description_ja": "工廠任務：新型艤装の開発研究を実施する。「中口径主砲」系装備x10を廃棄、鉄鋼12,000を準備せよ！<br>※任務達成後、準備した資源は消費します。「勲章」と「新型砲熕兵装資材」の獲得選択が可能です。",
+      "title_ja": "新型艤装の開発研究",
+      "title": "F54: Development Research of New Rigging Types",
+      "id": "662",
+      "description": "Scrap 10 Medium-Sized Guns and have 12000 steel. Steel will be consumed upon completion. Selectable reward; clicking on either will lock the choice in as your selection."
+    },
+    {
+      "description_ja": "工廠任務：新型艤装の開発を継続実施する。「大口径主砲」系装備x10を廃棄、鉄鋼18000を準備せよ！<br>※任務達成後、準備した資源は消費します。「勲章」と「新型砲熕兵装資材」の獲得選択が可能です。",
+      "title_ja": "新型艤装の継続研究",
+      "title" : "F55: Continued Research of New Rigging Types",
+      "id": "663",
+      "description": "Scrap 10 Large-Caliber Main Guns and have 18000 steel. Steel will be consumed upon completion. Selectable reward; clicking on either will lock the choice in as your selection."
+    }
     {
       "description_ja": "任意の艦を近代化改修(合成)して、強化せよ！",
       "title_ja": "はじめての「近代化改修」！",
@@ -2261,14 +2296,28 @@
       "title_ja": "海上護衛体制の強化に努めよ！",
       "title": "Focus the Strengthening of the Maritime Escort !",
       "id": "855",
-      "description": "Sortie a fleet with 3 Destroyers or Coastal Defence Ships (DE) to world 1-3, 1-4, 1-5, S rank the boss nodes. Sortie to world 1-6 and clear. "
+      "description": "Sortie a fleet consisting of 3 DD/DE to world 1-3, 1-4, 1-5 and S rank the boss nodes. Sortie to world 1-6 and clear. "
     },
     {
       "description_ja": "新編「第一戦隊」出撃任務：戦艦「長門改二」を旗艦、二番艦に「陸奥改」を配備した第一艦隊で出撃！<br>カレー洋リランカ島沖、サーモン海域北方に展開し、同海域の敵艦隊主力を捕捉、これを撃滅せよ！",
       "title_ja": "新編「第一戦隊」、抜錨せよ！",
       "title": "Sortie the New First Squadron!",
       "id": "856",
-      "description": "Sortie a fleet with Nagato Kai Ni as flagship and Mutsu Kai to world 4-5 and 5-5. S rank the boss nodes."
-    }
+      "description": "Sortie a fleet with Nagato Kai Ni as flagship and Mutsu Kai to world 4-5 and 5-5 and S rank the boss nodes."
+    },
+    {
+      "description_ja": "出撃任務：軽巡1隻以上、駆逐艦または海防艦2隻以上、さらに航空巡洋艦または軽空母で増強した<br>第一護衛艦隊を第一艦隊に編成、南西諸島海域の各海域に展開、敵艦隊を撃破、各作戦を成功させよ！",
+      "title_ja": "増強海上護衛総隊、抜錨せよ！",
+      "title": "All Surface Escort Fleets, Sortie!",
+      "id": "857",
+      "description": "Sortie a fleet consiting of 1 CL, 2 DD/DE, 1 CAV,CVL, and two additional ships to worlds 2-2, 2-3, 2-4, and 2-5 and S rank the boss node."
+    },
+    {
+      "description_ja": "出撃任務：新編「第七戦隊」を出撃！　カレー洋リランカ島沖「深海東洋艦隊漸減作戦」、<br>MS諸島沖「MS諸島防衛戦」において、敵艦隊主力を捕捉、これを撃滅せよ！",
+      "title_ja": "新編「第七戦隊」、出撃せよ！",
+      "title": "New Seventh Squadron, Sortie!",
+      "id": "858",
+      "description": "Sortie a fleet with Kumano Kai Ni as the flagship, Suzuya Kai Ni as the second ship, both Mogami Kai and Mikuma Kai and two other ships to worlds 4-5 and 6-2 and S rank the boss node."
+    },
   ]
 }
