@@ -1433,7 +1433,7 @@
     {
       "description_ja": "遠征任務：遠征任務「対潜警戒任務」「海上護衛任務」「タンカー護衛任務」を実施、<br>軽巡、駆逐艦、海防艦などから編成された護衛艦隊で各遠征を成功させよ！",
       "title_ja": "海上護衛総隊、遠征開始！",
-      "title": "D24: Surface Escort Fleets, Commence Expeditions!",
+      "title": "D23: Surface Escort Fleets, Commence Expeditions!",
       "id": "425",
       "description": "Organize a fleet consisting of only CL, DD and DE and successfully complete Expedition 4,5, and 9"
     },
@@ -2310,14 +2310,14 @@
       "title_ja": "増強海上護衛総隊、抜錨せよ！",
       "title": "B100: All Surface Escort Fleets, Sortie!",
       "id": "857",
-      "description": "Sortie a fleet consiting of 1 CL, 2 DD/DE, 1 CAV,CVL, and two additional ships to worlds 2-2, 2-3, 2-4, and 2-5 and S rank the boss node."
+      "description": "Sortie a fleet consiting of 1 CL, 2 DD/DE, 1 CAV,CVL, and two additional ships to worlds 2-2, 2-3, 2-4, and 2-5 and S rank the boss node. Selectable reward; clicking on either will lock the choice in as your selection."
     },
     {
       "description_ja": "出撃任務：新編「第七戦隊」を出撃！　カレー洋リランカ島沖「深海東洋艦隊漸減作戦」、<br>MS諸島沖「MS諸島防衛戦」において、敵艦隊主力を捕捉、これを撃滅せよ！",
       "title_ja": "新編「第七戦隊」、出撃せよ！",
       "title": "B101: New Seventh Squadron, Sortie!",
       "id": "858",
-      "description": "Sortie a fleet with Kumano Kai Ni as the flagship, Suzuya Kai Ni as the second ship, both Mogami Kai and Mikuma Kai and two other ships to worlds 4-5 and 6-2 and S rank the boss node."
+      "description": "Sortie a fleet with Kumano Kai Ni as the flagship, Suzuya Kai Ni as the second ship, both Mogami Kai and Mikuma Kai and two other ships to worlds 4-5 and 6-2 and S rank the boss node. Selectable reward; clicking on either will lock the choice in as your selection."
     }
   ]
 }
