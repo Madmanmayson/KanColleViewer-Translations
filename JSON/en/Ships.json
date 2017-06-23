@@ -1,5 +1,5 @@
 {
-  "version": "22",
+  "version": "23",
   "ships": [
     {
       "name_ja": "長門",
@@ -420,6 +420,10 @@
     {
       "name_ja": "由良改",
       "name": "Yura Kai"
+    },
+	{
+      "name_ja": "由良改二",
+      "name": "Yura Kai2"
     },
     {
       "name_ja": "川内",
