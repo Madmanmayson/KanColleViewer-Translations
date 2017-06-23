@@ -1,5 +1,5 @@
 {
-  "version": "42",
+  "version": "43",
   "api_version": "1.0",
   "quests": [
     {
@@ -245,7 +245,7 @@
       "title_ja": "新たなる旅立ち！",
       "title": "WA02: Journey Anew",
       "id": "135",
-      "description": "Organize a fleet of 6 ships with your newly bonded ship of Lv.100 or more as flagship!"
+      "description": "Organize a fleet of 6 ships with your newly bonded ship of Lv.100 or more as the flagship!"
     },
     {
       "description_ja": "「睦月」「弥生」「卯月」「望月」4隻による第三十駆逐隊(第二次)を編成せよ！",
@@ -273,7 +273,7 @@
       "title_ja": "潜水艦隊「第六艦隊」を編成せよ！",
       "title": "A37: Form the 6th Submarine Fleet",
       "id": "139",
-      "description": "Have an AS as flagship and 4 (or more) SS/SSV in your main fleet."
+      "description": "Have an AS as the flagship and 4 (or more) SS/SSV in your main fleet."
     },
     {
       "description_ja": "新型電探運用試験のため、第一艦隊の旗艦に「妙高改二」を配備せよ！",
@@ -287,7 +287,7 @@
       "title_ja": "再編成「第二航空戦隊」を強化せよ！",
       "title": "A39: Strengthen the Reorganized 2nd Carrier Division",
       "id": "141",
-      "description": "Have Souryuu Kai2 (蒼龍改二) as flagship, Hiryuu Kai2 (飛龍改二) and 2 DD in your main fleet."
+      "description": "Have Souryuu Kai2 (蒼龍改二) as the flagship, Hiryuu Kai2 (飛龍改二) and 2 DD in your main fleet."
     },
     {
       "description_ja": "第二次改装を完了した改装金剛型高速戦艦4隻を集結させよ！",
@@ -327,7 +327,7 @@
     {
       "description_ja": "「扶桑」「山城」「最上」「時雨」「満潮」を基幹とした西村艦隊を編成せよ！",
       "title_ja": "「西村艦隊」を再編成せよ！",
-      "title": "A44: Form the Reorganised Nishimura Fleet",
+      "title": "A44: Form the ReOrganized Nishimura Fleet",
       "id": "147",
       "description": "Have Fusou (扶桑), Yamashiro (山城), Mogami (最上), Shigure (時雨) and Michishio (満潮) in your main fleet."
     },
@@ -404,7 +404,7 @@
     {
       "description_ja": "「翔鶴」「瑞鶴」と随伴駆逐艦「朧」「秋雲」を基幹とした第五航空戦隊を再編成せよ！",
       "title_ja": "「第五航空戦隊」を再編成せよ！",
-      "title": "A56: Reorganise the 5th Carrier Division",
+      "title": "A56: ReOrganize the 5th Carrier Division",
       "id": "161",
       "description": "Have Shoukaku (翔鶴), Zuikaku (瑞鶴), Oboro (朧) and Akigumo (秋雲) in your main fleet."
     },
@@ -418,42 +418,42 @@
     {
       "description_ja": "「足柄」を旗艦として「球磨」「長良」を擁する、第十六戦隊(第一次)を編成せよ！",
       "title_ja": "「第十六戦隊(第一次)」を編成せよ！",
-      "title": "A58: Organise the 16th Squadron (1st Gen.)",
+      "title": "A58: Organize the 16th Squadron (1st Gen.)",
       "id": "163",
       "description": "Have Ashigara (足柄) as the flagship, Kuma (球磨) and Nagara (長良) in your main fleet."
     },
     {
       "description_ja": "「瑞鶴改」を旗艦とし、「瑞鳳」「千歳」「千代田」を加えた4隻の空母部隊を編成せよ！",
       "title_ja": "「第三航空戦隊」を編成せよ！",
-      "title": "A59: Organise the 3rd Carrier Division",
+      "title": "A59: Organize the 3rd Carrier Division",
       "id": "164",
       "description": "Have Zuikaku Kai (瑞鶴改) as the flagship, Zuihou (瑞鳳), Chitose (千歳) and Chiyoda (千代田) in your main fleet."
     },
     {
       "description_ja": "航空戦艦「伊勢改」及び「日向改」を基幹戦力とした第四航空戦隊を編成せよ！",
       "title_ja": "「第四航空戦隊」を編成せよ！",
-      "title": "A60: Organise the 4th Carrier Division",
+      "title": "A60: Organize the 4th Carrier Division",
       "id": "165",
       "description": "Have Ise Kai (伊勢改) and Hyuuga Kai (日向改) in your main fleet."
     },
     {
       "description_ja": "「瑞鶴改」旗艦、空母「瑞鳳改」「千歳」「千代田」及び「伊勢改」「日向改」を配備せよ！",
       "title_ja": "「小沢艦隊」を編成せよ！",
-      "title": "A61: Organise the Ozawa Fleet",
+      "title": "A61: Organize the Ozawa Fleet",
       "id": "166",
       "description": "Have Zuikaku Kai (瑞鶴改) as the flagship, aircraft carriers Zuihou Kai (瑞鳳改), Chitose (千歳) and Chiyoda (千代田), and aviation battleships Ise Kai (伊勢改) and Hyuuga Kai (伊勢改) in your main fleet. "
     },
     {
       "description_ja": "改二改装を終えた翔鶴型航空母艦2隻と同護衛艦による新航空戦隊を新編成せよ！",
       "title_ja": "新航空戦隊を編成せよ！",
-      "title": "A62: Organise the New Carrier Fleet",
+      "title": "A62: Organize the New Carrier Fleet",
       "id": "167",
       "description": "Have Shoukaku Kai2 (翔鶴改二) and Zuikaku Kai2 (瑞鶴改) along with 2 destroyers as their escort in your main fleet."
     },
     {
       "description_ja": "「名取」を旗艦として「五十鈴」「鬼怒」を擁する、第十六戦隊(第二次)を編成せよ！",
       "title_ja": "「第十六戦隊(第二次)」を編成せよ！",
-      "title": "A63: Organise the 16th Squadron (2nd Gen.)",
+      "title": "A63: Organize the 16th Squadron (2nd Gen.)",
       "id": "168",
       "description": "Have Natori (名取) as the flagship, Isuzu (五十鈴) and Kinu (鬼怒) in your main fleet."
     },
@@ -474,35 +474,35 @@
     {
       "description_ja": "「五十鈴改二」旗艦、「皐月改二」「卯月改」を含む、対潜機動水上部隊を編成せよ！",
       "title_ja": "「第三十一戦隊(第一次)」を編成せよ！",
-      "title": "A66: Organise the 31st Squadron (1st Gen.)",
+      "title": "A66: Organize the 31st Squadron (1st Gen.)",
       "id": "171",
       "description": "Have Isuzu Kai2 (五十鈴改二) as the flagship, Satsuki Kai2 (皐月改二) and Uzuki Kai (卯月改) in your fleet."
     },
     {
       "description_ja": "「白露改」旗艦、「時雨」「春雨」「五月雨」4隻による第二七駆逐隊を編成せよ！",
       "title_ja": "「第二七駆逐隊」を編成せよ！",
-      "title": "A67: Organise the 27th Destroyer Division",
+      "title": "A67: Organize the 27th Destroyer Division",
       "id": "172",
       "description": "Have Shiratsuyu Kai (白露改) as the flagship, Shigure (時雨), Harusame (春雨) and Samidare (五月雨) in your fleet. Only these 4 should be present."
     },
     {
       "description_ja": "「川内改二」旗艦、「江風改二」「時雨改二」他駆逐2隻による水雷戦隊を編成せよ！",
       "title_ja": "強行高速輸送部隊を編成せよ！",
-      "title": "A68: Organise the High-Speed Transport Fleet",
+      "title": "A68: Organize the High-Speed Transport Fleet",
       "id": "173",
       "description": "Have Sendai Kai2 (川内改二) as the flagship, Kawakaze Kai2 (江風改二), Shigure Kai2 (時雨改二) and two more destroyers in your fleet."
     },
     {
       "description_ja": "軽巡級を旗艦とした駆逐艦4隻からなる強力な水雷戦隊を含む艦隊を再編成せよ！",
       "title_ja": "新編「水雷戦隊」を含む艦隊を再編成せよ！",
-      "title": "A69: Organise a New Torpedo Squadron",
+      "title": "A69: Organize a New Torpedo Squadron",
       "id": "174",
       "description": "Have a light cruiser as the flagship and 4 destroyers in your fleet."
     },
     {
       "description_ja": "「朝潮改二」を旗艦とした「満潮」「大潮」「荒潮」4隻による第八駆逐隊を再編成せよ！",
       "title_ja": "新編「第八駆逐隊」を再編成せよ！",
-      "title": "A70: Organise the New 8th Destroyer Division",
+      "title": "A70: Organize the New 8th Destroyer Division",
       "id": "175",
       "description": "Have only Asashio Kai2 (朝潮改二) as the flagship, Michishio (満潮), Ooshio (大潮) and Arashio (荒潮) in your fleet."
     },
@@ -516,37 +516,51 @@
     {
       "description_ja": "特型駆逐艦「磯波」「浦波」「綾波」「敷波」4隻による第十九駆逐隊を編成せよ！",
       "title_ja": "「第十九駆逐隊」を編成せよ！",
-      "title": "A72: Organise the 19th Destroyer Division",
+      "title": "A72: Organize the 19th Destroyer Division",
       "id": "177",
       "description": "Have Isonami (磯波), Uranami (浦波), Ayanami (綾波), and Shikinami (敷波) in your fleet."
     },
     {
       "description_ja": "「鬼怒」「青葉」「北上」「大井」を擁する、第十六戦隊(第三次)を編成せよ！",
       "title_ja": "「第十六戦隊(第三次)」を編成せよ！",
-      "title": "A73: Organise the 3rd Generation of the 16th Squadron",
+      "title": "A73: Organize the 3rd Generation of the 16th Squadron",
       "id": "178",
       "description": "Have Kinu (鬼怒), Aoba (青葉), Kitakami (北上), and Ooi (大井) in your fleet."
     },
     {
       "description_ja": "「鬼怒改二」を旗艦として、「北上改二」「大井改二」「球磨改」及び<br>「青葉改」「浦波改」「敷波改」から5隻、計6隻の精鋭「第十六戦隊」を再編成せよ！",
       "title_ja": "精鋭「第十六戦隊」を再編成せよ！",
-      "title": "A74: Organise the Elite 16th Squadron",
+      "title": "A74: Organize the Elite 16th Squadron",
       "id": "179",
-      "description": "Have Kinu Kai2 (鬼怒改二) as flagship and any 5 out of 6 following ships in your main fleet: Kitakami Kai2 (北上改二), Ooi Kai2 (大井改二), Kuma Kai (球磨改), Aoba Kai (青葉改), Uranami Kai (浦波改), Shikinami Kai (敷波改)."
+      "description": "Have Kinu Kai2 (鬼怒改二) as the flagship and any 5 out of 6 following ships in your main fleet: Kitakami Kai2 (北上改二), Ooi Kai2 (大井改二), Kuma Kai (球磨改), Aoba Kai (青葉改), Uranami Kai (浦波改), Shikinami Kai (敷波改)."
     },
     {
       "description_ja": "編成任務：第一艦隊に新改装された長門型戦艦一番艦「長門改二」及び同二番艦「陸奥改」からなる<br>新編第一戦隊を配備せよ！",
       "title_ja": "新編「第一戦隊」を編成せよ！",
       "title": "A75: Organize the New First Squadron!",
       "id": "180",
-      "description": "Have Nagato Kai Ni as flagship and Mutsu Kai in your main fleet. "
+      "description": "Have Nagato Kai Ni (長門改二) as the flagship and Mutsu Kai in your main fleet. "
     },
     {
       "description_ja": "編成任務：第一艦隊旗艦に新改装された改鈴谷型「熊野改二」、同二番艦に「鈴谷改二」、<br>僚艦に「最上改」「三隈改」を配した新編第七戦隊を配備せよ！",
       "title_ja": "新編「第七戦隊」を編成せよ！",
       "title": "A76: Organize the new Seventh Squadron!",
       "id": "181",
-      "description": "Have Kumano Kai Ni as the flagship, Suzuya Kai Ni as the second ship, and both Mogami Kai and Mikuma Kai in your main fleet"
+      "description": "Have Kumano Kai Ni (熊野改二) as the flagship, Suzuya Kai Ni (鈴谷改二) as the second ship, and both Mogami Kai (最上改) and Mikuma Kai (三隈改) in your main fleet."
+    },
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title": "A77: Reorganize the Elite Fourth Carrier Division!",
+      "id": "182",
+      "description": "Have Ise (伊勢) as the flagship, Hyuuga (日向) as the second ship, 1 Light Cruiser, 2 Destroyers and 1 additional ship in your main fleet. Both Ise and Hyuuga must be over level 50 (Kai forms are also acceptable)."
+    },
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title": "A78: Organize the New 4th Torpedo Squadron!",
+      "id": "183",
+      "description": "Have Yura Kai2 (由良改二) as the flagship and Murasame (村雨), Yuudachi(夕立), Harusame(春雨), Samidare(五月雨) and one additional Destroyer in your main fleet."
     },
     {
       "description_ja": "艦隊を出撃させ、敵艦隊を捕捉、これを撃滅せよ！",
@@ -588,28 +602,28 @@
       "title_ja": "「水雷戦隊」で出撃せよ！",
       "title": "B6: Sortie a Torpedo Squadron",
       "id": "206",
-      "description": "Sortie a fleet with a CL as flagship and 3 DD as escorts."
+      "description": "Sortie a fleet with a CL as the flagship and 3 DD as escorts."
     },
     {
       "description_ja": "重巡洋艦を旗艦とした艦隊を編成、これを出撃させよ！",
       "title_ja": "「重巡洋艦」を出撃させよ！",
       "title": "B7: Sortie a Heavy Cruiser",
       "id": "207",
-      "description": "Sortie a fleet with a CA as flagship."
+      "description": "Sortie a fleet with a CA as the flagship."
     },
     {
       "description_ja": "海上の覇者、戦艦を旗艦とした艦隊を編成、これを出撃させよ！",
       "title_ja": "「戦艦」を出撃させよ！",
       "title": "B8: Sortie a Battleship",
       "id": "208",
-      "description": "Sortie a fleet with a BB (slow or fast, BBV don't count) as flagship."
+      "description": "Sortie a fleet with a BB (slow or fast, BBV don't count) as the flagship."
     },
     {
       "description_ja": "空母1隻とその護衛艦艇で構成した空母機動部隊を出撃させよ！",
       "title_ja": "「空母機動部隊」出撃せよ！",
       "title": "B9: Sortie a Carrier Task Force",
       "id": "209",
-      "description": "Sortie a fleet with CV/CVL as flagship and 5 DD/CL/AV."
+      "description": "Sortie a fleet with CV/CVL as the flagship and 5 DD/CL/AV."
     },
     {
       "description_ja": "艦隊全力出撃！遊弋する敵艦隊を10回邀撃せよ！",
@@ -840,7 +854,7 @@
       "title_ja": "二人でする初めての任務！",
       "title": "WB02: Your First Mission Together",
       "id": "246",
-      "description": "Sortie a fleet to 4-3 with a bonded ship of Lv.100 or more as flagship and score an S rank victory against the boss."
+      "description": "Sortie a fleet to 4-3 with a bonded ship of Lv.100 or more as the flagship and score an S rank victory against the boss."
     },
     {
       "description_ja": "航空戦艦2隻を基幹とする艦隊で、西方海域カスガダマ島の敵勢力を撃破せよ！",
@@ -1015,7 +1029,7 @@
       "title_ja": "「那智戦隊」抜錨せよ！",
       "title": "B38: Sortie Nachi's Squadron",
       "id": "271",
-      "description": "Sortie a fleet with Nachi (那智) as flagship, Hatsushimo (初霜), Kasumi (霞), Ushio (潮), Akebono (曙) and 1 additional ship to World 2-2 and score an S rank victory at the boss node."
+      "description": "Sortie a fleet with Nachi (那智) as the flagship, Hatsushimo (初霜), Kasumi (霞), Ushio (潮), Akebono (曙) and 1 additional ship to World 2-2 and score an S rank victory at the boss node."
     },
     {
       "description_ja": "摩耶改または摩耶改二及び軽巡1駆逐2隻を含む艦隊でオリョール海の敵艦隊を撃滅せよ！",
@@ -1618,6 +1632,13 @@
       "title": "F21: Prototype Flight Deck Outfitting Preparations",
       "id": "624",
       "description": "Scrap 7 pieces of equipment."
+    },    
+	{
+      "description_ja": "要熟練搭乗員：練度max「零戦21型」搭載「鳳翔」秘書艦で「零戦21型」x2「九六艦戦」x1廃棄！",
+      "title_ja": "精鋭「艦戦」隊の新編成",
+      "title": "F22: Reorganisation of the Fighter Forces",
+      "id": "626",
+      "description": "With Houshou (鳳翔) as the secretary equipped with a Type 21 Zero Fighter (零戦21型) at maximum skill level, scrap two Type 21 Zero Fighters (零戦21型) and a Type 96 Fighter (九六艦戦). Requires and consumes 1 Skilled Pilot."
     },
     {
       "description_ja": "「工廠」で装備アイテムを9つ「廃棄」して、「試製甲板カタパルト」を追加試作します。",
@@ -1625,13 +1646,6 @@
       "title": "F23: Additional Prototype Deck Outfitting",
       "id": "625",
       "description": "Scrap 9 pieces of equipment."
-    },
-    {
-      "description_ja": "要熟練搭乗員：練度max「零戦21型」搭載「鳳翔」秘書艦で「零戦21型」x2「九六艦戦」x1廃棄！",
-      "title_ja": "精鋭「艦戦」隊の新編成",
-      "title": "F22: Reorganisation of the Fighter Forces",
-      "id": "626",
-      "description": "With Houshou (鳳翔) as the secretary equipped with a Type 21 Zero Fighter (零戦21型) at maximum skill level, scrap two Type 21 Zero Fighters (零戦21型) and a Type 96 Fighter (九六艦戦)."
     },
     {
       "description_ja": "「零戦21型(熟練)」搭載空母を秘書艦にして、新たに「零戦52型」を2つ廃棄！",
@@ -1832,7 +1846,7 @@
     {
       "description_ja": "秘書艦に「伊401」または「伊14」または「伊13」を配備。「晴嵐」を一番スロットに搭載。「瑞雲(六三一空)」を二番スロットに搭載。「晴嵐(六三一空)」を新編せよ！　※任務達成後瑞雲は消滅します。",
       "title_ja": "六三一空「晴嵐」隊の編成",
-      "title": "F49: Organise the Seiran 631 Air Group",
+      "title": "F49: Organize the Seiran 631 Air Group",
       "id": "656",
       "description": "Have I-401, I-13 or I-14 as your secretary and equip the secretary with a Prototype Seiran in the first slot and a Zuiun (631 Air Group) in the second slot."
     },
@@ -1853,7 +1867,7 @@
     {
       "description_ja": "精鋭飛行隊の新編成：練度max及び改修maxの「二式水戦改」を一番スロットに搭載した秘書艦で、<br>「零式艦戦21型」x2「瑞雲」x2を廃棄！　※新飛行隊を編成する「熟練搭乗員」が必要です。",
       "title_ja": "精鋭「水戦」隊の新編成",
-      "title": "F51: Organise the New Elite Seaplane Group",
+      "title": "F51: Organize the New Elite Seaplane Group",
       "id": "659",
       "description": "Have a secretary ship equipped with a Maxed Proficiency and Max Star Type 2 Seaplane Fighter Kai in the first slot and then Scrap 2 Type 21 Zero Fighter and 2 Zuiun in your inventory. Requires and consumes 1 Skilled Pilot."
     },
@@ -1886,11 +1900,25 @@
       "description": "Scrap 10 Large-Caliber Main Guns and have 18000 steel. Steel will be consumed upon completion. Selectable reward; clicking on either will lock the choice in as your selection."
     },
     {
-      "description_ja": "工廠任務：新型艤装の開発を継続実施する。「大口径主砲」系装備x10を廃棄、鉄鋼18,000を準備せよ！<br>※任務達成後、準備した資源は消費します。「勲章」と「新型砲熕兵装資材」の獲得選択が可能です。",
-      "title_ja": "新型艤装の継続研究",
+      "description_ja": "",
+      "title_ja": "",
       "title" : "F56: Utilize RADAR Technology for Shooting Equipment",
       "id": "664",
       "description": "Scrap 10 RADARs and have 8000 ammo and steel. Ammo and steel will be consumed upon completion. Selectable reward; clicking on either will lock the choice in as your selection."
+    },
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title" : "F57: Cooperation of the Consumer Industry",
+      "id": "665",
+      "description": "Scrap 16 Small Caliber Guns and have 12000 fuel. Fuel will be consumed upon completion. Selectable reward; clicking on either will lock the choice in as your selection."
+    },
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title" : "F58: Organize the Elite Zuiun Group",
+      "id": "666",
+      "description": "Have Hyuuga Kai as a secretary ship equipped with a Max Star Zuiun (634 Air Group) in her fourth slot and 2 Type 99 Dive Bombers and 2 Zuiun in your inventory and then Scrap 2 Drum Canisters. Requires and consumes 1 Skilled Pilot."
     },
     {
       "description_ja": "任意の艦を近代化改修(合成)して、強化せよ！",
@@ -1937,7 +1965,7 @@
     {
       "description_ja": "大丈夫、新年は収集任務じゃないんです！東部オリョール海の敵艦隊を三回撃滅してください！",
       "title_ja": "新年の「伊良湖」のお手伝い！",
-      "title": "Helping Irako Organise New Year Celebrations",
+      "title": "Helping Irako Organize New Year Celebrations",
       "id": "802",
       "description": "Sortie a fleet to World 2-3 and score three S rank victories at the boss node."
     },
@@ -2177,28 +2205,28 @@
       "title_ja": "精鋭「第十六戦隊」突入せよ！",
       "title": "B85: Deploy the Elite 16th Squadron",
       "id": "836",
-      "description": "Sortie Kinu Kai2 (鬼怒改二) as flagship and any 5 out the following ships: Kitakami Kai2 (北上改二), Ooi Kai2 (大井改二), Kuma Kai (球磨改), Aoba Kai (青葉改), Uranami Kai (浦波改), Shikinami Kai (敷波改) to World 2-5 and score an S rank victory at the boss node."
+      "description": "Sortie Kinu Kai2 (鬼怒改二) as the flagship and any 5 out the following ships: Kitakami Kai2 (北上改二), Ooi Kai2 (大井改二), Kuma Kai (球磨改), Aoba Kai (青葉改), Uranami Kai (浦波改), Shikinami Kai (敷波改) to World 2-5 and score an S rank victory at the boss node."
     },
     {
       "description_ja": "「鬼怒改二」を旗艦、僚艦に「浦波改」他駆逐艦3隻の計5隻の艦隊で<br>バシー島沖における柳輸送作戦を実施、同輸送作戦を完全成功させ、帰還せよ！",
       "title_ja": "輸送作戦を成功させ、帰還せよ！",
       "title": "B86: Complete a Transport Mission",
       "id": "837",
-      "description": "Sortie Kinu Kai2 (鬼怒改二) as flagship, Uranami Kai (浦波改), exactly 3 other destroyers, and an additional non-destroyer ship to World 2-2 and score an S rank victory at the boss node."
+      "description": "Sortie Kinu Kai2 (鬼怒改二) as the flagship, Uranami Kai (浦波改), exactly 3 other destroyers, and an additional non-destroyer ship to World 2-2 and score an S rank victory at the boss node."
     },
     {
       "description_ja": "重巡4隻を基幹戦力とした重巡旗艦の艦隊を南西諸島海域東部オリョール海に展開し、<br>同海域の敵艦隊を撃滅、制海権を確保せよ！",
       "title_ja": "重巡戦隊、抜錨せよ！",
       "title": "B87: Heavy Cruiser Squadron, Weigh Anchor!",
       "id": "838",
-      "description": "Take a fleet consisting of 4 CA/CAV with a CA/CAV as flagship and two other ships of choice to World 2-3 and score an S rank victory at the boss node."
+      "description": "Take a fleet consisting of 4 CA/CAV with a CA/CAV as the flagship and two other ships of choice to World 2-3 and score an S rank victory at the boss node."
     },
     {
       "description_ja": "戦艦2隻を中核戦力とする戦艦旗艦の艦隊を北方海域アルフォンシーノ方面に進出させ、<br>同海域の敵艦隊を撃滅、北方海域の制海権確保に努めよ！",
       "title_ja": "戦艦戦隊、出撃せよ！",
       "title": "B88: Battleship Squadron, Sortie!",
       "id": "839",
-      "description": "Take a fleet consisting of 2 BB/FBB/BBV with a BB/FBB/BBV as Flagship, two CV/CVL and two other ships of choice to World 3-3 to the boss node and gain a victory there. Selectable reward; clicking on either will lock the choice in as your selection."
+      "description": "Take a fleet consisting of 2 BB/FBB/BBV with a BB/FBB/BBV as the flagship, two CV/CVL and two other ships of choice to World 3-3 to the boss node and gain a victory there. Selectable reward; clicking on either will lock the choice in as your selection."
     },
     {
       "description_ja": "駆逐艦4隻による精鋭「駆逐隊」を編成し、鎮守府正面海域及び南西諸島沖に出撃、<br>両海域の敵艦隊を捕捉、これを撃滅せよ！",
@@ -2212,7 +2240,7 @@
       "title_ja": "冬季特別任務：水上機母艦、抜錨せよ！",
       "title": "SB16: Winter Special Mission: Seaplane Tender, Set Sail!",
       "id": "841",
-      "description": "Take a fleet with 1 AV as Flagship + 3 DD and 2 other ships of choice to World 1-3 and World 1-4 and score S-rank victories at boss nodes."
+      "description": "Take a fleet with 1 AV as the flagship + 3 DD and 2 other ships of choice to World 1-3 and World 1-4 and score S-rank victories at boss nodes."
     },
     {
       "description_ja": "戦艦または航空戦艦2隻以上からなる強力な戦艦戦隊を中核とした艦隊を沖ノ島海域前面に展開、<br>侵攻する敵艦隊を捕捉、これを撃滅せよ！",
@@ -2233,14 +2261,14 @@
       "title_ja": "精鋭「第八駆逐隊」突入せよ！",
       "title": "B90: Elite 8th Destroyer Division, Sortie!",
       "id": "844",
-      "description": "With Arashio Kai Ni as the flagship position and one of the three following ships: Asashio, Ooshio or Michishio, sortie to 5-5 and score an A rank victory at the boss node twice."
+      "description": "With Arashio Kai Ni (荒潮改二) as the flagship and one of the three following ships: Asashio (朝潮), Ooshio (大潮) or Michishio (満潮), sortie to 5-5 and score an A rank victory at the boss node twice."
     },
     {
       "description_ja": "潜水艦を旗艦とし、4隻以上の有力な潜水艦を配備した第一艦隊、精鋭潜水艦隊で<br>中部海域哨戒線に進出、回航中の敵空母を捕捉、これを襲撃せよ！",
       "title_ja": "潜水艦隊、中部海域の哨戒を実施せよ！",
       "title": "B91: Submarine Fleet's Central Waters Patrol",
       "id": "846",
-      "description": "Send a Fleet consisting of 4 SS(V) with an SS(V) as flagship with two additional ships to World 6-1 and score a B rank victory at the boss node."
+      "description": "Send a Fleet consisting of 4 SS(V) with an SS(V) as the flagship with two additional ships to World 6-1 and score a B rank victory at the boss node."
     },
     {
       "description_ja": "春の準備任務：艦隊を東部オリョール海に反復出撃、同方面敵艦隊を覆滅し、<br>同海域周辺の制海権を完全に確保、桃の節句を迎える準備を完遂せよ！",
@@ -2254,35 +2282,35 @@
       "title_ja": "重装甲巡洋艦、鉄底海峡に突入せよ！",
       "title": "B92: Heavy Armored Curiser, Embark into the Ironbottom Sound!",
       "id": "848",
-      "description": "With Zara Due as the flagship, sortie to World 5-3 and score an A rank victory at the boss node."
+      "description": "Sortie a fleet with Zara Due as the flagship to World 5-3 and score an A rank victory at the boss node."
     },
     {
       "description_ja": "軽巡を旗艦とした艦隊を編成し、南西諸島防衛線、バシー島沖及び<br>東部オリョール海に展開、同海域に遊弋する敵艦隊を撃破せよ！",
       "title_ja": "南西諸島方面の敵艦隊を撃破せよ！",
       "title": "B93: Defeat the Enemy Fleet at the Nansei Islands",
       "id": "849",
-      "description": "Sortie a fleet with a CL as flagship and 5 additional ships to Worlds 1-4, 2-2, 2-3 and obtain S rank victories at the boss nodes."
+      "description": "Sortie a fleet with a CL as the flagship and 5 additional ships to Worlds 1-4, 2-2, 2-3 and obtain S rank victories at the boss nodes."
     },
     {
       "description_ja": "航空母艦、または水上機母艦を旗艦とした有力な艦隊を編成、北方AL海域、<br>西方海域カスガダマ沖 、中部海域MS諸島沖に展開し、各海域の敵艦隊を撃滅せよ！",
       "title_ja": "洋上航空戦力を拡充せよ！",
       "title": "B94: Expand the Offshore Aviation Forces",
       "id": "850",
-      "description": "Sortie a fleet with an AV/CV/CVL/CVB as Flagship and 5 additional ships tos World 3-5, 4-4, 6-2 and obtain S-rank victories at the boss nodes."
+      "description": "Sortie a fleet with an AV/CV/CVL/CVB as the flagship and 5 additional ships tos World 3-5, 4-4, 6-2 and obtain S-rank victories at the boss nodes."
     },
     {
       "description_ja": "改装航空巡洋艦「鈴谷改二」を旗艦とした精強な艦隊を編成、同艦隊を南方海域に展開、<br>南方海域前面、及びサブ島沖海域に遊弋する敵艦隊群を捕捉、これを撃破せよ！",
       "title_ja": "改装航空巡洋艦、出撃！",
       "title": "B95: Remodelled Aviation Cruiser, Sortie",
       "id": "851",
-      "description": "Sortie a fleet with Suzuya Kai2 as the flagship and score an A rank victory at the boss nodes of Worlds 5-1 and 5-3."
+      "description": "Sortie a fleet with Suzuya Kai2 (鈴谷改二) as the flagship and score an A rank victory at the boss nodes of Worlds 5-1 and 5-3."
     },
     {
       "description_ja": "改装航空母艦「鈴谷航改二」を旗艦とした精強な機動部隊を編成、同艦隊を中部海域に進出。<br>MS諸島沖、KW環礁沖海域に展開し、同海域の敵機動部隊を捕捉、これを撃滅せよ！",
       "title_ja": "改装攻撃型軽空母、前線展開せよ！",
       "title": "B96: Remodelled Light Aircraft Carrier, Deploy to the Frontlines",
       "id": "852",
-      "description": "Sortie a fleet with Suzuya Carrier Kai Ni as the flagship to Worlds 6-2, 6-5 and obtain S-rank victories at the boss nodes."
+      "description": "Sortie a fleet with Suzuya Carrier Kai2 (鈴谷航改二) as the flagship to Worlds 6-2, 6-5 and obtain S-rank victories at the boss nodes."
     },
     {
       "description_ja": "巡洋艦クラスを旗艦に配備、2隻以上の駆逐艦を擁する警戒艦隊を編成せよ。同警戒艦隊を以て、<br>鎮守府海域(南西諸島/製油所地帯沿岸/南西諸島防衛線/鎮守府近海)の警戒任務にあたれ！",
@@ -2310,7 +2338,7 @@
       "title_ja": "新編「第一戦隊」、抜錨せよ！",
       "title": "B99: Sortie the New First Squadron!",
       "id": "856",
-      "description": "Sortie a fleet with Nagato Kai Ni as flagship and Mutsu Kai to world 4-5 and 5-5 and S rank the boss nodes."
+      "description": "Sortie a fleet with Nagato Kai Ni (長門改二) as the flagship and Mutsu Kai (陸奥改) and up to 4 additional ships to world 4-5 and 5-5 and S rank the boss nodes."
     },
     {
       "description_ja": "出撃任務：軽巡1隻以上、駆逐艦または海防艦2隻以上、さらに航空巡洋艦または軽空母で増強した<br>第一護衛艦隊を第一艦隊に編成、南西諸島海域の各海域に展開、敵艦隊を撃破、各作戦を成功させよ！",
@@ -2324,7 +2352,21 @@
       "title_ja": "新編「第七戦隊」、出撃せよ！",
       "title": "B101: New Seventh Squadron, Sortie!",
       "id": "858",
-      "description": "Sortie a fleet with Kumano Kai Ni as the flagship, Suzuya Kai Ni as the second ship, both Mogami Kai and Mikuma Kai and two other ships to worlds 4-5 and 6-2 and S rank the boss node. Selectable reward; clicking on either will lock the choice in as your selection."
+      "description": "Sortie a fleet with Kumano Kai Ni (熊野改二) as the flagship, Suzuya Kai Ni (鈴谷改二) as the second ship, both Mogami Kai (最上改) and Mikuma Kai (三隈改) and two other ships to worlds 4-5 and 6-2 and S rank the boss node. Selectable reward; clicking on either will lock the choice in as your selection."
+    }, 
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title": "B102: Elite Fourth Carrier Division, set sail!",
+      "id": "859",
+      "description": "Sortie a fleet with Ise (伊勢) as the flagship, Hyuuga (日向) as the second ship, 1 Light Cruiser, 2 Destroyers and 1 additional ship to worlds 2-5 and 3-5 and A rank the boss node. Both Ise and Hyuuga must be over level 50 (Kai forms are also acceptable). Selectable reward; clicking on either will lock the choice in as your selection."
+    },
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title": "B103: Flagship Yura, set sail!",
+      "id": "860",
+      "description": "Sortie a fleet with Yura Kai2 (由良改二) as the flagship and at least 2 of the following ships: Murasame (村雨), Yuudachi(夕立), Harusame(春雨), Samidare(五月雨) or Akizuki(秋月) and 3 additional ships to worlds 2-3 and 5-1 and A rank the boss node. Selectable reward; clicking on either will lock the choice in as your selection."
     }
   ]
 }
