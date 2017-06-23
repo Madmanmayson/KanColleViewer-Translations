@@ -1,5 +1,5 @@
 {
-  "version": "41",
+  "version": "42",
   "api_version": "1.0",
   "quests": [
     {
@@ -1884,6 +1884,13 @@
       "title" : "F55: Continued Research of New Rigging Types",
       "id": "663",
       "description": "Scrap 10 Large-Caliber Main Guns and have 18000 steel. Steel will be consumed upon completion. Selectable reward; clicking on either will lock the choice in as your selection."
+    },
+    {
+      "description_ja": "工廠任務：新型艤装の開発を継続実施する。「大口径主砲」系装備x10を廃棄、鉄鋼18,000を準備せよ！<br>※任務達成後、準備した資源は消費します。「勲章」と「新型砲熕兵装資材」の獲得選択が可能です。",
+      "title_ja": "新型艤装の継続研究",
+      "title" : "F56: Utilize RADAR Technology for Shooting Equipment",
+      "id": "664",
+      "description": "Scrap 10 RADARs and have 8000 ammo and steel. Ammo and steel will be consumed upon completion. Selectable reward; clicking on either will lock the choice in as your selection."
     },
     {
       "description_ja": "任意の艦を近代化改修(合成)して、強化せよ！",
