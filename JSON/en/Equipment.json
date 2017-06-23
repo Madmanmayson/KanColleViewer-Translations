@@ -1,5 +1,5 @@
 {
-  "version": "21",
+  "version": "22",
   "equipment": [
     {
       "name_ja": "12cm単装砲",
@@ -1076,11 +1076,27 @@
     {
       "name_ja": "一式戦 隼III型甲",
       "name": "Type 1 Fighter Hayabusa Model III A"
-    }
+    },
 	{
       "name_ja": "41cm三連装砲改",
       "name": "41cm Triple Gun Mount Kai"
-    }
+    },
+	{
+	  "name_ja": "15.5cm三連装砲改",
+      "name": "15.5cm Triple Gun Mount Kai (Main)"
+	},
+	{
+	  "name_ja": "15.5cm三連装副砲改",
+      "name": "15.5cm Triple Gun Mount Kai (Secondary)"
+	},
+	{
+	  "name_ja": "零式水上偵察機11型乙",
+      "name": "Type 0 Recon Seaplane Model 11B"
+	},
+	{
+	  "name_ja": "瑞雲(六三四空/熟練)",
+      "name": "Zuiun (634 Air Group/Skilled)"
+	}
   ],
   "api_version": "1.0"
 }
