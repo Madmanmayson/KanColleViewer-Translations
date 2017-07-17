@@ -1,5 +1,5 @@
 {
-  "version": "43",
+  "version": "44",
   "api_version": "1.0",
   "quests": [
     {
@@ -1449,7 +1449,14 @@
       "title_ja": "海上護衛総隊、遠征開始！",
       "title": "D23: Surface Escort Fleets, Commence Expeditions!",
       "id": "425",
-      "description": "Organize a fleet consisting of only CL, DD and DE and successfully complete Expedition 4,5, and 9"
+      "description": "Organize a fleet consisting of only CL, DD and DE and successfully complete Expedition 4,5, and 9."
+    },
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title": "D24: Stay Alert on the Maritime Routes!",
+      "id": "426",
+      "description": "Complete Expedition 3, 4, 5 and 10."
     },
     {
       "description_ja": "補給は大事です！燃料・弾薬を艦に「補給」しよう！",
@@ -1921,6 +1928,20 @@
       "description": "Have Hyuuga Kai as a secretary ship equipped with a Max Star Zuiun (634 Air Group) in her fourth slot and 2 Type 99 Dive Bombers and 2 Zuiun in your inventory and then Scrap 2 Drum Canisters. Requires and consumes 1 Skilled Pilot."
     },
     {
+      "description_ja": "",
+      "title_ja": "",
+      "title" : "F59: Continue your cooperation with the Consumer Industry!",
+      "id": "667",
+      "description": "Scrap 10 Anti-Aircraft Guns and have 15000 steel. Steel will be consumed upon completion. Selectable reward; clicking on either will lock the choice in as your selection."
+    },
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title" : "F60: The Start of the Special Combat Rations",
+      "id": "668",
+      "description": "Prepare 2 Combat Rations, 800 fuel and 150 bauxite. Resources will be consumed upon completion."
+    },
+    {
       "description_ja": "任意の艦を近代化改修(合成)して、強化せよ！",
       "title_ja": "はじめての「近代化改修」！",
       "title": "G1: First Modernization",
@@ -2367,6 +2388,20 @@
       "title": "B103: Flagship Yura, set sail!",
       "id": "860",
       "description": "Sortie a fleet with Yura Kai2 (由良改二) as the flagship and at least 2 of the following ships: Murasame (村雨), Yuudachi(夕立), Harusame(春雨), Samidare(五月雨) or Akizuki(秋月) and 3 additional ships to worlds 2-3 and 5-1 and A rank the boss node. Selectable reward; clicking on either will lock the choice in as your selection."
+    },
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title": "Bq3: Transport Fleet Forces, Launch!",
+      "id": "861",
+      "description": "Sortie a fleet with 2 BBV/AO and up to 4 additional ships to world 1-6 and reach the final node twice."
+    },
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title": "Bq4: Perform aerial reconnaissance on the frontlines!",
+      "id": "862",
+      "description": "Sortie a fleet with an AV, 2 CL and 3 additional ships to world 6-3 and A rank the boss node twice."
     }
   ]
 }

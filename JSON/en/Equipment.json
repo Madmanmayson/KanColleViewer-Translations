@@ -1,5 +1,5 @@
 {
-  "version": "22",
+  "version": "23",
   "equipment": [
     {
       "name_ja": "12cm単装砲",
@@ -1096,6 +1096,10 @@
 	{
 	  "name_ja": "瑞雲(六三四空/熟練)",
       "name": "Zuiun (634 Air Group/Skilled)"
+	},
+	{
+	  "name_ja": "戦闘糧食(特別なおにぎり)",
+	  "name": "Combat Ration (Special Onigiri)"
 	}
   ],
   "api_version": "1.0"
