@@ -1,5 +1,5 @@
 {
-  "version": "23",
+  "version": "24",
   "equipment": [
     {
       "name_ja": "12cm単装砲",
@@ -1100,6 +1100,10 @@
 	{
 	  "name_ja": "戦闘糧食(特別なおにぎり)",
 	  "name": "Combat Ration (Special Onigiri)"
+	},
+	{
+	  "name_ja": "Swordfish Mk.II(熟練)",
+	  "name": "Swordfish Mk.II (Skilled)"
 	}
   ],
   "api_version": "1.0"
