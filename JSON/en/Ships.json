@@ -1,5 +1,5 @@
 {
-  "version": "23",
+  "version": "24",
   "ships": [
     {
       "name_ja": "長門",
@@ -324,6 +324,10 @@
     {
       "name_ja": "文月改",
       "name": "Fumizuki Kai"
+    },
+	{
+      "name_ja": "文月改二",
+      "name": "Fumizuki Kai2"
     },
     {
       "name_ja": "長月",
