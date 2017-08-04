@@ -1,5 +1,5 @@
 {
-  "version": "44",
+  "version": "45",
   "api_version": "1.0",
   "quests": [
     {
@@ -561,6 +561,13 @@
       "title": "A78: Organize the New 4th Torpedo Squadron!",
       "id": "183",
       "description": "Have Yura Kai2 (由良改二) as the flagship and Murasame (村雨), Yuudachi(夕立), Harusame(春雨), Samidare(五月雨) and one additional Destroyer in your main fleet."
+    },
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title": "A79: Reorganize the Elite 22th Destroyer Squadron!",
+      "id": "184",
+      "description": "Have Fumizuki Kai2 (文月改二), Satsuki Kai2 (皐月改二), Minazuki Kai (水無月改) and Nagatsuki (長月改) in your main fleet."
     },
     {
       "description_ja": "艦隊を出撃させ、敵艦隊を捕捉、これを撃滅せよ！",
@@ -2402,6 +2409,13 @@
       "title": "Bq4: Perform aerial reconnaissance on the frontlines!",
       "id": "862",
       "description": "Sortie a fleet with an AV, 2 CL and 3 additional ships to world 6-3 and A rank the boss node twice."
+    },
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title": "B104: Sortie the Elite 22th Destroyer Squadron!",
+      "id": "863",
+      "description": "Sortie a fleet with Fumizuki Kai2 (文月改二), Satsuki Kai2 (皐月改二), Minazuki Kai (水無月改) and Nagatsuki (長月改) to world 3-2 and S-rank the boss node. Selectable reward; clicking on either will lock the choice in as your selection."
     }
   ]
 }
