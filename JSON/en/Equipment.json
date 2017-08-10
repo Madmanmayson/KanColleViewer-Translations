@@ -1,5 +1,5 @@
 {
-  "version": "24",
+  "version": "25",
   "equipment": [
     {
       "name_ja": "12cm単装砲",
@@ -1104,6 +1104,34 @@
 	{
 	  "name_ja": "Swordfish Mk.II(熟練)",
 	  "name": "Swordfish Mk.II (Skilled)"
+	},
+	{
+	  "name_ja": "深海15inch四連装砲",
+	  "name": "Abyssal 15inch Quadruple Gun Mount"
+	},
+	{
+	  "name_ja": "深海15inch連装砲後期型",
+	  "name": "Abyssal 15inch Late Model Twin Gun Mount"
+	},
+	{
+	  "name_ja": "Swordfish Mk.III(熟練)",
+	  "name": "Swordfish Mk.III (Skilled)"
+	},
+	{
+	  "name_ja": "38cm四連装砲",
+	  "name": "38cm Quadruple Gun Mount"
+	},
+	{
+	  "name_ja": "38cm四連装砲改",
+	  "name": "38cm Quadruple Gun Mount Kai"
+	},
+	{
+	  "name_ja": "15.2cm三連装砲",
+	  "name": "15.2cm Triple Gun Mount"
+	},
+	{
+	  "name_ja": "Spitfire Mk.IX(熟練)",
+	  "name": "Spitfire Mk.IX (Skilled)"
 	}
   ],
   "api_version": "1.0"

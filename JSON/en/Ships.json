@@ -1,5 +1,5 @@
 {
-  "version": "24",
+  "version": "25",
   "ships": [
     {
       "name_ja": "長門",
@@ -1874,6 +1874,38 @@
       "name_ja": "占守改",
       "name": "Shimushu Kai"
     },
+	{
+      "name_ja": "旗風",
+      "name": "Hatakaze"
+    },
+	{
+      "name_ja": "旗風改",
+      "name": "Hatakaze Kai"
+    },
+	{
+      "name_ja": "天霧",
+      "name": "Amagiri"
+    },
+	{
+      "name_ja": "天霧改",
+      "name": "Amagiri Kai"
+    },
+	{
+      "name_ja": "狭霧",
+      "name": "Sagiri"
+    },
+	{
+      "name_ja": "狭霧改",
+      "name": "Sagiri Kai"
+    },
+	{
+      "name_ja": "Richelieu",
+      "name": "Richelieu"
+    },
+	{
+      "name_ja": "Richelieu改",
+      "name": "Richelieu Kai"
+    },
     {
       "name_ja": "南方棲戦鬼",
       "name": "Southern War Demon"
@@ -2209,6 +2241,46 @@
     {
       "name_ja": "駆逐水鬼",
       "name": "Destroyer Water Demon"
+    },
+    {
+      "name_ja": "戦艦仏棲姫",
+      "name": "French Battleship Princess"
+    },
+    {
+      "name_ja": "戦艦仏棲姫-壊",
+      "name": "French Battleship Princess - Damaged"
+    },
+    {
+      "name_ja": "欧州棲姫",
+      "name": "European Princess"
+    },
+    {
+      "name_ja": "欧州棲姫-壊",
+      "name": "European Princess - Damaged"
+    },
+    {
+      "name_ja": "潜水新棲姫",
+      "name": "New Submarine Princess"
+    },
+    {
+      "name_ja": "空母夏鬼",
+      "name": "Aircraft Carrier Summer Demon"
+    },
+    {
+      "name_ja": "空母夏姫",
+      "name": "Aircraft Carrier Summer Princess"
+    },
+    {
+      "name_ja": "集積地夏姫",
+      "name": "Supply Depot Summer Princess"
+    },
+    {
+      "name_ja": "駆逐ナ級",
+      "name": "Destroyer Na-Class"
+    },
+    {
+      "name_ja": "駆逐ナ級後期型",
+      "name": "Destroyer Na-Class Late Model"
     },
     {
       "name_ja": "？？？",
