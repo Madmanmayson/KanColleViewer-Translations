@@ -1132,6 +1132,10 @@
 	{
 	  "name_ja": "Spitfire Mk.IX(熟練)",
 	  "name": "Spitfire Mk.IX (Skilled)"
+	},
+	{
+	  "name_ja": "高速深海魚雷 mod.2",
+	  "name": "High-speed Abyssal Torpedo mod.2"
 	}
   ],
   "api_version": "1.0"
