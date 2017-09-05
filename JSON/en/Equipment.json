@@ -1,5 +1,5 @@
 {
-  "version": "25",
+  "version": "26",
   "equipment": [
     {
       "name_ja": "12cm単装砲",
@@ -1136,6 +1136,34 @@
 	{
 	  "name_ja": "高速深海魚雷 mod.2",
 	  "name": "High-speed Abyssal Torpedo mod.2"
+	},
+	{
+	  "name_ja": "15inch要塞砲",
+	  "name": "15inch Coastal Artillery"
+	},
+	{
+	  "name_ja": "5inch沿岸設置砲",
+	  "name": "5inch Coastal Gun"
+	},
+	{
+	  "name_ja": "深海解放陸爆",
+	  "name": "Abyssal Liberation Land-based Dive Bomber"
+	},
+	{
+	  "name_ja": "深海解放陸爆Ace",
+	  "name": "Abyssal Liberation Land-based Dive Bomber Ace"
+	},
+	{
+	  "name_ja": "沿岸設置レーダー",
+	  "name": "Costal RADAR"
+	},
+	{
+	  "name_ja": "深海対空レーダ―",
+	  "name": "Abyssal Air RADAR"
+	},
+	{
+	  "name_ja": "深海攻撃哨戒鷹",
+	  "name": "Abyssal Patrolling Attack Hawk"
 	}
   ],
   "api_version": "1.0"

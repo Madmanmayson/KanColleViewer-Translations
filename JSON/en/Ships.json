@@ -1,5 +1,5 @@
 {
-  "version": "25",
+  "version": "26",
   "ships": [
     {
       "name_ja": "長門",
@@ -1906,6 +1906,38 @@
       "name_ja": "Richelieu改",
       "name": "Richelieu Kai"
     },
+	{
+      "name_ja": "松輪",
+      "name": "Matsuwa"
+    },
+	{
+      "name_ja": "松輪改",
+      "name": "Matsuwa Kai"
+    },
+	{
+      "name_ja": "Luigi Torelli",
+      "name": "Luigi Torelli"
+    },
+	{
+      "name_ja": "Luigi Torelli改",
+      "name": "Luigi Torelli Kai"
+    },
+	{
+      "name_ja": "UIT-25",
+      "name": "UIT-25"
+    },
+	{
+      "name_ja": "伊504",
+      "name": "I-504"
+    },
+	{
+      "name_ja": "Ark Royal",
+      "name": "Ark Royal"
+    },
+	{
+      "name_ja": "Ark Royal改",
+      "name": "Ark Royal Kai"
+    },
     {
       "name_ja": "南方棲戦鬼",
       "name": "Southern War Demon"
@@ -2128,23 +2160,23 @@
     },
     {
       "name_ja": "戦艦夏姫",
-      "name": "Battleship Princess of Summer"
+      "name": "Battleship Summer Princess"
     },
     {
       "name_ja": "港湾夏姫",
-      "name": "Harbour Princess of Summer"
+      "name": "Harbour Summer Princess"
     },
     {
       "name_ja": "港湾夏姫-壊",
-      "name": "Corrupted Harbour Princess of Summer"
+      "name": "Corrupted Harbour Summer Princess"
     },
     {
       "name_ja": "潜水夏姫",
-      "name": "Submarine Princess of Summer"
+      "name": "Submarine Summer Princess"
     },
     {
       "name_ja": "重巡夏姫",
-      "name": "Heavy Cruiser Princess of Summer"
+      "name": "Heavy Cruiser Summer Princess"
     },
 	{
       "name_ja": "水母水姫",
