@@ -1,5 +1,5 @@
 {
-  "version": "45",
+  "version": "46",
   "api_version": "1.0",
   "quests": [
     {
@@ -568,6 +568,13 @@
       "title": "A79: Reorganize the Elite 22th Destroyer Squadron!",
       "id": "184",
       "description": "Have Fumizuki Kai2 (文月改二), Satsuki Kai2 (皐月改二), Minazuki Kai (水無月改) and Nagatsuki (長月改) in your main fleet."
+    },
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title": "A80: Form the powerful task force!",
+      "id": "185",
+      "description": "Have Saratoga Mk.II or Mod.2 as flagship, 1 CL and 2 DDs in your main fleet. Two selectable rewards; clicking on either will lock the choice in as your selection."
     },
     {
       "description_ja": "艦隊を出撃させ、敵艦隊を捕捉、これを撃滅せよ！",
@@ -1291,6 +1298,13 @@
       "description": "Score 8 victories in practice mode in a single day."
     },
     {
+      "description_ja": "春の一日中に「演習」で8回以上「勝利」をおさめ、艦隊の練度向上に努めよ！",
+      "title_ja": "春季大演習",
+      "title": "C13: Raise the Transport Unit's Experience!",
+      "id": "316",
+      "description": "Score 4 victories in practice mode in a single day. Selectable reward; clicking on either will lock the choice in as your selection."
+    },
+    {
       "description_ja": "艦隊を「遠征」に出発させよう！",
       "title_ja": "はじめての「遠征」！",
       "title": "D1: First Expedition",
@@ -1646,7 +1660,7 @@
       "title": "F21: Prototype Flight Deck Outfitting Preparations",
       "id": "624",
       "description": "Scrap 7 pieces of equipment."
-    },    
+    },
 	{
       "description_ja": "要熟練搭乗員：練度max「零戦21型」搭載「鳳翔」秘書艦で「零戦21型」x2「九六艦戦」x1廃棄！",
       "title_ja": "精鋭「艦戦」隊の新編成",
@@ -1947,6 +1961,27 @@
       "title" : "F60: The Start of the Special Combat Rations",
       "id": "668",
       "description": "Prepare 2 Combat Rations, 800 fuel and 150 bauxite. Resources will be consumed upon completion."
+    },
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title" : "F61: Development of the Carrier-Based Night Fighter",
+      "id": "669",
+      "description": "Have a Max Star and Max Proficiency F6F-3 equipped on your secretary ship in her first slot and have 30 Development materials, 6 screws, 5000 bauxite and 1 New Aviation Armament Materials in your inventory. Then scrap 2 Type 13 Air RADARs and 2 Type 22 Surface RADARs. Items will be consumed on completion."
+    },
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title" : "F62:  Development of Carrier-Based Night Bombers",
+      "id": "670",
+      "description": "Have a TBF equipped on your secretary ship in her first slot and have 40 Development materials, 10 screws, 8000 bauxite, 1 Skilled Pilot and 1 New Aviation Armament Materials in your inventory. Then scrap 2 Type 13 Air RADARs and 2 Type 22 Surface RADARs. Items will be consumed on completion."
+    },
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title" : "F63: Improve the Performance of the Carrier-Based Night Fighter",
+      "id": "671",
+      "description": "Have a Max Star and Max Proficiency F6F-5 equipped on your secretary ship in her first slot and have 40 Development materials, 8 screws, 8000 bauxite and 1 New Aviation Armament Materials in your inventory. Then scrap 2 Type 13 Air RADARs and 2 Type 22 Surface RADARs. Items will be consumed on completion."
     },
     {
       "description_ja": "任意の艦を近代化改修(合成)して、強化せよ！",
@@ -2381,7 +2416,7 @@
       "title": "B101: New Seventh Squadron, Sortie!",
       "id": "858",
       "description": "Sortie a fleet with Kumano Kai Ni (熊野改二) as the flagship, Suzuya Kai Ni (鈴谷改二) as the second ship, both Mogami Kai (最上改) and Mikuma Kai (三隈改) and two other ships to worlds 4-5 and 6-2 and S rank the boss node. Selectable reward; clicking on either will lock the choice in as your selection."
-    }, 
+    },
     {
       "description_ja": "",
       "title_ja": "",
@@ -2416,6 +2451,20 @@
       "title": "B104: Sortie the Elite 22th Destroyer Squadron!",
       "id": "863",
       "description": "Sortie a fleet with Fumizuki Kai2 (文月改二), Satsuki Kai2 (皐月改二), Minazuki Kai (水無月改) and Nagatsuki (長月改) to world 3-2 and S-rank the boss node. Selectable reward; clicking on either will lock the choice in as your selection."
+    },
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title": "B105: Reinforced Large Aircraft Carrier, Set Sail!",
+      "id": "864",
+      "description": "Sortie a fleet with Saratoga Mk.II or Mod.2 as flagship, 1 CL, 2 DDs and 2 other ships to world 5-5 and 6-2 and S-rank the boss node. Two selectable rewards; clicking on any option will lock the choice in as your selection."
+    },
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title": "B106: Night Operations Carrier, Sortie to the Frontlines!",
+      "id": "865",
+      "description": "Sortie a fleet with Saratoga Mk.II (not Mod.2) with 5 other ships to world 6-5 and S-rank the boss node. Two selectable rewards; clicking on any option will lock the choice in as your selection."
     }
   ]
 }
