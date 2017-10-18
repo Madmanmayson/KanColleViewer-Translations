@@ -1,5 +1,5 @@
 {
-  "version": "46",
+  "version": "47",
   "api_version": "1.0",
   "quests": [
     {
@@ -1480,6 +1480,20 @@
       "description": "Complete Expedition 3, 4, 5 and 10."
     },
     {
+      "description_ja": "",
+      "title_ja": "",
+      "title": "D25: Reinforce the Expedition Resupply Support Regime!",
+      "id": "427",
+      "description": "Complete Expedition A1 and have 800 steel in your inventory. Steel will be consumed upon completion."
+    },
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title": "D26: Suppress the Submurged Enemy Fleet Invading the Costal Waters!",
+      "id": "428",
+      "description": "Complete Expeditions 4, A2, and A3 two times each?"
+    },
+    {
       "description_ja": "補給は大事です！燃料・弾薬を艦に「補給」しよう！",
       "title_ja": "はじめての「補給」！",
       "title": "E1: First Supply",
@@ -2465,6 +2479,13 @@
       "title": "B106: Night Operations Carrier, Sortie to the Frontlines!",
       "id": "865",
       "description": "Sortie a fleet with Saratoga Mk.II (not Mod.2) with 5 other ships to world 6-5 and S-rank the boss node. Two selectable rewards; clicking on any option will lock the choice in as your selection."
-    }
+    },
+	{
+	  "description_ja": "",
+      "title_ja": "",
+      "title": "B107: Suppress the Enemy Ships intruding into the close seas!",
+      "id": "869",
+      "description": "Sortie a CL, 2 DD/DEs and up to 3 additional ships to worlds 1-3, 1-4, and 1-5 and S-rank the boss node."
+	}
   ]
 }
