@@ -1,5 +1,5 @@
 {
-  "version": "47",
+  "version": "48",
   "api_version": "1.0",
   "quests": [
     {
@@ -1491,7 +1491,7 @@
       "title_ja": "",
       "title": "D26: Suppress the Submurged Enemy Fleet Invading the Costal Waters!",
       "id": "428",
-      "description": "Complete Expeditions 4, A2, and A3 two times each?"
+      "description": "Complete Expeditions 4, A2, and A3 two times each."
     },
     {
       "description_ja": "補給は大事です！燃料・弾薬を艦に「補給」しよう！",
