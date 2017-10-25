@@ -1,5 +1,5 @@
 {
-  "version": "26",
+  "version": "27",
   "ships": [
     {
       "name_ja": "長門",
@@ -881,6 +881,10 @@
       "name_ja": "満潮改",
       "name": "Michishio Kai"
     },
+	{
+	  "name_ja": "満潮改二",
+	  "name": "Michishio Kai2"
+	},
     {
       "name_ja": "荒潮",
       "name": "Arashio"
