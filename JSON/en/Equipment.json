@@ -1,5 +1,5 @@
 {
-  "version": "26",
+  "version": "27",
   "equipment": [
     {
       "name_ja": "12cm単装砲",
@@ -244,6 +244,10 @@
     {
       "name_ja": "12.7cm連装砲B型改二",
       "name": "12.7cm Twin Gun Mount Type-B Kai2"
+    },
+	{
+      "name_ja": "12.7cm連装砲C型改二",
+      "name": "12.7cm Twin Gun Mount Type-C Kai2"
     },
     {
       "name_ja": "Ju87C改",
