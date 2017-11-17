@@ -1,5 +1,5 @@
 {
-  "version": "27",
+  "version": "28",
   "ships": [
     {
       "name_ja": "長門",
@@ -1942,6 +1942,30 @@
       "name_ja": "Ark Royal改",
       "name": "Ark Royal Kai"
     },
+	{
+	  "name_ja": "佐渡",
+	  "name": "Sado"
+	},
+	{
+	  "name_ja": "佐渡改",
+	  "name": "Sado Kai"
+	},
+	{
+	  "name_ja": "対馬",
+	  "name": "Tsushima"
+	},
+	{
+	  "name_ja": "対馬改",
+	  "name": "Tsushima Kai"
+	},
+	{
+	  "name_ja": "伊400",
+	  "name": "I-400"
+	},
+	{
+	  "name_ja": "伊400改",
+	  "name": "I-400 Kai"
+	},
     {
       "name_ja": "南方棲戦鬼",
       "name": "Southern War Demon"
@@ -2136,7 +2160,7 @@
     },
     {
       "name_ja": "防空棲姫",
-      "name": "Air Defence Princess"
+      "name": "Air Defense Princess"
     },
     {
       "name_ja": "離島棲鬼",
@@ -2317,6 +2341,18 @@
     {
       "name_ja": "駆逐ナ級後期型",
       "name": "Destroyer Na-Class Late Model"
+    },
+    {
+      "name_ja": "海峡夜棲姫",
+      "name": "Night Straight Princess"
+    },
+    {
+      "name_ja": "海峡夜棲姫-壊",
+      "name": "Night Straight Princess - Damaged"
+    },
+    {
+      "name_ja": "防空埋姫",
+      "name": "Buried Air Defense Princess"
     },
     {
       "name_ja": "？？？",

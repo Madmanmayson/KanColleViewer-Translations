@@ -1,5 +1,5 @@
 {
-  "version": "27",
+  "version": "28",
   "equipment": [
     {
       "name_ja": "12cm単装砲",
@@ -1168,6 +1168,42 @@
 	{
 	  "name_ja": "深海攻撃哨戒鷹",
 	  "name": "Abyssal Patrolling Attack Hawk"
+	},
+	{
+	  "name_ja": "紫電一一型",
+	  "name": "Shiden Model 11"
+	},
+	{
+	  "name_ja": "紫電二一型 紫電改",
+	  "name": "Shiden Model 21 Shiden Kai"
+	},
+	{
+	  "name_ja": "22号対水上電探改四(後期調整型)",
+	  "name": "Type 22 Surface Radar Kai 4 (Calibrated Late Model)"
+	},
+	{
+	  "name_ja": "四式戦 疾風",
+	  "name": "Type 4 Fighter Hayate"
+	},
+	{
+	  "name_ja": "零式水上偵察機11型乙(熟練)",
+	  "name": "Type 0 Reconnaissance Seaplane Model 11B (Skilled)"
+	},
+	{
+	  "name_ja": "試製東海",
+	  "name": "Prototype Toukai"
+	},
+	{
+	  "name_ja": "東海(九〇一空)",
+	  "name": "Toukai (901 Air Group)"
+	},
+	{
+	  "name_ja": "紫電改四",
+	  "name": "Shiden Kai 4"
+	},
+	{
+	  "name_ja": "遊撃部隊 艦隊司令部",
+	  "name": "Striking Force Fleet Command Facility"
 	}
   ],
   "api_version": "1.0"
