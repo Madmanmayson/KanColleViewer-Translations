@@ -1,5 +1,5 @@
 {
-  "version": "28",
+  "version": "29",
   "ships": [
     {
       "name_ja": "長門",
@@ -1965,6 +1965,14 @@
 	{
 	  "name_ja": "伊400改",
 	  "name": "I-400 Kai"
+	},
+	{
+	  "name_ja": "涼月",
+	  "name": "Suzutsuki"
+	},
+	{
+	  "name_ja": "涼月改",
+	  "name": "Suzutsuki Kai"
 	},
     {
       "name_ja": "南方棲戦鬼",

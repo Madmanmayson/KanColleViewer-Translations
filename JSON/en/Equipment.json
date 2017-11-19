@@ -1,5 +1,5 @@
 {
-  "version": "28",
+  "version": "29",
   "equipment": [
     {
       "name_ja": "12cm単装砲",
@@ -1204,6 +1204,14 @@
 	{
 	  "name_ja": "遊撃部隊 艦隊司令部",
 	  "name": "Striking Force Fleet Command Facility"
+	},
+	{
+	  "name_ja": "深海14inch海峡連装砲",
+	  "name": "Abyssal 14inch Strait Double Gun Mount"
+	},
+	{
+	  "name_ja": "深海待伏魚雷",
+	  "name": "Abyssal Ambush Torpedo"
 	}
   ],
   "api_version": "1.0"
