@@ -1,5 +1,5 @@
  {
-  "version": "49",
+  "version": "50",
   "api_version": "1.0",
   "quests": [
     {
@@ -2008,14 +2008,14 @@
       "description_ja": "",
       "title_ja": "",
       "title" : "F62:  Development of Carrier-Based Night Bombers",
-      "id": "670",
+      "id": "671",
       "description": "Have a TBF equipped on your secretary ship in her first slot and have 40 Development materials, 10 screws, 8000 bauxite, 1 Skilled Pilot and 1 New Aviation Armament Materials in your inventory. Then scrap 2 Type 13 Air RADARs and 2 Type 22 Surface RADARs. Items will be consumed on completion."
     },
     {
       "description_ja": "",
       "title_ja": "",
       "title" : "F63: Improve the Performance of the Carrier-Based Night Fighter",
-      "id": "671",
+      "id": "670",
       "description": "Have a Max Star and Max Proficiency F6F-5 equipped on your secretary ship in her first slot and have 40 Development materials, 8 screws, 8000 bauxite and 1 New Aviation Armament Materials in your inventory. Then scrap 2 Type 13 Air RADARs and 2 Type 22 Surface RADARs. Items will be consumed on completion."
     },
     {
