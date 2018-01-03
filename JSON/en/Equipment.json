@@ -1,5 +1,5 @@
 {
-  "version": "29",
+  "version": "30",
   "equipment": [
     {
       "name_ja": "12cm単装砲",
@@ -1212,6 +1212,14 @@
 	{
 	  "name_ja": "深海待伏魚雷",
 	  "name": "Abyssal Ambush Torpedo"
+	},
+	{
+	  "name_ja": "北方迷彩(+北方装備)",
+	  "name": "Arctic Camouflage (+ Arctic Equipment)"
+	},
+    {
+	  "name_ja": "12.7cm連装砲D型改二",
+	  "name": "12.7cm Twin Gun Mount Model D Kai 2"
 	}
   ],
   "api_version": "1.0"

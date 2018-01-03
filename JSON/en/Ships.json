@@ -1,5 +1,5 @@
 {
-  "version": "29",
+  "version": "30",
   "ships": [
     {
       "name_ja": "長門",
@@ -376,6 +376,10 @@
     {
       "name_ja": "多摩改",
       "name": "Tama Kai"
+    },
+    {
+      "name_ja": "多摩改二",
+      "name": "Tama Kai2"
     },
     {
       "name_ja": "木曾",
@@ -1164,6 +1168,10 @@
     {
       "name_ja": "長波改",
       "name": "Naganami Kai"
+    },
+    {
+      "name_ja": "長波改二",
+      "name": "Naganami Kai2"
     },
     {
       "name_ja": "阿賀野",
