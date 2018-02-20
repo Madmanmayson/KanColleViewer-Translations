@@ -1,5 +1,5 @@
  {
-  "version": "51",
+  "version": "52",
   "api_version": "1.0",
   "quests": [
     {
@@ -596,6 +596,20 @@
       "title": "A83: Elite '31st Destroyer Division'1st Squadron, Prepare for Launch!",
       "id": "188",
       "description": "Have Naganami Kai2 as flagship and only one of the following ships in your first fleet: Takanami Kai, Okinami Kai, or Asashimo Kai. Selectable reward; clicking on either will lock the choice in as your selection."
+    },
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title": "A84: Elite 4th Torpedo Squadron, Prepare for Sortie!",
+      "id": "189",
+      "description": "Have Murasame Kai2 as flagship with 3 of the following ships in a fleet with two more of your choice: Yura Kai2, Yuudachi Kai2, Harusame Kai2, Samidare Kai or Akizuki Kai."
+    },
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title": "A85: Elite 21st Destroyer Division, Prepare for Sortie!",
+      "id": "190",
+      "description": "Have Wakaba Kai, Hatsuharu Kai2, Hatsushimo Kai2 and one other ship of your choice in a fleet."
     },
     {
       "description_ja": "艦隊を出撃させ、敵艦隊を捕捉、これを撃滅せよ！",
@@ -1333,6 +1347,20 @@
       "description": "Score 3 victories in practice mode with 2 Kagerou or Yugumo Class Destroyers. Then S-rank the boss nodes in Worlds 2-2, 2-3, 2-4 and 2-5. Two Selectable rewards; clicking on either will lock the choice in as your selection. NOTE: You MUST do the PVP first before you can sortie to world 2."
     },
     {
+      "description_ja": "",
+      "title_ja": "",
+      "title": "C16: Supply Ship Irako's Support",
+      "id": "318",
+      "description": "Form a fleet consisting of at least 2 CLs in your first fleet and score 3 victories in practice mode in a single day. Afterwards equip your secretary ship with 2 Combat Rations."
+    },
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title": "C17: Elite 21st Destroyer Division, Sortie!",
+      "id": "319",
+      "description": "Form a fleet consisting of at least Wakaba Kai, Hatsuharu Kai2, Hatsushimo Kai2 and get 4 victories in practice mode in a single day. Selectable rewards; clicking on either will lock the choice in as your selection."
+    },
+    {
       "description_ja": "艦隊を「遠征」に出発させよう！",
       "title_ja": "はじめての「遠征」！",
       "title": "D1: First Expedition",
@@ -2065,7 +2093,28 @@
       "title_ja": "",
       "title" : "F68:  Focused Maintenance of Equipment Development Capabilities",
       "id": "676",
-      "description": "Have 2400 steel and scrap 3 Medium Caliber Main Guns, 3 Secondary Guns and 1 Drum Canister. Items will be consumed on completion."
+      "description": "Have 2400 steel and scrap 3 Medium Caliber Main Guns, 3 Secondary Guns and 1 Drum Canister. Steel will be consumed on completion."
+    },
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title" : "F69:  The Maintenance of Warfare Support Ability",
+      "id": "677",
+      "description": "Have 3600 steel and scrap 4 Large Caliber Main Guns, 2 Recon Seaplanes and 3 Torpedoes. Steel will be consumed on completion."
+    },
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title" : "F70:  Renewal of the Main Carrier-based Fighter",
+      "id": "678",
+      "description": "Have 4000 bauxite and have a carrier secretary ship equipped with 2 Type 0 Fighter Model 52s in her first and second equipment slots. Then scrap 5 Type 0 Fighter Model 21s and 3 Type 96 Fighters. Bauxite will be consumed on completion."
+    },
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title" : "F71:  Expansion of Anti-Air Equipment",
+      "id": "679",
+      "description": "Have 900 bauxite and scrap 6 Medium Caliber Main Guns and 3 Secondary Guns. Bauxite will be consumed on completion."
     },
     {
       "description_ja": "任意の艦を近代化改修(合成)して、強化せよ！",
@@ -2591,6 +2640,34 @@
       "title": "Bq6: Elite '31st Destroyer Division', Rush into the Iron Bottom Ocean Area!",
       "id": "875",
       "description": "Sortie a fleet with Naganami Kai2 as flagship and at least Takanami Kai, Okinami Kia or Asashimo Kai to world 5-4 and S-rank the boss node twice. Two Selectable rewards; clicking on either will lock the choice in as your selection."
+	},
+	{
+	  "description_ja": "",
+      "title_ja": "",
+      "title": "B111: Start the Matsu Transport Operation!",
+      "id": "876",
+      "description": "Sortie a fleet with Tatsuta Kai or Tatsuta Kai2 as the flagship with at least 3 DD/DEs to worlds 1-4 and 1-6 and A-rank the boss node twice. Two Selectable rewards; clicking on either will lock the choice in as your selection."
+	},
+	{
+	  "description_ja": "",
+      "title_ja": "",
+      "title": "B112: Elite 4th Torpedo Squadron, Sortie to the Southern Ocean Area!",
+      "id": "877",
+      "description": "Sortie a fleet with Murasame Kai2 as flagship with at least 3 of the following ships: Yura Kai2, Yuudachi Kai2, Harusame Kai, Samidare Kai, Akizuki Kai, and two additional ships to worlds 5-1, 5-3, and 5-4 and A-rank the boss node. Two Selectable rewards; clicking on either will lock the choice in as your selection."
+	},
+	{
+	  "description_ja": "",
+      "title_ja": "",
+      "title": "B113: Continue the Matsu-Transport Operation!",
+      "id": "878",
+      "description": "Sortie a fleet with a CL/DD Flagship, with at least 3 more DD/DEs to worlds 1-4 and 1-6 and A-rank the boss node three times. Two Selectable rewards; clicking on either will lock the choice in as your selection."
+	},
+	{
+	  "description_ja": "",
+      "title_ja": "",
+      "title": "B114: New 4th Aviation Fleet, Sortie Out!",
+      "id": "879",
+      "description": "Sortie a fleet with Ise Kai, Hyuuga Kai, Ooyodo Kai, 1 DD and up to 2 additional ships to worlds 1-6, 2-5, 3-5, and 4-5 and A-rank the boss node. Selectable reward; clicking on either will lock the choice in as your selection."
 	}
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "version": "30",
+  "version": "31",
   "ships": [
     {
       "name_ja": "長門",
@@ -270,8 +270,16 @@
       "name": "Tatsuta"
     },
     {
-      "name_ja": "龍田改",
+      "name_ja": ,
+    {
+      "name_ja": "龍田改二",
+      "name": "Tatsuta Kai2"
+    }"龍田改",
       "name": "Tatsuta Kai"
+    },
+    {
+      "name_ja": "龍田改二",
+      "name": "Tatsuta Kai2"
     },
     {
       "name_ja": "龍驤",
@@ -820,6 +828,10 @@
     {
       "name_ja": "村雨改",
       "name": "Murasame Kai"
+    },
+    {
+      "name_ja": "村雨改二",
+      "name": "Murasame Kai2"
     },
     {
       "name_ja": "夕立",
@@ -1982,6 +1994,38 @@
 	  "name_ja": "涼月改",
 	  "name": "Suzutsuki Kai"
 	},
+	{
+	  "name_ja": "日振",
+	  "name": "Hiburi"
+	},
+	{
+	  "name_ja": "日振改",
+	  "name": "Hiburi Kai"
+	},
+	{
+	  "name_ja": "Gambier Bay",
+	  "name": "Gambier Bay"
+	},
+	{
+	  "name_ja": "Gambier Bay改",
+	  "name": "Gambier Bay Kai"
+	},
+	{
+	  "name_ja": "大東",
+	  "name": "Daitou"
+	},
+	{
+	  "name_ja": "大東改",
+	  "name": "Daitou Kai"
+	},
+	{
+	  "name_ja": "Jervis",
+	  "name": "Jervis"
+	},
+	{
+	  "name_ja": "Jervis改",
+	  "name": "Jervis Kai"
+	},
     {
       "name_ja": "南方棲戦鬼",
       "name": "Southern War Demon"
@@ -2369,6 +2413,10 @@
     {
       "name_ja": "防空埋姫",
       "name": "Buried Air Defense Princess"
+    },
+    {
+      "name_ja": "護衛棲水姫",
+      "name": "Escort Water Princess"
     },
     {
       "name_ja": "？？？",
