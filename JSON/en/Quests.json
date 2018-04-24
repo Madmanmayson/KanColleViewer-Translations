@@ -1,5 +1,5 @@
  {
-  "version": "52",
+  "version": "53",
   "api_version": "1.0",
   "quests": [
     {
@@ -327,7 +327,7 @@
     {
       "description_ja": "「扶桑」「山城」「最上」「時雨」「満潮」を基幹とした西村艦隊を編成せよ！",
       "title_ja": "「西村艦隊」を再編成せよ！",
-      "title": "A44: Form the ReOrganized Nishimura Fleet",
+      "title": "A44: Form the Reorganized Nishimura Fleet",
       "id": "147",
       "description": "Have Fusou (扶桑), Yamashiro (山城), Mogami (最上), Shigure (時雨) and Michishio (満潮) in your main fleet."
     },
@@ -404,7 +404,7 @@
     {
       "description_ja": "「翔鶴」「瑞鶴」と随伴駆逐艦「朧」「秋雲」を基幹とした第五航空戦隊を再編成せよ！",
       "title_ja": "「第五航空戦隊」を再編成せよ！",
-      "title": "A56: ReOrganize the 5th Carrier Division",
+      "title": "A56: Reorganize the 5th Carrier Division",
       "id": "161",
       "description": "Have Shoukaku (翔鶴), Zuikaku (瑞鶴), Oboro (朧) and Akigumo (秋雲) in your main fleet."
     },
@@ -610,6 +610,20 @@
       "title": "A85: Elite 21st Destroyer Division, Prepare for Sortie!",
       "id": "190",
       "description": "Have Wakaba Kai, Hatsuharu Kai2, Hatsushimo Kai2 and one other ship of your choice in a fleet."
+    },
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title": "A86: Reorganize the Remodeled 17th Destroyer Division!",
+      "id": "191",
+      "description": "Have Isokaze B Kai, Hamakaze B Kai, Urakaze Kai and Tanikaze Kai in a fleet."
+    },
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title": "A87: Organize the Elite '18th Destroyer Division'!",
+      "id": "192",
+      "description": "Have Arare Kai2, Kasumi Kai2 (or Kasumi Kai2 B), Kagerou Kai and Shiranui Kai in a fleet."
     },
     {
       "description_ja": "艦隊を出撃させ、敵艦隊を捕捉、これを撃滅せよ！",
@@ -1323,42 +1337,49 @@
       "title_ja": "冬季大演習",
       "title": "C11: Large Scale Winter Training",
       "id": "314",
-      "description": "Score 8 victories in practice mode in a single day."
+      "description": "Score 8 victories in PVP in a single day."
     },
     {
       "description_ja": "春の一日中に「演習」で8回以上「勝利」をおさめ、艦隊の練度向上に努めよ！",
       "title_ja": "春季大演習",
       "title": "C12: Large Scale Spring Training",
       "id": "315",
-      "description": "Score 8 victories in practice mode in a single day."
+      "description": "Score 8 victories in PVP in a single day."
     },
     {
       "description_ja": "春の一日中に「演習」で8回以上「勝利」をおさめ、艦隊の練度向上に努めよ！",
       "title_ja": "春季大演習",
       "title": "C13: Raise the Transport Unit's Experience!",
       "id": "316",
-      "description": "Score 4 victories in practice mode in a single day. Selectable reward; clicking on either will lock the choice in as your selection."
+      "description": "Score 4 victories in PVP in a single day. Selectable reward; clicking on either will lock the choice in as your selection."
     },
     {
       "description_ja": "",
       "title_ja": "",
       "title": "C15: A-Class Destroyer's Strength Maintenance Plan",
       "id": "317",
-      "description": "Score 3 victories in practice mode with 2 Kagerou or Yugumo Class Destroyers. Then S-rank the boss nodes in Worlds 2-2, 2-3, 2-4 and 2-5. Two Selectable rewards; clicking on either will lock the choice in as your selection. NOTE: You MUST do the PVP first before you can sortie to world 2."
+      "description": "Score 3 victories in PVP with 2 Kagerou or Yugumo Class Destroyers. Then S-rank the boss nodes in Worlds 2-2, 2-3, 2-4 and 2-5. Two Selectable rewards; clicking on either will lock the choice in as your selection. NOTE: You MUST do the PVP first before you can sortie to world 2."
     },
     {
       "description_ja": "",
       "title_ja": "",
       "title": "C16: Supply Ship Irako's Support",
       "id": "318",
-      "description": "Form a fleet consisting of at least 2 CLs in your first fleet and score 3 victories in practice mode in a single day. Afterwards equip your secretary ship with 2 Combat Rations."
+      "description": "Form a fleet consisting of at least 2 CLs in your first fleet and score 3 victories in PVP in a single day. Afterwards equip your secretary ship with 2 Combat Rations."
     },
     {
       "description_ja": "",
       "title_ja": "",
       "title": "C17: Elite 21st Destroyer Division, Sortie!",
       "id": "319",
-      "description": "Form a fleet consisting of at least Wakaba Kai, Hatsuharu Kai2, Hatsushimo Kai2 and get 4 victories in practice mode in a single day. Selectable rewards; clicking on either will lock the choice in as your selection."
+      "description": "Form a fleet consisting of at least Wakaba Kai, Hatsuharu Kai2, Hatsushimo Kai2 and get 4 victories in PVP in a single day. Selectable rewards; clicking on either will lock the choice in as your selection."
+    },
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title": "C18: Destroyer Squadron, Begin the Special Training!",
+      "id": "320",
+      "description": "Form a fleet consisting of at least 4 DDs and get 4 victories in PVP in a single day. Selectable rewards; clicking on either will lock the choice in as your selection."
     },
     {
       "description_ja": "艦隊を「遠征」に出発させよう！",
@@ -2117,6 +2138,13 @@
       "description": "Have 900 bauxite and scrap 6 Medium Caliber Main Guns and 3 Secondary Guns. Bauxite will be consumed on completion."
     },
     {
+      "description_ja": "",
+      "title_ja": "",
+      "title" : "F712  Reinforcement of Anti-Air Equipment",
+      "id": "680",
+      "description": "Have 1500 bauxite and scrap 6 Machine Guns and 4 RADARs. Bauxite will be consumed on completion. Two Selectable Rewards."
+    },
+    {
       "description_ja": "任意の艦を近代化改修(合成)して、強化せよ！",
       "title_ja": "はじめての「近代化改修」！",
       "title": "G1: First Modernization",
@@ -2668,6 +2696,62 @@
       "title": "B114: New 4th Aviation Fleet, Sortie Out!",
       "id": "879",
       "description": "Sortie a fleet with Ise Kai, Hyuuga Kai, Ooyodo Kai, 1 DD and up to 2 additional ships to worlds 1-6, 2-5, 3-5, and 4-5 and A-rank the boss node. Selectable reward; clicking on either will lock the choice in as your selection."
+	},
+	{
+	  "description_ja": "",
+      "title_ja": "",
+      "title": "B115: Elite Destroyer Division, Cause Chaos!",
+      "id": "880",
+      "description": "Sortie a fleet contianing at least 4 DDs and up to 2 additional ships to worlds 1-6, 2-3, 3-2 and 4-2 and A-rank the boss node. Two selectable rewards; clicking on either will lock the choice in as your selection."
+	},
+	{
+	  "description_ja": "",
+      "title_ja": "",
+      "title": "B116: DesDiv 18, to Kis Island in the Northern Sea!",
+      "id": "881",
+      "description": "Sortie a fleet contianing Arare Kai2, Kasumi Kai 2 (or Kasumi Kai2 B), Kagerou Kai, Shiranui Kai and up to 2 additional ships to world 3-2 and S-rank the boss node twice. Two selectable rewards; clicking on either will lock the choice in as your selection."
+  },
+  
+
+
+
+
+
+
+	{
+	  "description_ja": "",
+      "title_ja": "",
+      "title": "5A01: 5th Anniversary Mission #1: Arsenal",
+      "id": "681",
+      "description": "Scrap 5 Small Caliber Guns and 5 Medium Caliber Guns."
+	},
+	{
+	  "description_ja": "",
+      "title_ja": "",
+      "title": "5A02: 5th Anniversary Mission #1: Naval Base Sea Patrol",
+      "id": "882",
+      "description": "Sortie a fleet with a CL/CLT/CT flagship and 3 or more DD/DEs to worlds 1-1, 1-2, 1-3, 1-4 and 1-5 and get a victory at the boss node."
+	},
+	{
+	  "description_ja": "",
+      "title_ja": "",
+      "title": "5A03: 5th Anniversary Mission #1: Modernization",
+      "id": "706",
+      "description": "Prepare 555 steel and 555 bauxite, choose any DE and use 5 DDs to modernize her twice."
+	},
+	{
+	  "description_ja": "",
+      "title_ja": "",
+      "title": "5A04: 5th Anniversary Mission #1: Practice",
+      "id": "321",
+      "description": "Use a fleet incuding 2 DDs and up to 3 additional ships (only 5 ships total) to achieve 4 PVP victories in a single day."
+	},
+	{
+	  "description_ja": "",
+      "title_ja": "",
+      "title": "5A05: 5th Anniversary Mission #1: 5th Anniversary Fleet Sortie!",
+      "id": "883",
+      "description": "Form a fleet with a CL/CLT/CT flagship, 2 DD/DEs and up to 3 additional ships to complete one of the following conditions: 1) A-rank the boss nodes of worlds 2-1, 2-2, 2-3, 2-4 and 2-5 once. 2) A-rank the boss nodes of worlds 5-3 and 5-5 once. 3) A-rank the boss node of 6-5 once."
 	}
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "version": "31",
+  "version": "32",
   "equipment": [
     {
       "name_ja": "12cm単装砲",
@@ -1276,7 +1276,15 @@
     {
 	  "name_ja": "夜復讐深海艦攻",
 	  "name": "Abyssal Night Revenge Torpedo Bomber"
-	}
+  },
+  {
+    "name_ja": "深海14inch連装砲改",
+    "name": "Abyssal 14inch Twin Gun Mount Kai"
+  },
+  {
+    "name_ja": "深海16inch三連装砲改",
+    "name": "Abyssal 16inch Triple Gun Mount Kai"
+  }
   ],
   "api_version": "1.0"
 }
