@@ -1,5 +1,5 @@
 {
-  "version": "32",
+  "version": "33",
   "ships": [
     {
       "name_ja": "長門",
@@ -28,6 +28,10 @@
     {
       "name_ja": "伊勢改",
       "name": "Ise Kai"
+    },
+    {
+      "name_ja": "伊勢改二",
+      "name": "Ise Kai2"
     },
     {
       "name_ja": "日向",
@@ -264,6 +268,10 @@
     {
       "name_ja": "天龍改",
       "name": "Tenryuu Kai"
+    },
+    {
+      "name_ja": "天龍改二",
+      "name": "Tenryuu Kai2"
     },
     {
       "name_ja": "龍田",
@@ -810,6 +818,10 @@
       "name": "Shiratsuyu Kai"
     },
     {
+      "name_ja": "白露改二",
+      "name": "Shiratsuyu Kai2"
+    },
+    {
       "name_ja": "時雨",
       "name": "Shigure"
     },
@@ -962,12 +974,20 @@
       "name": "Shiranui Kai"
     },
     {
+      "name_ja": "不知火改二",
+      "name": "Shiranui Kai2"
+    },
+    {
       "name_ja": "黒潮",
       "name": "Kuroshio"
     },
     {
       "name_ja": "黒潮改",
       "name": "Kuroshio Kai"
+    },
+    {
+      "name_ja": "黒潮改二",
+      "name": "Kuroshio Kai2"
     },
     {
       "name_ja": "祥鳳",
@@ -1180,6 +1200,10 @@
     {
       "name_ja": "夕雲改",
       "name": "Yuugumo Kai"
+    },
+    {
+      "name_ja": "夕雲改二",
+      "name": "Yuugumo Kai2"
     },
     {
       "name_ja": "巻雲",
@@ -2089,6 +2113,14 @@
   {
     "name_ja": "Samuel B.Roberts改",
     "name": "Samuel B.Roberts Kai"
+  },
+  {
+    "name_ja": "福江",
+    "name": "Fukae"
+  },
+  {
+    "name_ja": "福江改",
+    "name": "Fukae Kai"
   },
 
 

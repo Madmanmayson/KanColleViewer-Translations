@@ -1,5 +1,5 @@
  {
-  "version": "53",
+  "version": "54",
   "api_version": "1.0",
   "quests": [
     {
@@ -624,6 +624,20 @@
       "title": "A87: Organize the Elite '18th Destroyer Division'!",
       "id": "192",
       "description": "Have Arare Kai2, Kasumi Kai2 (or Kasumi Kai2 B), Kagerou Kai and Shiranui Kai in a fleet."
+    },
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title": "A88: Elite Type-A Destroyers, Assemble!",
+      "id": "193",
+      "description": "Have Kagerou Kai2, Shiranui Kai2, Kuroshio Kai2 and 3 Level 70+ Kagerou/Yuugumo class DDs in a fleet."
+    },
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title": "A89: Organize the Elite 18th Cruiser Division!",
+      "id": "194",
+      "description": "Form a fleet consising only of Tenryuu Kai2 and Tatsuta Kai2."
     },
     {
       "description_ja": "艦隊を出撃させ、敵艦隊を捕捉、これを撃滅せよ！",
@@ -1382,6 +1396,48 @@
       "description": "Form a fleet consisting of at least 4 DDs and get 4 victories in PVP in a single day. Selectable rewards; clicking on either will lock the choice in as your selection."
     },
     {
+      "description_ja": "",
+      "title_ja": "",
+      "title": "C20: Costal Defense Ships, Commence Exercises!",
+      "id": "322",
+      "description": "Form a fleet consisting of a DE flagship with 2 DDs and get 2 victories in PVP in a single day."
+    },
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title": "C18: Elite Type-A Destroyers, Commence Special Training!",
+      "id": "323",
+      "description": "Form a fleet consisting of 4 Level 70+ Kagerou/Yuugumo class DDs and get 4 victories in PVP in a single day."
+    },
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title": "C19: Battle Carrier Lead Ship, Commence Exercises!",
+      "id": "324",
+      "description": "Form a fleet consisting of Ise Kai2 and 2 DDs and get 3 victories in PVP in a single day."
+    },
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title": "C21: Remodelled Yuugumo class, Begin Training!",
+      "id": "325",
+      "description": "Form a fleet consisting of Yuugumo Kai2 and Naganami Kai2 and get 4 victories in PVP in a single day."
+    },
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title": "C22: Large-scale Summer Exercise ",
+      "id": "326",
+      "description": "Get 8 victories in PVP in a single day."
+    },
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title": "C23: Asashio-class, Assemble! Commence Special Training! ",
+      "id": "327",
+      "description": "Form a fleet consisting of at least 4 Asashio class DDs and get 4 victories in PVP in a single day."
+    },
+    {
       "description_ja": "艦隊を「遠征」に出発させよう！",
       "title_ja": "はじめての「遠征」！",
       "title": "D1: First Expedition",
@@ -1576,6 +1632,13 @@
       "title": "D27: Making Preparations for Operation Shou-Gou 1!",
       "id": "429",
       "description": "Complete Expeditions 3, A1, and B1 one time each."
+    },
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title": "D28: Costal Defense Ships, Head Out!",
+      "id": "430",
+      "description": "Complete Expeditions 5, 9, A1 and A2."
     },
     {
       "description_ja": "補給は大事です！燃料・弾薬を艦に「補給」しよう！",
@@ -2140,9 +2203,51 @@
     {
       "description_ja": "",
       "title_ja": "",
-      "title" : "F712  Reinforcement of Anti-Air Equipment",
+      "title" : "F72:  Reinforcement of Anti-Air Equipment",
       "id": "680",
       "description": "Have 1500 bauxite and scrap 6 Machine Guns and 4 RADARs. Bauxite will be consumed on completion. Two Selectable Rewards."
+    },
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title" : "F73:  The Costal Defense Ship Consolidation Plan",
+      "id": "682",
+      "description": "Prepare 500 fuel. Scrap 4 Medium Caliber Main Guns and 4 Large Caliber Main Guns"
+    },
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title" : "F74:  Research of New and Improved Main Battery for Aviation Battleships",
+      "id": "683",
+      "description": "Prepare 40 Construction Materials, 50 Torches, 4500 steel and 2 New Model Gun Mount Improvement Materials. Have Ise Kai2 as secretary with a max star Prototype 41cm Triple Gun Mount equiped in her first slot. Then scrap 2 Type 22 Surface RADARs and 3 41cm Twin Gun Mounts. Resources and items will be consumed upon completion."
+    },
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title" : "F75:  Organize the Elite 'Battle Carrier' Suisei Air Group ",
+      "id": "684",
+      "description": "Prepare 40 Construction Materials, 1 New Model Aerial Armament Material and a Skilled Crew Member. Have Ise Kai2 as secretary with a Suisei Model 22 (634 Air Group) equiped in her 3rd slot and scrap 3 Type 99 Dive Bombers and 3 Suiseis. Items will be consumed upon completion."
+    },
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title" : "F76:  Wartime Renovation of Destroyer Main Guns",
+      "id": "685",
+      "description": "Prepare 30 Construction Materials, 900 steel and a New Model Gun Mount Improvement Material. Have a Fubuki class ship as your secretary with a max star 12.7cm Twin Gun Mount Model A Kai 2 equiped in the first slot. Scrap 4 10cm Twin High-angle Gun Mounts and a Type 94 Anti-Aircraft Fire Director. Resources and items will be consumed upon completion."
+    },
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title" : "F77:  Mass Wartime Production of the Type A Dual-Purpose Gun",
+      "id": "686",
+      "description": "Prepare 30 Construction Materials, 900 steel and a New Model Gun Mount Improvement Material. Have a Fubuki class ship as your secreary with a max star 12.7cm Twin Gun Mount Model A Kai 2 equiped in the first slot. Scrap 4 10cm Twin High-angle Gun Mounts and a Type 94 Anti-Aircraft Fire Director. Resources and items will be consumed upon completion."
+    },
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title" : "F78:  Destroyer Main Battery Wartime Modification (II) ",
+      "id": "687",
+      "description": "Have Shigure Kai2 or Yuudachi Kai2 as a secretary ship with a max star 12.7cm Twin Gun Mount Model B Kai 2 equiped in the first slot. Scrap 5 10cm High-angle Twin Gun Mounts and 1 Type 94 Anti-Aircraft Fire Director."
     },
     {
       "description_ja": "任意の艦を近代化改修(合成)して、強化せよ！",
@@ -2711,7 +2816,7 @@
       "id": "881",
       "description": "Sortie a fleet contianing Arare Kai2, Kasumi Kai 2 (or Kasumi Kai2 B), Kagerou Kai, Shiranui Kai and up to 2 additional ships to world 3-2 and S-rank the boss node twice. Two selectable rewards; clicking on either will lock the choice in as your selection."
   },
-  
+
 
 
 
@@ -2752,6 +2857,55 @@
       "title": "5A05: 5th Anniversary Mission #5: 5th Anniversary Fleet Sortie!",
       "id": "883",
       "description": "Form a fleet with a CL/CLT/CT flagship, 2 DD/DEs and up to 3 additional ships to complete one of the following conditions: 1) A-rank the boss nodes of worlds 2-1, 2-2, 2-3, 2-4 and 2-5 once. 2) A-rank the boss nodes of worlds 5-3 and 5-5 once. 3) A-rank the boss node of 6-5 once."
+	},
+	{
+	  "description_ja": "",
+      "title_ja": "",
+      "title": "B117: Elite Type-A Destroyers, Charging Through Enemy Territory!",
+      "id": "884",
+      "description": "Sortie a fleet with Kagerou Kai2, Shiranui Kai2 or Kuroshio Kai2 as flagship and 2 Level 75+ Kagerou/Yuugumo class DDs to worlds 3-2, 4-2 and 5-3 and S-rank the Boss Node of each map twice."
+	},
+	{
+	  "description_ja": "",
+      "title_ja": "",
+      "title": "B118: Battle Carrier, Sortie! ",
+      "id": "885",
+      "description": "Sortie a fleet with Ise Kai2 as flagship to worlds 3-5, 4-5 and 6-4 and S-rank the boss nodes."
+	},
+	{
+	  "description_ja": "",
+      "title_ja": "",
+      "title": "B119: Ise Kai Ni, Intercept the Enemy Task Force! ",
+      "id": "886",
+      "description": "Sortie a fleet with Ise Kai2 as flagship with at least 2 DDs to world 6-5 and S-rank the boss node 3 times."
+	},
+	{
+	  "description_ja": "",
+      "title_ja": "",
+      "title": "B120: Expand the Elite 18th Cruiser Division! ",
+      "id": "887",
+      "description": "Sortie a fleet with Tenryuu Kai2, Tatsuta Kai2 and 2 DDs to world 1-2, 1-4, 1-5, 1-6 and S-rank the boss node."
+	},
+	{
+	  "description_ja": "",
+      "title_ja": "",
+      "title": "Bq7: New Mikawa Fleet, Rush into the Iron Bottom Ocean Area! ",
+      "id": "888",
+      "description": "Sortie a fleet with 4 of the following ships: Choukai, Aoba, Kinugasa, Kako, Furutaka, Tenryuu or Yuubari and 2 additional ships to world 5-1, 5-3 and 5-4 and S-rank the boss node."
+	},
+	{
+	  "description_ja": "",
+      "title_ja": "",
+      "title": "B121: First platoon of the Elite 27th Destroyer Division, Sortie! ",
+      "id": "889",
+      "description": "Sortie a fleet conssiting of Shiratsuyu Kai2 and Shigure Kai2 to worlds 2-3, 4-1, 5-5 and 6-5 and S-rank the boss node."
+	},
+	{
+	  "description_ja": "",
+      "title_ja": "",
+      "title": "B122: Elite 'CruDiv 4', 2nd Platoon, Set Sail! ",
+      "id": "890",
+      "description": "Sortie a fleet conssiting of Choukai Kai2, Maya Kai2 and 4 additional ships to worlds 1-4, 2-3, 3-3 and 4-5 and S-rank the boss node."
 	}
   ]
 }

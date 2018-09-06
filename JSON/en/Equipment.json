@@ -1,5 +1,5 @@
 {
-  "version": "32",
+  "version": "33",
   "equipment": [
     {
       "name_ja": "12cm単装砲",
@@ -122,8 +122,8 @@
       "name": "Type 32 Surface RADAR Kai"
     },
     {
-      "name_ja": "14号対空電探",
-      "name": "Type 14 Air RADAR"
+      "name_ja": "42号対空電探",
+      "name": "Type 42 Air RADAR"
     },
     {
       "name_ja": "改良型艦本式タービン",
@@ -158,7 +158,7 @@
       "name": "25mm Triple Autocannon Mount"
     },
     {
-      "name_ja": "甲標的",
+      "name_ja": "甲標的 甲型",
       "name": "Type A Ko-hyoteki"
     },
     {
@@ -186,8 +186,8 @@
       "name": "Type 3 SONAR"
     },
     {
-      "name_ja": "12.7cm単装高角砲",
-      "name": "12.7cm Single High-angle Gun Mount"
+      "name_ja": "12cm単装高角砲",
+      "name": "12cm Single High-angle Gun Mount"
     },
     {
       "name_ja": "25mm単装機銃",
@@ -646,6 +646,70 @@
       "name": "6inch Twin Rapid-fire Gun Mount"
     },
     {
+      "name_ja": "61cm三連装(酸素)魚雷後期型",
+      "name": "61cm Triple (Oxygen) Torpedo Mount Late Model"
+    },
+    {
+      "name_ja": "61cm四連装(酸素)魚雷後期型",
+      "name": "61cm Quadruple (Oxygen) Torpedo Mount Late Model"
+    },
+    {
+      "name_ja": "彗星二二型(六三四空)",
+      "name": "Suisei Model 22 (634 Air Group)"
+    },
+    {
+      "name_ja": "彗星二二型(六三四空/熟練)",
+      "name": "Suisei Model 22 (634 Air Group/Skilled)"
+    },
+    {
+      "name_ja": "12cm単装砲改二",
+      "name": "12cm Single Gun Mount Kai 2"
+    },
+    {
+      "name_ja": "12.7cm連装砲A型改二",
+      "name": "12.7cm Twin Gun Mount Model A Kai 2"
+    },
+    {
+      "name_ja": "12.7cm連装砲A型改三(戦時改修)+高射装置",
+      "name": "12.7cm Twin Gun Mount Model A Kai 3 (Wartime Modification) + Anti-Aircraft Fire Director"
+    },
+    {
+      "name_ja": "12.7cm連装砲B型改四(戦時改修)+高射装置",
+      "name": "12.7cm Twin Gun Mount Model B Kai 4 (Wartime Modification) + Anti-Aircraft Fire Director"
+    },
+    {
+      "name_ja": "16inch Mk.I三連装砲",
+      "name": "16inch Mk.I Triple Gun Mount"
+    },
+    {
+      "name_ja": "16inch Mk.I三連装砲+AFCT改",
+      "name": "16inch Mk.I Triple Gun Mount + AFCT Kai"
+    },
+    {
+      "name_ja": "16inch Mk.I三連装砲改+FCR type284",
+      "name": "16inch Mk.I Triple Gun Mount Kai + FCR Type 284"
+    },
+    {
+      "name_ja": "20連装7inch UP Rocket Launchers",
+      "name": "20連装7inch UP Rocket Launchers"
+    },
+    {
+      "name_ja": "12.7cm連装砲A型",
+      "name": "12.7cm Twin Gun Mount Model A"
+    },
+    {
+      "name_ja": "Bofors 15.2cm連装砲 Model 1930",
+      "name": "Bofors 15.2cm Twin Gun Mount Model 1930"
+    },
+    {
+      "name_ja": "Ju87C改二(KMX搭載機)",
+      "name": "Ju 87C Kai Ni (w/ KMX)"
+    },
+    {
+      "name_ja": "S9 Osprey",
+      "name": "S9 Osprey"
+    },
+    {
       "name_ja": "深海ソナー",
       "name": "Abyssal SONAR"
     },
@@ -766,8 +830,8 @@
       "name": "30.5cm Triple Gun Mount"
     },
     {
-      "name_ja": "爆装一式戦 隼III型改(55戦隊)",
-      "name": "Bomb-carrying Type 1 Fighter Hayabusa Model III Kai (55th Squadron)"
+      "name_ja": "爆装一式戦 隼III型改(65戦隊)",
+      "name": "Bomb-carrying Type 1 Fighter Hayabusa Model III Kai (65th Squadron)"
     },
     {
       "name_ja": "30.5cm三連装砲改",
