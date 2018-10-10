@@ -1,5 +1,5 @@
 {
-  "version": "33",
+  "version": "34",
   "equipment": [
     {
       "name_ja": "12cm単装砲",
@@ -1281,55 +1281,71 @@
 	  "name_ja": "北方迷彩(+北方装備)",
 	  "name": "Arctic Camouflage (+ Arctic Equipment)"
 	},
-    {
+  {
 	  "name_ja": "12.7cm連装砲D型改二",
 	  "name": "12.7cm Twin Gun Mount Model D Kai 2"
 	},
-    {
+  {
 	  "name_ja": "彩雲(偵四)",
 	  "name": "Saiun (4th Recon Squad)"
 	},
-    {
+  {
 	  "name_ja": "46cm三連装砲改",
 	  "name": "46cm Triple Gun Mount Kai"
 	},
-    {
+  {
 	  "name_ja": "12cm30連装噴進砲改二",
 	  "name": "12cm 30-tube Rocket Launcher Kai Ni"
 	},
-    {
+  {
 	  "name_ja": "10cm連装高角砲改+増設機銃",
 	  "name": "10cm Twin High-angle Gun Mount Kai + Additional Machine Guns"
 	},
-    {
+  {
 	  "name_ja": "130mm B-13連装砲",
 	  "name": "130mm B-13 Twin Gun Mount"
 	},
-    {
+  {
 	  "name_ja": "QF 4.7inch砲 Mk.XII改",
 	  "name": "QF 4.7inch Gun Mk.XII Kai"
 	},
-    {
+  {
 	  "name_ja": "533mm 三連装魚雷",
 	  "name": "533mm Triple Torpedo Mount"
 	},
-    {
+  {
 	  "name_ja": "SK レーダー",
 	  "name": "SK RADAR"
 	},
-    {
+  {
 	  "name_ja": "SK&SG レーダー",
 	  "name": "SK & SG RADAR"
 	},
-    {
+  {
 	  "name_ja": "紫電改(三四三空) 戦闘301",
 	  "name": "Shiden Kai (343 Air Group) 301st Fighter Squadron"
 	},
-    {
+  {
 	  "name_ja": "51cm連装砲",
 	  "name": "51cm Twin Gun Mount"
 	},
-    {
+  {
+	  "name_ja": "九七式艦攻(九三一空/熟練)",
+	  "name": "Type 97 Torpedo Bomber (931 Air Group/Skilled)"
+	},
+  {
+	  "name_ja": "Ju87C改二(KMX搭載機/熟練)",
+	  "name": "Ju 87C Kai Ni (w/ KMX/Skilled)"
+	},
+  {
+	  "name_ja": "深海攻撃哨戒鷹改二",
+	  "name": "Abyssal Patrolling Attack Hawk Kai Ni"
+	},
+  {
+	  "name_ja": "深海16inch三連装砲改二",
+	  "name": "Abyssal 16inch Triple Gun Mount Kai Ni"
+	},
+  {
 	  "name_ja": "夜猫深海艦戦",
 	  "name": "Abyssal Night Cat Fighter"
 	},
@@ -1348,6 +1364,14 @@
   {
     "name_ja": "深海16inch三連装砲改",
     "name": "Abyssal 16inch Triple Gun Mount Kai"
+  },
+  {
+    "name_ja": "5inch単装砲 Mk.30改+GFCS Mk.37",
+    "name": "5inch Single Gun Mount Mk.30 Kai + GFCS Mk.37"
+  },
+  {
+    "name_ja": "GFCS Mk.37",
+    "name": "GFCS Mk.37"
   }
   ],
   "api_version": "1.0"

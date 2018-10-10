@@ -1,5 +1,5 @@
 {
-  "version": "33",
+  "version": "34",
   "ships": [
     {
       "name_ja": "長門",
@@ -2122,6 +2122,50 @@
     "name_ja": "福江改",
     "name": "Fukae Kai"
   },
+  {
+    "name_ja": "岸波",
+    "name": "Kishinami"
+  },
+  {
+    "name_ja": "岸波改",
+    "name": "Kishinami Kai"
+  },
+  {
+    "name_ja": "神鷹",
+    "name": "Shinyou"
+  },
+  {
+    "name_ja": "神鷹改",
+    "name": "Shinyou Kai"
+  },
+  {
+    "name_ja": "神鷹改二",
+    "name": "Shinyou Kai2"
+  },
+  {
+    "name_ja": "Gotland",
+    "name": "Gotland"
+  },
+  {
+    "name_ja": "Gotland改",
+    "name": "Gotland Kai"
+  },
+  {
+    "name_ja": "Maestrale改",
+    "name": "Maestrale"
+  },
+  {
+    "name_ja": "Maestrale改",
+    "name": "Maestrale Kai"
+  },
+  {
+    "name_ja": "Nelson改",
+    "name": "Nelson"
+  },
+  {
+    "name_ja": "Nelson改",
+    "name": "Nelson Kai"
+  },
 
 
 
@@ -2538,6 +2582,54 @@
   {
     "name_ja": "深海鶴棲姫-壊",
     "name": "Abyssal Crane Princess - Damaged"
+  },
+  {
+    "name_ja": "潜水新棲姫 バカンスmode",
+    "name": "New Submarine Princess Vacation Mode"
+  },
+  {
+    "name_ja": "集積地棲姫 バカンスmode",
+    "name": "Supply Depot Princess Vacation Mode"
+  },
+  {
+    "name_ja": "集積地棲姫 バカンスmode-壊",
+    "name": "Supply Depot Princess Vacation Mode - Damaged"
+  },
+  {
+    "name_ja": "泊地水鬼 バカンスmode",
+    "name": "Anchorage Water Demon Vacation Mode "
+  },
+  {
+    "name_ja": "護衛独還姫",
+    "name": "German Escort Princess"
+  },
+  {
+    "name_ja": "護衛独還姫-壊",
+    "name": "German Escort Princess - Damaged"
+  },
+  {
+    "name_ja": "船渠棲姫",
+    "name": "Dock Princess"
+  },
+  {
+    "name_ja": "船渠棲姫-壊",
+    "name": "Dock Princess - Damaged"
+  },
+  {
+    "name_ja": "戦艦仏棲姫 バカンスmode",
+    "name": "French Battleship Princess Vacation Mode"
+  },
+  {
+    "name_ja": "戦艦仏棲姫-壊 バカンスmode",
+    "name": "French Battleship Princess Vacation Mode - Damaged"
+  },
+  {
+    "name_ja": "欧州水姫",
+    "name": "European Water Princess"
+  },
+  {
+    "name_ja": "欧州水姫-壊",
+    "name": "European Water Princess - Damaged"
   },
   {
     "name_ja": "？？？",
