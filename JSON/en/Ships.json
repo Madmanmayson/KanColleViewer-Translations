@@ -1,5 +1,5 @@
 {
-  "version": "34",
+  "version": "35",
   "ships": [
     {
       "name_ja": "長門",
@@ -2151,7 +2151,7 @@
     "name": "Gotland Kai"
   },
   {
-    "name_ja": "Maestrale改",
+    "name_ja": "Maestrale",
     "name": "Maestrale"
   },
   {
@@ -2159,7 +2159,7 @@
     "name": "Maestrale Kai"
   },
   {
-    "name_ja": "Nelson改",
+    "name_ja": "Nelson",
     "name": "Nelson"
   },
   {
