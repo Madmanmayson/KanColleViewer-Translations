@@ -1,5 +1,5 @@
 {
-  "version": "35",
+  "version": "36",
   "equipment": [
     {
       "name_ja": "12cm単装砲",
@@ -691,7 +691,7 @@
     },
     {
       "name_ja": "20連装7inch UP Rocket Launchers",
-      "name": "20連装7inch UP Rocket Launchers"
+      "name": "20-tube 7inch UP Rocket Launchers"
     },
     {
       "name_ja": "12.7cm連装砲A型",
@@ -1368,6 +1368,10 @@
 	{
     "name_ja": "5inch単装砲 Mk.30改+GFCS Mk.37",
     "name": "5inch Single Gun Mount Mk.30 Kai + GFCS Mk.37"
+	},
+	{
+    "name_ja": "5inch単装砲 Mk.30",
+    "name": "5inch Single Gun Mount Mk.30"
 	},
 	{
     "name_ja": "GFCS Mk.37",
