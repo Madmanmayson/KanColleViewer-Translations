@@ -1,5 +1,5 @@
 {
-  "version": "35",
+  "version": "36",
   "ships": [
     {
       "name_ja": "長門",
@@ -22,6 +22,10 @@
       "name": "Mutsu Kai"
     },
     {
+      "name_ja": "陸奥改二",
+      "name": "Mutsu Kai2"
+    },
+    {
       "name_ja": "伊勢",
       "name": "Ise"
     },
@@ -42,6 +46,10 @@
       "name": "Hyuuga Kai"
     },
     {
+      "name_ja": "日向改二",
+      "name": "Hyuuga Kai2"
+    },
+    {
       "name_ja": "雪風",
       "name": "Yukikaze"
     },
@@ -56,6 +64,14 @@
     {
       "name_ja": "赤城改",
       "name": "Akagi Kai"
+    },
+    {
+      "name_ja": "赤城改二",
+      "name": "Akagi Kai2"
+    },
+    {
+      "name_ja": "赤城改二戊",
+      "name": "Akagi Kai2 E"
     },
     {
       "name_ja": "加賀",
@@ -196,6 +212,10 @@
     {
       "name_ja": "金剛改二",
       "name": "Kongou Kai2"
+    },
+    {
+      "name_ja": "金剛改二丙",
+      "name": "Kongou Kai2 C"
     },
     {
       "name_ja": "比叡",
@@ -1214,6 +1234,10 @@
       "name": "Makigumo Kai"
     },
     {
+      "name_ja": "巻雲改二",
+      "name": "Makigumo Kai2"
+    },
+    {
       "name_ja": "長波",
       "name": "Naganami"
     },
@@ -1376,6 +1400,10 @@
     {
       "name_ja": "谷風改",
       "name": "Tanikaze Kai"
+    },
+    {
+      "name_ja": "谷風丁改",
+      "name": "Tanikaze D Kai"
     },
     {
       "name_ja": "明石",
@@ -1657,6 +1685,10 @@
     {
       "name_ja": "風雲改",
       "name": "Kazagumo Kai"
+    },
+    {
+      "name_ja": "風雲改二",
+      "name": "Kazagumo Kai2"
     },
     {
       "name_ja": "海風",
@@ -2084,11 +2116,11 @@
   },
   {
     "name_ja": "浜波",
-    "name": "Hananami"
+    "name": "Hamanami"
   },
   {
     "name_ja": "浜波改",
-    "name": "Hananami Kai"
+    "name": "Hamanami Kai"
   },
   {
     "name_ja": "Ташкент",
@@ -2166,6 +2198,83 @@
     "name_ja": "Nelson改",
     "name": "Nelson Kai"
   },
+  {
+    "name_ja": "峯雲",
+    "name": "Minegumo"
+  },
+  {
+    "name_ja": "峯雲改",
+    "name": "Minegumo Kai"
+  },
+  {
+    "name_ja": "日進",
+    "name": "Nisshin"
+  },
+  {
+    "name_ja": "日進改",
+    "name": "Nisshin Kai"
+  },
+  {
+    "name_ja": "日進甲",
+    "name": "Nisshin A"
+  },
+  {
+    "name_ja": "Johnston",
+    "name": "Johnston"
+  },
+  {
+    "name_ja": "Johnston改",
+    "name": "Johnston Kai"
+  },
+  {
+    "name_ja": "早波",
+    "name": "Hayanami"
+  },
+  {
+    "name_ja": "早波改",
+    "name": "Hayanami Kai"
+  },
+  {
+    "name_ja": "石垣",
+    "name": "Ishigaki"
+  },
+  {
+    "name_ja": "石垣改",
+    "name": "Ishigaki Kai"
+  },
+  {
+    "name_ja": "八丈",
+    "name": "Hachijou"
+  },
+  {
+    "name_ja": "八丈改",
+    "name": "Hachijou Kai"
+  },
+  {
+    "name_ja": "G.Garibaldi",
+    "name": "Giuseppe Garibaldi"
+  },
+  {
+    "name_ja": "G.Garibaldi改",
+    "name": "Giuseppe Garibaldi Kai"
+  },
+  {
+    "name_ja": "Fletcher",
+    "name": "Fletcher"
+  },
+  {
+    "name_ja": "Fletcher改",
+    "name": "Fletcher Kai"
+  },
+  {
+    "name_ja": "Colorado",
+    "name": "Colorado"
+  },
+  {
+    "name_ja": "Colorado改",
+    "name": "Colorado Kai"
+  },
+
 
 
 
@@ -2630,6 +2739,46 @@
   {
     "name_ja": "欧州水姫-壊",
     "name": "European Water Princess - Damaged"
+  },
+  {
+    "name_ja": "深海雨雲姫",
+    "name": "Abyssal Nimbus Princess"
+  },
+  {
+    "name_ja": "深海雨雲姫-壊",
+    "name": "Abyssal Nimbus Princess - Damaged"
+  },
+  {
+    "name_ja": "深海日棲姫",
+    "name": "Abyssal Sun Princess"
+  },
+  {
+    "name_ja": "深海日棲姫-壊",
+    "name": "Abyssal Sun Princess - Damaged"
+  },
+  {
+    "name_ja": "駆逐ニ級改",
+    "name": "Destroyer Ni-Class Kai"
+  },
+  {
+    "name_ja": "駆逐ニ級改後期型",
+    "name": "Destroyer Ni-Class Kai Late Model"
+  },
+  {
+    "name_ja": "北方棲妹",
+    "name": "Northern Little Sister"
+  },
+  {
+    "name_ja": "北方棲妹-壊",
+    "name": "Northern Little Sister - Damaged"
+  },
+  {
+    "name_ja": "太平洋深海棲姫",
+    "name": "Abyssal Pacific Princess"
+  },
+  {
+    "name_ja": "太平洋深海棲姫-壊",
+    "name": "Abyssal Pacific Princess - Damaged"
   },
   {
     "name_ja": "？？？",

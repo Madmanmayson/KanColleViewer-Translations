@@ -1,5 +1,5 @@
 {
-  "version": "34",
+  "version": "35",
   "equipment": [
     {
       "name_ja": "12cm単装砲",
@@ -1281,71 +1281,71 @@
 	  "name_ja": "北方迷彩(+北方装備)",
 	  "name": "Arctic Camouflage (+ Arctic Equipment)"
 	},
-  {
+    {
 	  "name_ja": "12.7cm連装砲D型改二",
 	  "name": "12.7cm Twin Gun Mount Model D Kai 2"
 	},
-  {
+    {
 	  "name_ja": "彩雲(偵四)",
 	  "name": "Saiun (4th Recon Squad)"
 	},
-  {
+    {
 	  "name_ja": "46cm三連装砲改",
 	  "name": "46cm Triple Gun Mount Kai"
 	},
-  {
+    {
 	  "name_ja": "12cm30連装噴進砲改二",
 	  "name": "12cm 30-tube Rocket Launcher Kai Ni"
 	},
-  {
+    {
 	  "name_ja": "10cm連装高角砲改+増設機銃",
 	  "name": "10cm Twin High-angle Gun Mount Kai + Additional Machine Guns"
 	},
-  {
+    {
 	  "name_ja": "130mm B-13連装砲",
 	  "name": "130mm B-13 Twin Gun Mount"
 	},
-  {
+    {
 	  "name_ja": "QF 4.7inch砲 Mk.XII改",
 	  "name": "QF 4.7inch Gun Mk.XII Kai"
 	},
-  {
+    {
 	  "name_ja": "533mm 三連装魚雷",
 	  "name": "533mm Triple Torpedo Mount"
 	},
-  {
+    {
 	  "name_ja": "SK レーダー",
 	  "name": "SK RADAR"
 	},
-  {
+	{
 	  "name_ja": "SK&SG レーダー",
 	  "name": "SK & SG RADAR"
 	},
-  {
+	{
 	  "name_ja": "紫電改(三四三空) 戦闘301",
 	  "name": "Shiden Kai (343 Air Group) 301st Fighter Squadron"
 	},
-  {
+	{
 	  "name_ja": "51cm連装砲",
 	  "name": "51cm Twin Gun Mount"
 	},
-  {
+	{
 	  "name_ja": "九七式艦攻(九三一空/熟練)",
 	  "name": "Type 97 Torpedo Bomber (931 Air Group/Skilled)"
 	},
-  {
+	{
 	  "name_ja": "Ju87C改二(KMX搭載機/熟練)",
 	  "name": "Ju 87C Kai Ni (w/ KMX/Skilled)"
 	},
-  {
+	{
 	  "name_ja": "深海攻撃哨戒鷹改二",
 	  "name": "Abyssal Patrolling Attack Hawk Kai Ni"
 	},
-  {
+	{
 	  "name_ja": "深海16inch三連装砲改二",
 	  "name": "Abyssal 16inch Triple Gun Mount Kai Ni"
 	},
-  {
+	{
 	  "name_ja": "夜猫深海艦戦",
 	  "name": "Abyssal Night Cat Fighter"
 	},
@@ -1356,23 +1356,190 @@
     {
 	  "name_ja": "夜復讐深海艦攻",
 	  "name": "Abyssal Night Revenge Torpedo Bomber"
-  },
-  {
+	},
+	{
     "name_ja": "深海14inch連装砲改",
     "name": "Abyssal 14inch Twin Gun Mount Kai"
-  },
-  {
+	},
+	{
     "name_ja": "深海16inch三連装砲改",
     "name": "Abyssal 16inch Triple Gun Mount Kai"
-  },
-  {
+	},
+	{
     "name_ja": "5inch単装砲 Mk.30改+GFCS Mk.37",
     "name": "5inch Single Gun Mount Mk.30 Kai + GFCS Mk.37"
-  },
-  {
+	},
+	{
     "name_ja": "GFCS Mk.37",
     "name": "GFCS Mk.37"
-  }
+	},
+	{
+    "name_ja": "甲標的 丙型",
+    "name": "Type C Ko-hyoteki"
+	},
+	{
+    "name_ja": "14cm連装砲改",
+    "name": "14cm Twin Gun Mount Kai"
+	},
+	{
+    "name_ja": "二式陸上偵察機",
+    "name": "Type 2 Land-based Reconnaissance Aircraft"
+	},
+	{
+    "name_ja": "533mm五連装魚雷(初期型)",
+    "name": "533mm Quintuple Torpedo Mount (Initial Model)"
+	},
+	{
+    "name_ja": "SG レーダー(初期型)",
+    "name": "SG Radar (Initial Model)"
+	},
+	{
+    "name_ja": "5inch単装砲 Mk.30改",
+    "name": "5inch Single Gun Mount Mk.30 Kai"
+	},
+	{
+    "name_ja": "二式陸上偵察機(熟練)",
+    "name": "Type 2 Land-based Reconnaissance Aircraft (Skilled)"
+	},
+	{
+    "name_ja": "深海5inch連装砲C型",
+    "name": "Abyssal 5inch Twin Gun Mount Model C"
+	},
+	{
+    "name_ja": "深海5.5inch連装砲改",
+    "name": "Abyssal 5.5inch Twin Gun Mount Kai"
+	},
+	{
+    "name_ja": "深海標的",
+    "name": "Abyssal Target"
+	},
+	{
+    "name_ja": "深海5inch単装砲 Mk.30",
+    "name": "Abyssal 5inch Single Gun Mount Mk.30"
+	},
+	{
+    "name_ja": "Re.2001 CB改",
+    "name": "Re.2001 CB Kai"
+	},
+	{
+    "name_ja": "三式弾改",
+    "name": "Type 3 Shell Kai"
+	},
+	{
+    "name_ja": "41cm連装砲改二",
+    "name": "41cm Twin Gun Mount Kai Ni"
+	}
+
+
+    ,
+	{
+    "name_ja": "彗星一二型(六三四空/三号爆弾搭載機)",
+    "name": "Suisei Model 12 (634 Air Group w/ Type 3 Cluster Bombs)"
+	},
+	{
+    "name_ja": "瑞雲改二(六三四空)",
+    "name": "Zuiun Kai Ni (634 Air Group)"
+	},
+	{
+    "name_ja": "瑞雲改二(六三四空/熟練)",
+    "name": "Zuiun Kai Ni (634 Air Group/Skilled)"
+	},
+	{
+    "name_ja": "オ号観測機改",
+    "name": "O Type Observation Autogyro Kai"
+	},
+	{
+    "name_ja": "オ号観測機改二",
+    "name": "O Type Observation Autogyro Kai Ni"
+	},
+	{
+    "name_ja": "S-51J",
+    "name": "S-51J"
+	},
+	{
+    "name_ja": "S-51J改",
+    "name": "S-51J Kai"
+	},
+	{
+    "name_ja": "35.6cm連装砲改二",
+    "name": "35.6cm Twin Gun Mount Kai Ni"
+	},
+	{
+    "name_ja": "35.6cm連装砲改",
+    "name": "35.6cm Twin Gun Mount Kai"
+	},
+	{
+    "name_ja": "試製烈風 後期型",
+    "name": "Prototype Reppuu Late Model"
+	},
+	{
+    "name_ja": "彗星一二型(三一号光電管爆弾搭載機)",
+    "name": "Suisei Model 12 (w/ Type 31 Photoelectric Fuze Bombs)"
+	},
+	{
+    "name_ja": "16inch Mk.I連装砲",
+    "name": "16inch Mk.I Twin Gun Mount"
+	},
+	{
+    "name_ja": "16inch Mk.V連装砲",
+    "name": "16inch Mk.V Twin Gun Mount"
+	},
+	{
+    "name_ja": "16inch Mk.VIII連装砲改",
+    "name": "16inch Mk.VIII Twin Gun Mount Kai"
+	},
+	{
+    "name_ja": "流星改(一航戦)",
+    "name": "Ryuusei Kai (CarDiv 1)"
+	},
+	{
+    "name_ja": "流星改(一航戦/熟練)",
+    "name": "Ryuusei Kai (CarDiv 1/Skilled)"
+	},
+	{
+    "name_ja": "烈風改",
+    "name": "Reppuu Kai"
+	},
+	{
+    "name_ja": "烈風改(三五二空/熟練)",
+    "name": "Reppuu Kai (352 Air Group/Skilled)"
+	},
+	{
+    "name_ja": "烈風改(試製艦載型)",
+    "name": "Reppuu Kai (Prototype Carrier-based Model)"
+	},
+	{
+    "name_ja": "烈風改二",
+    "name": "Reppuu Kai Ni"
+	},
+	{
+    "name_ja": "烈風改二戊型",
+    "name": "Reppuu Kai Ni Model E"
+	},
+	{
+    "name_ja": "烈風改二(一航戦/熟練)",
+    "name": "Reppuu Kai Ni (CarDiv 1/Skilled)"
+	},
+	{
+    "name_ja": "烈風改二戊型(一航戦/熟練)",
+    "name": "Reppuu Kai Ni Model E (CarDiv 1/Skilled)"
+	},
+	{
+    "name_ja": "152mm/55 三連装速射砲",
+    "name": "152mm/55 Triple Rapid Fire Gun Mount"
+	},
+	{
+    "name_ja": "152mm/55 Triple Rapid Fire Gun Mount Kai",
+    "name": "152mm/55 三連装速射砲改"
+	},
+	{
+    "name_ja": "深海16inch Mk.VIII連装砲改",
+    "name": "Abyssal 16inch Mk.VIII Twin Gun Mount Kai"
+	},
+	{
+    "name_ja": "High-speed Abyssal Torpedo mod.3",
+    "name": "高速深海魚雷 mod.3"
+	}
   ],
   "api_version": "1.0"
 }

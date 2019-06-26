@@ -19,12 +19,12 @@
     },
     {
       "url": "",
-      "version": "35",
+      "version": "36",
       "type": "ships"
     },
     {
       "url": "",
-      "version": "54",
+      "version": "55",
       "type": "quests"
     },
     {
@@ -34,7 +34,7 @@
     },
     {
       "url": "",
-      "version": "34",
+      "version": "35",
       "type": "equipment"
     }
   ],
