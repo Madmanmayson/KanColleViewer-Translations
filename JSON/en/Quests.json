@@ -1,5 +1,5 @@
  {
-  "version": "57",
+  "version": "58",
   "api_version": "1.0",
   "quests": [
     {
@@ -1784,14 +1784,14 @@
       "description_ja": "",
       "title_ja": "",
       "title": "D30:Reinforce the Recon Patrols and Defenses!",
-      "id": "430",
+      "id": "432",
       "description": "Complete Expeditions 10, A2 and B1."
     },
     {
       "description_ja": "",
       "title_ja": "",
       "title": "D31: Carry Out Southern Front Expeditions!",
-      "id": "431",
+      "id": "433",
       "description": "Complete Expeditions 35, 36, 37, 38 and 40"
     },
     {
