@@ -1,5 +1,5 @@
 {
-  "version": "36",
+  "version": "37",
   "ships": [
     {
       "name_ja": "長門",
@@ -1699,6 +1699,10 @@
       "name": "Umikaze Kai"
     },
     {
+      "name_ja": "海風改二",
+      "name": "Umikaze Kai2"
+    },
+    {
       "name_ja": "江風",
       "name": "Kawakaze"
     },
@@ -2274,6 +2278,49 @@
     "name_ja": "Colorado改",
     "name": "Colorado Kai"
   },
+  {
+    "name_ja": "御蔵",
+    "name": "Mikura"
+  },
+  {
+    "name_ja": "御蔵改",
+    "name": "Mikura Kai"
+  },
+  {
+    "name_ja": "Grecale",
+    "name": "Grecale"
+  },
+  {
+    "name_ja": "Grecale改",
+    "name": "Grecale Kai"
+  },
+  {
+    "name_ja": "L.d.S.D.d.Abruzzi",
+    "name": "Duca degli Abruzzi"
+  },
+  {
+    "name_ja": "L.d.S.D.d.Abruzzi改",
+    "name": "Duca degli Abruzzi Kai"
+  },
+  {
+    "name_ja": "Janus",
+    "name": "Janus"
+  },
+  {
+    "name_ja": "Janus改",
+    "name": "Janus Kai"
+  },
+
+
+
+
+
+
+
+
+
+
+
   {
     "name_ja": "南方棲戦鬼",
     "name": "Southern War Demon"

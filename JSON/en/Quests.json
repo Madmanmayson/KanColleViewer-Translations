@@ -1,5 +1,5 @@
  {
-  "version": "55",
+  "version": "56",
   "api_version": "1.0",
   "quests": [
     {
@@ -899,6 +899,27 @@
       "description": "Clear E-2."
     },
     {
+      "description_ja": "",
+      "title_ja": "",
+      "title": "B135: Patrol the Coastal Waters!",
+      "id": "235",
+      "description": "Sortie a fleet with 1 CL, 3 DD/DE and up to 2 additional ships to Worlds 1-2, 1-3, 2-1 and 2-2 and S-rank each boss."
+    },
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title": "B136: Sortie the Elite 24th Destroyer Division!",
+      "id": "236",
+      "description": "Sortie a fleet with Umikaze Kai2 as flagship, 2 of the following ships, Yamakaze, Kawakaze, or Suzukaze and up to 3 additional ships to Worlds 2-3, 2-4, 5-1 and 5-3 and S-rank each boss."
+    },
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title": "B138: Haguro & Kamikaze, Sortie!",
+      "id": "237",
+      "description": "Sortie a fleet with Haguro, Kamikaze and either 1 CA(V) and 2 DD (5 ships max) or 4 DDs to Worlds 2-1, 2-2, and 2-3 and S-rank each boss."
+    },
+    {
       "description_ja": "編成した「第八駆逐隊」を含む艦隊で出撃し、オリョール海の敵を撃滅せよ！",
       "title_ja": "「第八駆逐隊」出撃せよ！",
       "title": "B20: Sortie the 8th Destroyer Division",
@@ -1207,6 +1228,20 @@
       "description": "Sortie a fleet with Mutsu Kai2 as flagship and Nagato Kai2 as second ship with up to 4 additional ships to Worlds 2-5, 5-5 and 6-4 and score an S rank victory at the boss node."
     },
     {
+      "description_ja": "",
+      "title_ja": "",
+      "title": "B137: Powerful CarDiv 1, Sortie!",
+      "id": "283",
+      "description": "Sortie a fleet with Akagi Kai2 or Akagi Kai2 E as flagship, Kaga as the second ship and up to 4 additional ships to Worlds 4-5, 5-2 and S-rank the boss node once. Then sortie to world 6-5 and S-rank the boss node twice."
+    },
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title": "Bq11: Surface Security Actions around the Nansei Archipelago Annoucement",
+      "id": "284",
+      "description": "Sortie a fleet with 1 CVL/CL, 3 DD/DE and up to 2 additional ships to Worlds 1-4, 2-1, 2-2 and 2-3 and S-rank each boss node."
+    },
+    {
       "description_ja": "航空母艦を旗艦とした空母機動部隊を北方AL海域方面に展開、敵戦力を撃滅せよ！",
       "title_ja": "「空母機動部隊」北方海域に進出せよ！",
       "title": "B49: Sortie an Aircraft Carrier Task Force to the Aleutian Islands",
@@ -1468,7 +1503,7 @@
     {
       "description_ja": "",
       "title_ja": "",
-      "title": "C22: Large-scale Summer Exercise ",
+      "title": "C36: Large-scale Summer Exercise ",
       "id": "326",
       "description": "Get 8 victories in PVP in a single day."
     },
@@ -1506,6 +1541,34 @@
       "title": "C32: 6th Anniversary Exercise ",
       "id": "332",
       "description": "Form a fleet consisting 1 CL and 3 DD/DEs and get 4 S-rank victories in PVP in a single day."
+    },
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title": "C33: Aviation Squadron Exercises (Part 1)",
+      "id": "333",
+      "description": "Form a fleet consisting of 3 CV(L/B), 2 DD and up to 1 additional ship and get 3 S-rank victories in PVP in a single day."
+    },
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title": "C34: Aviation Squadron Exercises (Part 2)",
+      "id": "334",
+      "description": "Form a fleet consisting of 3 CV(L/B), 2 DD and up to 1 additional ship and get 6 S-rank victories in PVP in a single day."
+    },
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title": "C35: A New Shield",
+      "id": "335",
+      "description": "Form a fleet consisting of Maya, Haguro and up to 4 additional ships and get 3 S-rank victories in PVP in a single day."
+    },
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title": "C37: Transport Fleet Exercise",
+      "id": "336",
+      "description": "Form a fleet consisting of 2 LHA/AO/DE, and up to 4 additional ships and get 4 A-rank victories in PVP in a single day."
     },
     {
       "description_ja": "艦隊を「遠征」に出発させよう！",
@@ -1718,6 +1781,20 @@
       "description": "Complete Expeditions 17, A1, A2 and B1 once."
     },
     {
+      "description_ja": "",
+      "title_ja": "",
+      "title": "D30:Reinforce the Recon Patrols and Defenses!",
+      "id": "430",
+      "description": "Complete Expeditions 10, A2 and B1."
+    },
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title": "D31: Carry Out Southern Front Expeditions!",
+      "id": "431",
+      "description": "Complete Expeditions 35, 36, 37, 38 and 40"
+    },
+    {
       "description_ja": "補給は大事です！燃料・弾薬を艦に「補給」しよう！",
       "title_ja": "はじめての「補給」！",
       "title": "E1: First Supply",
@@ -1877,6 +1954,20 @@
       "title": "F18d6: Improve Equipment",
       "id": "619",
       "description": "Perform equipment modernisation once."
+    },
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title": "F88: Formation of the CarDiv 1's Elite Ryuusei Squadron",
+      "id": "620",
+      "description": "Prepare 2800 Ammunition, 9000 Bauxite and 2 Skilled Crew Members. Have Akagi Kai2 or Akagi Kai2 E as secretary equiped with a max Proficiency Ryuusei Kai (CarDiv 1) in her first slot. Scrap 4 Ryuusei Kai, 1 Saiun and 2 Type 97 Torpedo Bombers. Resources will be consumed upon completion."
+    },
+    {
+      "description_ja": "",
+      "title_ja": "",
+      "title": "F89: Research of Ship-borne Land Based Equipment",
+      "id": "621",
+      "description": "Prepare 1700 Ammunition, 30 Building Materials and 10 Torches. Have a CL as secretary equiped with a 7.7mm Machine Gun in her first slot. Scrap 2 25mm Single Autocannon Mount, 2 Drum Canisters and 1 12cm 30-tube Rocket Launcher. Resources will be consumed upon completion."
     },
     {
       "description_ja": "「九七式艦攻(村田隊)」搭載「翔鶴」を秘書艦にして、新たに「天山」を2つ廃棄！",
@@ -2359,7 +2450,7 @@
       "title_ja": "",
       "title" : "F83: Maintenance of the Surface Vessels' Equipment Arsenal ",
       "id": "692",
-      "description": "Prepare 3000 Steel. Scrap 5 small guns, 5 medium guns and 5 recon seaplanes. Resources will be consumed upon completion."
+      "description": "Prepare 3000 Steel. Scrap 5 small guns, 5 large guns and 5 recon seaplanes. Resources will be consumed upon completion."
     },
     {
       "description_ja": "",
@@ -2649,11 +2740,11 @@
       "description": "Have 8 saury in your inventory."
     },
     {
-      "description_ja": "かなーり大変だけれど、ほら、私たち最新鋭の秋刀魚漁支援艦隊じゃない？<br>最新鋭、最新鋭、最新鋭の秋刀魚漁、張り切っていきましょー！よろしくお願いしまぁーす！",
-      "title_ja": "秋刀魚漁：最新鋭の秋刀魚漁！もっとぉ！",
-      "title": "Pacific saury fishing: Ultra-modern saury fishing! We need moooooore!",
+      "description_ja": "",
+      "title_ja": "",
+      "title": "B139: Research of Ship-borne Land Based Equipment in Actual Combat",
       "id": "833",
-      "description": "Have 24 saury in your inventory."
+      "description": "Sortie a fleet with 1 LHA/AV and up to 5 additional ships to Worlds 4-5 and 6-4 and A-Rank each boss node twice"
     },
     {
       "description_ja": "水上機母艦または航空巡洋艦を旗艦とする有力な艦隊を南西諸島防衛線に投入、<br>水上機戦力によって同防衛線を強化、同方面の敵艦隊を撃滅せよ！",
@@ -2892,6 +2983,13 @@
       "title": "B109: Most Elite 8th Destroyer Division, All-out Sortie!",
       "id": "871",
       "description": "Sortie a fleet containing Asashio Kai2, Arashio Kai2, Ooshio Kai2, Michishio Kai2 and 2 other ships to worlds 3-2 and 5-4 and S-rank the boss node. Selectable reward; clicking on either will lock the choice in as your selection."
+	},
+	{
+	  "description_ja": "",
+      "title_ja": "",
+      "title": "Bq10: Quarterly Operation Z, Part 2",
+      "id": "872",
+      "description": "Sortie a fleet to worlds 7-2, 5-5, 6-2 and 6-5 and S-rank the boss node (S-rank the second boss for 7-2)."
 	},
 	{
 	  "description_ja": "",
