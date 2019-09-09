@@ -1,5 +1,5 @@
  {
-  "version": "56",
+  "version": "57",
   "api_version": "1.0",
   "quests": [
     {
@@ -2726,18 +2726,18 @@
       "description": "Sortie to World 2-1 and score an S rank at the boss node."
     },
     {
-      "description_ja": "秋刀魚漁の漁場に展開、遊弋する敵艦隊を撃破して、「秋刀魚」を三尾入手せよ、ですって！<br>近海、北方海域、中部海域のどこかに秋刀魚漁に適した漁場があるみたい！",
-      "title_ja": "秋刀魚漁：きらりーん！秋刀魚漁支援！",
-      "title": "Pacific saury fishing: It's time to shine! Mackerel fishing support!",
+      "description_ja": "",
+      "title_ja": "",
+      "title": "SB43: Guarding the Calm Spring Sea! Fleet, Weigh Anchor!",
       "id": "831",
-      "description": "Have 3 saury in your inventory."
+      "description": "Sortie a fleet with a CL/CVL/AV flagship 4 DD/DE and up to one additional ship to Worlds 1-1, 1-2, 1-3 and 1-4 and S-rank the boss nodes."
     },
     {
-      "description_ja": "ちょおっと大変だけど、漁場の安全を確保して「秋刀魚」を八尾確保するんだって！<br>あまり乱獲したり、暫く同じ海域で続けてると獲れにくくなるみたい。海域を変えてみましょ！",
-      "title_ja": "秋刀魚漁：もっともーっと、秋刀魚漁！",
-      "title": "Pacific saury fishing: Fish for more and more mackerel!",
+      "description_ja": "",
+      "title_ja": "",
+      "title": "SB44: Spring! DesDiv 31 Flagship Naganami, Sortie!",
       "id": "832",
-      "description": "Have 8 saury in your inventory."
+      "description": "Sortie a fleet with Naganami Kai2 as flagship any 3 ships from DesDiv 31 (Takanami, Okinami, Kishinami, or Asashimo) and up to 2 addtional ships to Worlds 2-1 and 2-2 and S-rank the boss nodes twice. Then sortie to 5-4 and A-rank the boss node once."
     },
     {
       "description_ja": "",
